@@ -1,0 +1,148 @@
+IQ-TREE multicore version 2.4.0 for Linux x86 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    holy8a24502.rc.fas.harvard.edu (AVX512, FMA3, 1007 GB RAM)
+Command: /usr/local/bin/iqtree -m LG+G4 -s SUPERMATRIX.phylip -p SUPERMATRIX.partitions.nex -g ../constraint_tree_iqtree_species.tree -pre constrained_optimized -nt AUTO
+Seed:    352985 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jul  8 17:19:29 2025
+Kernel:  AVX+FMA - auto-detect threads (10 CPU cores detected)
+
+Reading partition model file SUPERMATRIX.partitions.nex ...
+Reading alignment file SUPERMATRIX.phylip ... Phylip format detected
+Alignment most likely contains protein sequences
+WARNING: 2 sites contain only gaps or ambiguous characters.
+Alignment has 124 sequences with 280959 columns, 259055 distinct patterns
+215037 parsimony-informative, 26882 singleton sites, 39040 constant sites
+                             Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.259263 secs using 97.27% CPU
+   1  Musca_domestica                8.16%    failed      0.00%
+   2  Thermobia_domestica           26.47%    failed      0.00%
+   3  Mantidae                      33.84%    failed      0.00%
+   4  Meloidae                      26.75%    failed      0.00%
+   5  Tomoceridae                   22.62%    failed      0.00%
+   6  Anurida_maritima              20.18%    failed      0.00%
+   7  Panorpidae                    28.29%    failed      0.00%
+   8  Gyrinidae                     29.04%    failed      0.00%
+   9  Epiophlebia_superstes         26.42%    failed      0.00%
+  10  Tenthredinidae                12.95%    failed      0.00%
+  11  Tetrodontophora_bielanensis   27.11%    failed      0.00%
+  12  Boreidae                      21.00%    failed      0.00%
+  13  Ctenocephalides_felis         28.05%    failed      0.00%
+  14  Forficula_auricularia         34.74%    failed      0.00%
+  15  Locusta_migratoria             6.67%    failed      0.00%
+  16  Trichogramma_evanescens       22.86%    failed      0.00%
+  17  Scolopendra_cingulata         38.17%    failed      0.00%
+  18  Triopsidae                    13.64%    failed      0.00%
+  19  Mayetiola_destructor           9.76%    failed      0.00%
+  20  Strigamia_maritima            13.23%    failed      0.00%
+  21  Lasius_niger                  29.81%    failed      0.00%
+  22  Blattella_germanica           34.70%    failed      0.00%
+  23  Armadillidium_vulgare         45.04%    failed      0.00%
+  24  Talitridae                    19.02%    failed      0.00%
+  25  Armadillidium_nasatum         37.99%    failed      0.00%
+  26  Nymphonidae                   37.16%    failed      0.00%
+  27  Gryllus_bimaculatus           12.70%    failed      0.00%
+  28  Chironomidae                   4.92%    failed      0.00%
+  29  Phalangium_opilio             13.56%    failed      0.00%
+  30  Acaridae                      16.36%    failed      0.00%
+  31  Clogmia_albipunctata           9.47%    failed      0.00%
+  32  Tribolium_confusum             5.91%    failed      0.00%
+  33  Lampyridae                     7.93%    failed      0.00%
+  34  Pyrrhocoris_apterus           10.89%    failed      0.00%
+  35  Simocephalus_vetulus           8.72%    failed      0.00%
+  36  Macrocentrus_cingulum          7.74%    failed      0.06%
+  37  Erebidae                       8.41%    failed      0.00%
+  38  Cytherideidae                 32.32%    failed      0.00%
+  39  Allacma_fusca                 11.42%    failed      0.00%
+  40  Acanthoscelides_obtectus      18.71%    failed      0.00%
+  41  Meganyctiphanes_norvegica     25.58%    failed      0.00%
+  42  Asellus_aquaticus             17.78%    failed      0.00%
+  43  Nymphalis_antiopa              5.19%    failed      0.00%
+  44  Epiphyas_postvittana           4.80%    failed      0.00%
+  45  Drosophila_melanogaster        4.20%    failed      0.00%
+  46  Tetranychus_urticae           15.13%    failed      0.00%
+  47  Parasteatoda_tepidariorum      6.38%    failed      0.00%
+  48  Leptinotarsa_decemlineata     14.35%    failed      0.00%
+  49  Limulus_polyphemus            26.31%    failed      0.00%
+  50  Copidosoma_floridanum          9.18%    failed      0.00%
+  51  Scarabaeidae                   5.44%    failed      0.00%
+  52  Aedes_aegypti                  7.56%    failed      0.01%
+  53  Sitophilus_oryzae              4.48%    failed      0.00%
+  54  Camponotus_floridanus          4.24%    failed      0.00%
+  55  Apis_mellifera                 2.96%    failed      0.00%
+  56  Drosophila_hydei               6.37%    failed      0.00%
+  57  Acyrthosiphon_pisum           12.19%    failed      0.00%
+  58  Nasonia_vitripennis            5.14%    failed      0.00%
+  59  Drosophila_busckii             5.46%    failed      0.00%
+  60  Bradysia_coprophila            4.99%    failed      0.00%
+  61  Macrobrachium_nipponense      14.17%    failed      0.00%
+  62  Penaeus_monodon               15.22%    failed      0.00%
+  63  Lucilia_sericata              10.08%    failed      0.00%
+  64  Culex_quinquefasciatus         6.28%    failed      0.00%
+  65  Bactrocera_tryoni              4.67%    failed      0.00%
+  66  Penaeus_japonicus              6.00%    failed      0.00%
+  67  Drosophila_willistoni          6.11%    failed      0.00%
+  68  Ichneumonidae                  3.19%    failed      0.00%
+  69  Parachela                     18.15%    failed      0.00%
+  70  Daphnia_magna                  8.54%    failed      0.00%
+  71  Helicoverpa_zea                3.07%    failed      0.00%
+  72  Schistocerca_gregaria          4.44%    failed      0.00%
+  73  Pectinophora_gossypiella       4.24%    failed      0.00%
+  74  Phlebotomus_papatasi           5.40%    failed      0.00%
+  75  Papilionidae                   2.22%    failed      0.00%
+  76  Bombyx_mori                    2.94%    failed      0.00%
+  77  Drosophila_virilis             5.89%    failed      0.00%
+  78  Tribolium_castaneum            2.91%    failed      0.00%
+  79  Artemiidae                    15.28%    failed      0.00%
+  80  Blattidae                      3.92%    failed      0.00%
+  81  Tettigoniidae                  5.13%    failed      0.00%
+  82  Penaeus_vannamei              12.09%    failed      0.00%
+  83  Pieris_rapae                   3.61%    failed      0.00%
+  84  Pararge_aegeria                3.02%    failed      0.00%
+  85  Athalia_rosae                  2.33%    failed      0.00%
+  86  Anopheles_gambiae              3.28%    failed      0.00%
+  87  Planococcus_citri             10.57%    failed      0.00%
+  88  Calliphora_vicina              3.21%    failed      0.00%
+  89  Stomoxys_calcitrans            3.36%    failed      0.00%
+  90  Tenebrio_molitor               3.52%    failed      0.00%
+  91  Diaptomidae                   30.11%    failed      0.00%
+  92  Inocellia_japonica            26.84%    failed      0.00%
+  93  Sialidae                      23.97%    failed      0.00%
+  94  Blissidae                     19.53%    failed      0.00%
+  95  Oncopeltus_fasciatus          23.53%    failed      0.00%
+  96  Phlaeothripidae               36.58%    failed      0.00%
+  97  Dytiscidae                    26.33%    failed      0.00%
+  98  Odontotaenius_disjunctus      31.92%    failed      0.00%
+  99  Hydrophilidae                 23.28%    failed      0.00%
+ 100  Carabidae                     19.21%    passed      8.41%
+ 101  Stenopsychidae                36.60%    failed      0.00%
+ 102  Rhodnius_prolixus              6.53%    failed      0.00%
+ 103  Icerya_purchasi               25.07%    failed      0.00%
+ 104  Hepialidae                    25.05%    failed      0.00%
+ 105  Scutigerellidae               28.02%    failed      0.00%
+ 106  Glomeridae                    23.85%    failed      0.00%
+ 107  Callosobruchus_maculatus      19.57%    failed      0.00%
+ 108  Antheraea_pernyi              35.81%    failed      0.00%
+ 109  Liposcelididae                19.48%    failed      0.00%
+ 110  Parhyale_hawaiensis           15.91%    failed      0.00%
+ 111  Sididae                       27.12%    failed      0.00%
+ 112  Gammaridae                    33.67%    failed      0.00%
+ 113  Acheta_domesticus             20.46%    failed      0.00%
+ 114  Palinuridae                   36.69%    failed      0.00%
+ 115  Pseudoscorpiones              31.71%    failed      0.00%
+ 116  Leptocheliidae                39.31%    failed      0.00%
+ 117  Calanidae                     17.41%    failed      0.00%
+ 118  Amblypygi                     42.90%    failed      0.00%
+ 119  Euscorpiidae                  25.17%    failed      0.00%
+ 120  Mysidae                       28.07%    failed      0.00%
+ 121  Peripatopsidae                10.22%    failed      0.00%
+ 122  Peripatidae                   15.56%    failed      0.00%
+ 123  Machilidae                    23.23%    failed      0.00%
+ 124  Agelenidae                    29.72%    failed      0.00%
+****  TOTAL                         16.79%  123 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: No CharPartition defined, use all CharSets
+
+Loading 934 partitions...
+Reading alignment file SUPERMATRIX.phylip ... Phylip format detected
+Alignment most likely contains protein sequences

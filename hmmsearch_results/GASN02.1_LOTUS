@@ -1,0 +1,20 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GASN02.1;GASN02051032.1.p1 -           1234 oskar_filtered.aligned.LOTUS_domain -            101     2e-32  111.2   1.8   1   5   4.2e-19   3.1e-15   56.0   0.0    13   101     7    97     3    97 0.90 GENE.GASN02051032.1~~GASN02051032.1.p1  ORF type:complete (-),score=234.36 len:1233 GASN02051032.1:360-4061(-)
+GASN02.1;GASN02051032.1.p1 -           1234 oskar_filtered.aligned.LOTUS_domain -            101     2e-32  111.2   1.8   2   5   7.2e-06     0.052   13.5   0.0    17    70   182   234   171   262 0.83 GENE.GASN02051032.1~~GASN02051032.1.p1  ORF type:complete (-),score=234.36 len:1233 GASN02051032.1:360-4061(-)
+GASN02.1;GASN02051032.1.p1 -           1234 oskar_filtered.aligned.LOTUS_domain -            101     2e-32  111.2   1.8   3   5   4.2e-08    0.0003   20.7   0.0    15    70   411   466   404   478 0.92 GENE.GASN02051032.1~~GASN02051032.1.p1  ORF type:complete (-),score=234.36 len:1233 GASN02051032.1:360-4061(-)
+GASN02.1;GASN02051032.1.p1 -           1234 oskar_filtered.aligned.LOTUS_domain -            101     2e-32  111.2   1.8   4   5   1.6e-06     0.012   15.6   0.0    16    85   510   577   500   585 0.87 GENE.GASN02051032.1~~GASN02051032.1.p1  ORF type:complete (-),score=234.36 len:1233 GASN02051032.1:360-4061(-)
+GASN02.1;GASN02051032.1.p1 -           1234 oskar_filtered.aligned.LOTUS_domain -            101     2e-32  111.2   1.8   5   5         1   7.5e+03   -3.0   0.0    45    93   834   883   832   885 0.69 GENE.GASN02051032.1~~GASN02051032.1.p1  ORF type:complete (-),score=234.36 len:1233 GASN02051032.1:360-4061(-)
+GASN02.1;GASN02050928.1.p1 -           1118 oskar_filtered.aligned.LOTUS_domain -            101   5.7e-20   71.2   0.0   1   2   4.9e-23   3.5e-19   68.6   0.0    11   100     6    94     3    95 0.94 GENE.GASN02050928.1~~GASN02050928.1.p1  ORF type:complete (-),score=193.45 len:1117 GASN02050928.1:362-3715(-)
+GASN02.1;GASN02050928.1.p1 -           1118 oskar_filtered.aligned.LOTUS_domain -            101   5.7e-20   71.2   0.0   2   2      0.29   2.1e+03   -1.3   0.0    27    56   378   407   362   411 0.77 GENE.GASN02050928.1~~GASN02050928.1.p1  ORF type:complete (-),score=193.45 len:1117 GASN02050928.1:362-3715(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GASN02.1/GASN02.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GASN02.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GASN02.1/GASN02.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

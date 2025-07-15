@@ -1,0 +1,16 @@
+#                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GDMS01.1;GDMS01039253.1.p1 -            284 oskar_filtered.aligned.OSK_domain -            187   1.8e-27   95.9   1.6   1   1   4.9e-31   2.3e-27   95.5   1.6     3   156    90   249    88   277 0.89 GENE.GDMS01039253.1~~GDMS01039253.1.p1  ORF type:complete (-),score=24.52 len:283 GDMS01039253.1:50-901(-)
+GDMS01.1;GDMS01030294.1.p1 -            297 oskar_filtered.aligned.OSK_domain -            187   8.4e-25   87.2   0.1   1   1   2.6e-28   1.3e-24   86.6   0.1     2   156   103   260   102   281 0.90 GENE.GDMS01030294.1~~GDMS01030294.1.p1  ORF type:complete (+),score=40.55 len:296 GDMS01030294.1:21-911(+)
+GDMS01.1;GDMS01021811.1.p1 -            127 oskar_filtered.aligned.OSK_domain -            187     1e-11   44.5   0.0   1   1   2.3e-15   1.1e-11   44.4   0.0    64   155     1    90     1   118 0.88 GENE.GDMS01021811.1~~GDMS01021811.1.p1  ORF type:complete (+),score=26.71 len:126 GDMS01021811.1:14-394(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GDMS01.1/GDMS01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GDMS01.1_OSK -E .05 OSK_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GDMS01.1/GDMS01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

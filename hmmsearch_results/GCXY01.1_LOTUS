@@ -1,0 +1,24 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCXY01.1;GCXY01043250.1.p1 -            979 oskar_filtered.aligned.LOTUS_domain -            101   1.5e-19   69.6   3.2   1   3   2.4e-22   9.1e-19   67.0   0.4     7   100     3    95     1    96 0.92 GENE.GCXY01043250.1~~GCXY01043250.1.p1  ORF type:complete (+),score=195.15 len:978 GCXY01043250.1:120-3056(+)
+GCXY01.1;GCXY01043250.1.p1 -            979 oskar_filtered.aligned.LOTUS_domain -            101   1.5e-19   69.6   3.2   2   3      0.13     5e+02    0.4   0.0    19    51   456   487   447   492 0.82 GENE.GCXY01043250.1~~GCXY01043250.1.p1  ORF type:complete (+),score=195.15 len:978 GCXY01043250.1:120-3056(+)
+GCXY01.1;GCXY01043250.1.p1 -            979 oskar_filtered.aligned.LOTUS_domain -            101   1.5e-19   69.6   3.2   3   3      0.27     1e+03   -0.6   0.0    53    94   763   805   745   808 0.72 GENE.GCXY01043250.1~~GCXY01043250.1.p1  ORF type:complete (+),score=195.15 len:978 GCXY01043250.1:120-3056(+)
+GCXY01.1;GCXY01042875.1.p1 -            929 oskar_filtered.aligned.LOTUS_domain -            101     2e-09   37.0   0.0   1   6         2   7.6e+03   -3.4   0.0    66    88   236   259   228   262 0.73 GENE.GCXY01042875.1~~GCXY01042875.1.p1  ORF type:complete (+),score=204.79 len:928 GCXY01042875.1:247-3033(+)
+GCXY01.1;GCXY01042875.1.p1 -            929 oskar_filtered.aligned.LOTUS_domain -            101     2e-09   37.0   0.0   2   6       1.3   4.9e+03   -2.8   0.0    24    48   315   338   305   365 0.75 GENE.GCXY01042875.1~~GCXY01042875.1.p1  ORF type:complete (+),score=204.79 len:928 GCXY01042875.1:247-3033(+)
+GCXY01.1;GCXY01042875.1.p1 -            929 oskar_filtered.aligned.LOTUS_domain -            101     2e-09   37.0   0.0   3   6   0.00085       3.2    7.4   0.0    35    86   418   470   402   478 0.83 GENE.GCXY01042875.1~~GCXY01042875.1.p1  ORF type:complete (+),score=204.79 len:928 GCXY01042875.1:247-3033(+)
+GCXY01.1;GCXY01042875.1.p1 -            929 oskar_filtered.aligned.LOTUS_domain -            101     2e-09   37.0   0.0   4   6   0.00083       3.2    7.5   0.0    14   100   473   557   465   558 0.80 GENE.GCXY01042875.1~~GCXY01042875.1.p1  ORF type:complete (+),score=204.79 len:928 GCXY01042875.1:247-3033(+)
+GCXY01.1;GCXY01042875.1.p1 -            929 oskar_filtered.aligned.LOTUS_domain -            101     2e-09   37.0   0.0   5   6     8e-06      0.03   14.0   0.0    19    95   586   662   574   666 0.89 GENE.GCXY01042875.1~~GCXY01042875.1.p1  ORF type:complete (+),score=204.79 len:928 GCXY01042875.1:247-3033(+)
+GCXY01.1;GCXY01042875.1.p1 -            929 oskar_filtered.aligned.LOTUS_domain -            101     2e-09   37.0   0.0   6   6     0.057   2.2e+02    1.6   0.0    85    85   719   719   653   795 0.56 GENE.GCXY01042875.1~~GCXY01042875.1.p1  ORF type:complete (+),score=204.79 len:928 GCXY01042875.1:247-3033(+)
+GCXY01.1;GCXY01047252.1.p1 -            872 oskar_filtered.aligned.LOTUS_domain -            101      0.02   14.5   0.0   1   2     0.097   3.7e+02    0.8   0.0    17    72   131   185   122   208 0.85 GENE.GCXY01047252.1~~GCXY01047252.1.p1  ORF type:complete (+),score=170.08 len:871 GCXY01047252.1:470-3085(+)
+GCXY01.1;GCXY01047252.1.p1 -            872 oskar_filtered.aligned.LOTUS_domain -            101      0.02   14.5   0.0   2   2   0.00014      0.54   10.0   0.0    30    82   232   284   221   293 0.89 GENE.GCXY01047252.1~~GCXY01047252.1.p1  ORF type:complete (+),score=170.08 len:871 GCXY01047252.1:470-3085(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GCXY01.1/GCXY01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GCXY01.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GCXY01.1/GCXY01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:06 2025
+# [ok]

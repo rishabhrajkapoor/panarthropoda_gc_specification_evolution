@@ -1,0 +1,20 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+KAG5673479.1         -            943 oskar_filtered.aligned.LOTUS_domain -            101     3e-08   33.8   3.6   1   2   5.3e-10   3.2e-06   27.4   0.1    14    71     7    61     3    87 0.76 -
+KAG5673479.1         -            943 oskar_filtered.aligned.LOTUS_domain -            101     3e-08   33.8   3.6   2   2    0.0076        45    4.4   0.9    42    98   518   580   488   582 0.79 -
+KAG5682646.1         -            366 oskar_filtered.aligned.LOTUS_domain -            101   8.5e-05   22.8   1.0   1   2   1.4e-08   8.5e-05   22.8   1.0     8    98    10   101     5   103 0.82 -
+KAG5682646.1         -            366 oskar_filtered.aligned.LOTUS_domain -            101   8.5e-05   22.8   1.0   2   2      0.13   7.7e+02    0.4   0.4    37    89   255   305   225   318 0.66 -
+KAG5683032.1         -            408 oskar_filtered.aligned.LOTUS_domain -            101     0.012   15.9   0.8   1   3    0.0053        32    4.9   0.1    35    56   208   229   196   238 0.83 -
+KAG5683032.1         -            408 oskar_filtered.aligned.LOTUS_domain -            101     0.012   15.9   0.8   2   3    0.0049        29    5.0   0.0    29    51   288   308   276   317 0.74 -
+KAG5683032.1         -            408 oskar_filtered.aligned.LOTUS_domain -            101     0.012   15.9   0.8   3   3     0.068   4.1e+02    1.3   0.0    19    51   353   383   343   395 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     ../ncbi_dataset/data/GCA_018290095.1/protein_longest.faa
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GCA_018290095.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm ../ncbi_dataset/data/GCA_018290095.1/protein_longest.faa 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

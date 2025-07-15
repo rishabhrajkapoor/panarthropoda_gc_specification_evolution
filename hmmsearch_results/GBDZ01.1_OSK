@@ -1,0 +1,14 @@
+#                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GBDZ01.1;GBDZ01018146.1.p1 -            245 oskar_filtered.aligned.OSK_domain -            187     8e-30  103.1   0.1   1   1   9.8e-34     1e-29  102.8   0.1     1   184    52   236    52   239 0.88 GENE.GBDZ01018146.1~~GBDZ01018146.1.p1  ORF type:complete (+),score=33.46 len:244 GBDZ01018146.1:136-870(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GBDZ01.1/GBDZ01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GBDZ01.1_OSK -E .05 OSK_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GBDZ01.1/GBDZ01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

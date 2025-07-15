@@ -1,0 +1,14 @@
+#                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCTV01.1;GCTV01004471.1.p1 -            226 oskar_filtered.aligned.OSK_domain -            187    0.0022   16.7   0.1   1   1   3.1e-07    0.0027   16.4   0.1    42   155    71   188    37   212 0.83 GENE.GCTV01004471.1~~GCTV01004471.1.p1  ORF type:complete (-),score=34.31 len:225 GCTV01004471.1:363-1040(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GCTV01.1/GCTV01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GCTV01.1_OSK -E .05 OSK_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GCTV01.1/GCTV01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:08 2025
+# [ok]

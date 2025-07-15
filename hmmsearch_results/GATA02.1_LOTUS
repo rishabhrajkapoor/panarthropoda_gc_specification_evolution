@@ -1,0 +1,25 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GATA02.1;GATA02012935.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   1   6    0.0086        36    3.6   0.2    41    96    12    70     2    73 0.78 GENE.GATA02012935.1~~GATA02012935.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012935.1:1117-3156(-)
+GATA02.1;GATA02012935.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   2   6   0.00046       1.9    7.7   0.0    32    85   108   161    93   171 0.80 GENE.GATA02012935.1~~GATA02012935.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012935.1:1117-3156(-)
+GATA02.1;GATA02012935.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   3   6    0.0005       2.1    7.6   1.5    33    96   185   249   167   254 0.78 GENE.GATA02012935.1~~GATA02012935.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012935.1:1117-3156(-)
+GATA02.1;GATA02012935.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   4   6     0.011        47    3.3   0.0    38    75   275   312   241   331 0.75 GENE.GATA02012935.1~~GATA02012935.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012935.1:1117-3156(-)
+GATA02.1;GATA02012935.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   5   6   3.8e-05      0.16   11.2   0.0     8    76   322   390   316   404 0.84 GENE.GATA02012935.1~~GATA02012935.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012935.1:1117-3156(-)
+GATA02.1;GATA02012935.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   6   6    0.0014       5.7    6.2   1.4    20    71   470   520   451   535 0.79 GENE.GATA02012935.1~~GATA02012935.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012935.1:1117-3156(-)
+GATA02.1;GATA02012936.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   1   6    0.0086        36    3.6   0.2    41    96    12    70     2    73 0.78 GENE.GATA02012936.1~~GATA02012936.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012936.1:1204-3243(-)
+GATA02.1;GATA02012936.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   2   6   0.00046       1.9    7.7   0.0    32    85   108   161    93   171 0.80 GENE.GATA02012936.1~~GATA02012936.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012936.1:1204-3243(-)
+GATA02.1;GATA02012936.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   3   6    0.0005       2.1    7.6   1.5    33    96   185   249   167   254 0.78 GENE.GATA02012936.1~~GATA02012936.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012936.1:1204-3243(-)
+GATA02.1;GATA02012936.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   4   6     0.011        47    3.3   0.0    38    75   275   312   241   331 0.75 GENE.GATA02012936.1~~GATA02012936.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012936.1:1204-3243(-)
+GATA02.1;GATA02012936.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   5   6   3.8e-05      0.16   11.2   0.0     8    76   322   390   316   404 0.84 GENE.GATA02012936.1~~GATA02012936.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012936.1:1204-3243(-)
+GATA02.1;GATA02012936.1.p1 -            680 oskar_filtered.aligned.LOTUS_domain -            101   2.6e-08   33.0  18.4   6   6    0.0014       5.7    6.2   1.4    20    71   470   520   451   535 0.79 GENE.GATA02012936.1~~GATA02012936.1.p1  ORF type:complete (-),score=244.28 len:679 GATA02012936.1:1204-3243(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GATA02.1/GATA02.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GATA02.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GATA02.1/GATA02.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:08 2025
+# [ok]

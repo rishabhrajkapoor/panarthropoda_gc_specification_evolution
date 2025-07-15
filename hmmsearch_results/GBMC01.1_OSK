@@ -1,0 +1,17 @@
+#                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GBMC01.1;GBMC01011982.1.p1 -            375 oskar_filtered.aligned.OSK_domain -            187     3e-54  182.6   0.6   1   2      0.22     1e+03   -1.7   0.1   179   179    63    63     4   141 0.57 GENE.GBMC01011982.1~~GBMC01011982.1.p1  ORF type:complete (+),score=43.29 len:374 GBMC01011982.1:66-1190(+)
+GBMC01.1;GBMC01011982.1.p1 -            375 oskar_filtered.aligned.OSK_domain -            187     3e-54  182.6   0.6   2   2   6.3e-58     3e-54  182.6   0.6     1   184   180   371   180   373 0.97 GENE.GBMC01011982.1~~GBMC01011982.1.p1  ORF type:complete (+),score=43.29 len:374 GBMC01011982.1:66-1190(+)
+GBMC01.1;GBMC01018625.1.p2 -            701 oskar_filtered.aligned.OSK_domain -            187     0.041   12.6   2.5   1   2   0.00028       1.3    7.7   0.1    83   151   196   275   191   410 0.75 GENE.GBMC01018625.1~~GBMC01018625.1.p2  ORF type:complete (+),score=122.36 len:700 GBMC01018625.1:82-2184(+)
+GBMC01.1;GBMC01018625.1.p2 -            701 oskar_filtered.aligned.OSK_domain -            187     0.041   12.6   2.5   2   2    0.0033        16    4.2   0.5    73   168   541   656   483   693 0.72 GENE.GBMC01018625.1~~GBMC01018625.1.p2  ORF type:complete (+),score=122.36 len:700 GBMC01018625.1:82-2184(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GBMC01.1/GBMC01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GBMC01.1_OSK -E .05 OSK_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GBMC01.1/GBMC01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

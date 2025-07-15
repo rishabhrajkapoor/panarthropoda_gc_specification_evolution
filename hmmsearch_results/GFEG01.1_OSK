@@ -1,0 +1,17 @@
+#                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GFEG01.1;GFEG01041857.1.p1 -            235 oskar_filtered.aligned.OSK_domain -            187     0.011   15.0   6.9   1   4   9.9e-05       1.4    8.2   0.1    24    49    29    54    21    71 0.82 GENE.GFEG01041857.1~~GFEG01041857.1.p1  ORF type:complete (+),score=5.89 len:234 GFEG01041857.1:645-1349(+)
+GFEG01.1;GFEG01041857.1.p1 -            235 oskar_filtered.aligned.OSK_domain -            187     0.011   15.0   6.9   2   4    0.0008        11    5.2   0.1    19    43    78   104    74   110 0.77 GENE.GFEG01041857.1~~GFEG01041857.1.p1  ORF type:complete (+),score=5.89 len:234 GFEG01041857.1:645-1349(+)
+GFEG01.1;GFEG01041857.1.p1 -            235 oskar_filtered.aligned.OSK_domain -            187     0.011   15.0   6.9   3   4    0.0089   1.2e+02    1.8   0.0    23    53   112   142   103   155 0.80 GENE.GFEG01041857.1~~GFEG01041857.1.p1  ORF type:complete (+),score=5.89 len:234 GFEG01041857.1:645-1349(+)
+GFEG01.1;GFEG01041857.1.p1 -            235 oskar_filtered.aligned.OSK_domain -            187     0.011   15.0   6.9   4   4     0.026   3.6e+02    0.3   0.0    25    44   198   217   188   223 0.80 GENE.GFEG01041857.1~~GFEG01041857.1.p1  ORF type:complete (+),score=5.89 len:234 GFEG01041857.1:645-1349(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GFEG01.1/GFEG01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GFEG01.1_OSK -E .05 OSK_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GFEG01.1/GFEG01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:09 2025
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+XP_030756731.1       -           1280 oskar_filtered.aligned.LOTUS_domain -            101   2.4e-21   75.7   1.3   1   3   6.9e-19   1.7e-15   56.8   0.0    13   100     4    91     1    92 0.90 -
+XP_030756731.1       -           1280 oskar_filtered.aligned.LOTUS_domain -            101   2.4e-21   75.7   1.3   2   3     4e-06      0.01   15.9   0.1    15    70   243   297   231   306 0.91 -
+XP_030756731.1       -           1280 oskar_filtered.aligned.LOTUS_domain -            101   2.4e-21   75.7   1.3   3   3       1.2     3e+03   -1.7   0.4    68    92   982  1006   917  1016 0.65 -
+XP_030756107.1       -            360 oskar_filtered.aligned.LOTUS_domain -            101   1.1e-20   73.5   0.1   1   1   1.1e-23   2.6e-20   72.3   0.1     8   101     5    98     1    98 0.96 -
+XP_030754593.1       -           1115 oskar_filtered.aligned.LOTUS_domain -            101   6.9e-16   58.1   0.0   1   1   2.6e-18   6.6e-15   55.0   0.0    11   100     5    93     1    94 0.85 -
+XP_030758757.1       -           1395 oskar_filtered.aligned.LOTUS_domain -            101   7.5e-05   22.7   1.4   1   5       1.5   3.8e+03   -2.0   0.0    30    76   681   726   665   739 0.74 -
+XP_030758757.1       -           1395 oskar_filtered.aligned.LOTUS_domain -            101   7.5e-05   22.7   1.4   2   5     0.071   1.8e+02    2.2   0.0    24    73   768   817   756   836 0.84 -
+XP_030758757.1       -           1395 oskar_filtered.aligned.LOTUS_domain -            101   7.5e-05   22.7   1.4   3   5    0.0076        19    5.4   0.0    18    97   838   918   825   922 0.78 -
+XP_030758757.1       -           1395 oskar_filtered.aligned.LOTUS_domain -            101   7.5e-05   22.7   1.4   4   5     0.065   1.6e+02    2.4   0.0    42    85   948   992   938  1006 0.83 -
+XP_030758757.1       -           1395 oskar_filtered.aligned.LOTUS_domain -            101   7.5e-05   22.7   1.4   5   5    0.0037       9.2    6.4   0.3    24    99  1147  1221  1139  1223 0.83 -
+XP_030751215.1       -            621 oskar_filtered.aligned.LOTUS_domain -            101     0.015   15.4   0.6   1   1   1.7e-05     0.042   13.9   0.6    35    79   217   261   206   266 0.86 -
+XP_030750598.1       -            826 oskar_filtered.aligned.LOTUS_domain -            101     0.037   14.1   0.8   1   2   0.00013      0.33   11.0   0.5    40    63   100   123    56   147 0.74 -
+XP_030750598.1       -            826 oskar_filtered.aligned.LOTUS_domain -            101     0.037   14.1   0.8   2   2      0.23   5.7e+02    0.6   0.0    40    95   128   182   122   185 0.80 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     ../ncbi_dataset/data/GCF_002938485.1/protein_longest.faa
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GCF_002938485.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm ../ncbi_dataset/data/GCF_002938485.1/protein_longest.faa 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:06 2025
+# [ok]

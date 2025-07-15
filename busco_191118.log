@@ -1,0 +1,25 @@
+2025-07-14 22:59:42 DEBUG:busco.run_BUSCO	Command line: /usr/local/bin/busco -i ncbi_dataset/data/GCA_022818195.1/protein_longest.faa -l arthropoda_odb12 -c 50 -m prot -f -o ./BUSCO_outputs/GCA_022818195.1 --offline
+2025-07-14 22:59:42 INFO:busco.run_BUSCO	***** Start a BUSCO v5.8.3 analysis, current time: 07/14/2025 22:59:42 *****
+2025-07-14 22:59:42 DEBUG:busco.ConfigManager	Getting config file
+2025-07-14 22:59:42 INFO:busco.ConfigManager	Configuring BUSCO with local environment
+2025-07-14 22:59:42 INFO:busco.BuscoConfig	Running proteins mode
+2025-07-14 22:59:42 ERROR:busco.BuscoRunner	Input ncbi_dataset/data/GCA_022818195.1/protein_longest.faa does not exist
+2025-07-14 22:59:42 DEBUG:busco.BuscoRunner	Input ncbi_dataset/data/GCA_022818195.1/protein_longest.faa does not exist
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/busco/run_BUSCO.py", line 68, in run
+    self.load_config()
+  File "/usr/local/lib/python3.12/site-packages/busco/run_BUSCO.py", line 60, in load_config
+    self.config_manager.load_busco_config_main()
+  File "/usr/local/lib/python3.12/site-packages/busco/BuscoLogger.py", line 62, in wrapped_func
+    self.retval = func(*args, **kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/busco/ConfigManager.py", line 63, in load_busco_config_main
+    self.config_main.validate()
+  File "/usr/local/lib/python3.12/site-packages/busco/BuscoConfig.py", line 661, in validate
+    self._check_required_input_exists()
+  File "/usr/local/lib/python3.12/site-packages/busco/BuscoConfig.py", line 839, in _check_required_input_exists
+    raise BatchFatalError(
+busco.Exceptions.BatchFatalError: Input ncbi_dataset/data/GCA_022818195.1/protein_longest.faa does not exist
+2025-07-14 22:59:42 ERROR:busco.BuscoRunner	BUSCO analysis failed!
+2025-07-14 22:59:42 ERROR:busco.BuscoRunner	Check the logs, read the user guide (https://busco.ezlab.org/busco_userguide.html), and check the BUSCO issue board on https://gitlab.com/ezlab/busco/issues
+

@@ -1,0 +1,23 @@
+Node	Spanning set	Min	Max	Source	Primary
+Panarthropoda	Parachela|Drosophila_virilis 	528.82	636.1	Howard et al. 2022	
+Holometabola	Liposcelididae|Camponotus_floridanus 	306.9	450	Misof et al. 2014	
+Chelicerata	Nymphonidae|Parasteatoda_tepidariorum 	509	636.1	Howard et al. 2022	
+Euchelicerata	Pseudoscorpiones|Parasteatoda_tepidariorum 	500.5	636.1	Howard et al. 2022	
+Arachnopulmonata	Euscorpiidae|Parasteatoda_tepidariorum 	435.15	514	Howard et al. 2022	
+Pterygota	Epiophlebia_superstes|Drosophila_virilis 	324	450	Misof et al. 2014	
+Dicondylia	Thermobia_domestica|Drosophila_virilis	411.5	450	Misof et al. 2014	
+Thysanoptera + Hemiptera	Phlaeothripidae|Rhodnius_prolixus	207	450	Misof et al. 2014	
+Hymenoptera	Tenthredinidae|Camponotus_floridanus  	221	450	Misof et al. 2014	
+Formicidae + Apidae	Camponotus_floridanus|Apis_mellifera	89.8	221	Misof et al. 2014	
+Gyrinidae +  Carabidae	Gyrinidae|Carabidae	205.6	306	Misof et al. 2014	
+Tenebrionidae + Curculionidae 	Sitophilus_oryzae|Tribolium_castaneum	207	306	Misof et al. 2014	
+Lepidoptera	Hepialidae|Bombyx_mori	112	306.9	Misof et al. 2014	
+Papilionoidea	Papilionidae|Pararge_aegeria	34.07	112	Misof et al. 2014	
+Siphonaptera and Mecoptera 	Ctenocephalides_felis|Boreidae	160.5	306.9	Misof et al. 2014	
+Diptera	Phlebotomus_papatasi|Drosophila_virilis	230	306.9	Wiegmann et al. 2011	
+Schizophora 	Bactrocera_tryoni|Drosophila_virilis 	64	230	Wiegmann et al. 2011	
+Sciaroidea 	Bradysia_coprophila|Mayetiola_destructor	180	230	Wiegmann et al. 2011	
+Arthropoda	Limulus_polyphemus|Drosophila_virilis	514	636.1	Bernot et al. 2023	
+Branchiopoda	Triopsidae|Daphnia_magna 	405	521	Bernot et al. 2023	
+Collembola	Tomoceridae|Tetrodontophora_bielanensis	405	521	Bernot et al. 2023	
+Peracarida	Gammaridae|Armadillidium_nasatum	358.2	521	Bernot et al. 2023	

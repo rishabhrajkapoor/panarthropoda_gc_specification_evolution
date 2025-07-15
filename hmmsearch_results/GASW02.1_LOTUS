@@ -1,0 +1,15 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GASW02.1;GASW02017966.1.p1 -            181 oskar_filtered.aligned.LOTUS_domain -            101     0.023   13.8   0.0   1   2   1.1e-05     0.086   12.0   0.0    52   100    60   109    20   110 0.91 GENE.GASW02017966.1~~GASW02017966.1.p1  ORF type:complete (-),score=37.63 len:180 GASW02017966.1:129-671(-)
+GASW02.1;GASW02017966.1.p1 -            181 oskar_filtered.aligned.LOTUS_domain -            101     0.023   13.8   0.0   2   2      0.11   8.6e+02   -0.9   0.0    18    46   147   175   133   180 0.69 GENE.GASW02017966.1~~GASW02017966.1.p1  ORF type:complete (-),score=37.63 len:180 GASW02017966.1:129-671(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GASW02.1/GASW02.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GASW02.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GASW02.1/GASW02.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:08 2025
+# [ok]

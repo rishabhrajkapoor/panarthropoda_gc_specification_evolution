@@ -1,0 +1,22 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GDRS01.1;GDRS01002278.1.p1 -            450 oskar_filtered.aligned.LOTUS_domain -            101   3.3e-21   74.2   0.2   1   2     1e-23   3.7e-20   70.8   0.0    20   100     7    81     1    82 0.95 GENE.GDRS01002278.1~~GDRS01002278.1.p1  ORF type:complete (-),score=63.20 len:449 GDRS01002278.1:423-1772(-)
+GDRS01.1;GDRS01002278.1.p1 -            450 oskar_filtered.aligned.LOTUS_domain -            101   3.3e-21   74.2   0.2   2   2      0.13   4.9e+02   -0.2   0.3    60    88   382   407   374   411 0.82 GENE.GDRS01002278.1~~GDRS01002278.1.p1  ORF type:complete (-),score=63.20 len:449 GDRS01002278.1:423-1772(-)
+GDRS01.1;GDRS01003267.1.p1 -            668 oskar_filtered.aligned.LOTUS_domain -            101   1.8e-08   33.3   0.0   1   7      0.85   3.1e+03   -2.7   0.0    27    38    60    71    27    84 0.61 GENE.GDRS01003267.1~~GDRS01003267.1.p1  ORF type:complete (-),score=105.60 len:667 GDRS01003267.1:1305-3308(-)
+GDRS01.1;GDRS01003267.1.p1 -            668 oskar_filtered.aligned.LOTUS_domain -            101   1.8e-08   33.3   0.0   2   7     0.027        99    2.1   0.0    32    84   139   191   124   205 0.80 GENE.GDRS01003267.1~~GDRS01003267.1.p1  ORF type:complete (-),score=105.60 len:667 GDRS01003267.1:1305-3308(-)
+GDRS01.1;GDRS01003267.1.p1 -            668 oskar_filtered.aligned.LOTUS_domain -            101   1.8e-08   33.3   0.0   3   7     0.026        95    2.1   0.0    13    66   196   249   187   259 0.83 GENE.GDRS01003267.1~~GDRS01003267.1.p1  ORF type:complete (-),score=105.60 len:667 GDRS01003267.1:1305-3308(-)
+GDRS01.1;GDRS01003267.1.p1 -            668 oskar_filtered.aligned.LOTUS_domain -            101   1.8e-08   33.3   0.0   4   7      0.05   1.9e+02    1.2   0.0    41    85   306   351   289   359 0.84 GENE.GDRS01003267.1~~GDRS01003267.1.p1  ORF type:complete (-),score=105.60 len:667 GDRS01003267.1:1305-3308(-)
+GDRS01.1;GDRS01003267.1.p1 -            668 oskar_filtered.aligned.LOTUS_domain -            101   1.8e-08   33.3   0.0   5   7   0.00051       1.9    7.6   0.0    35    73   372   410   368   425 0.86 GENE.GDRS01003267.1~~GDRS01003267.1.p1  ORF type:complete (-),score=105.60 len:667 GDRS01003267.1:1305-3308(-)
+GDRS01.1;GDRS01003267.1.p1 -            668 oskar_filtered.aligned.LOTUS_domain -            101   1.8e-08   33.3   0.0   6   7       0.8   2.9e+03   -2.7   0.0    29    59   477   507   475   513 0.72 GENE.GDRS01003267.1~~GDRS01003267.1.p1  ORF type:complete (-),score=105.60 len:667 GDRS01003267.1:1305-3308(-)
+GDRS01.1;GDRS01003267.1.p1 -            668 oskar_filtered.aligned.LOTUS_domain -            101   1.8e-08   33.3   0.0   7   7   2.3e-05     0.084   11.9   0.0    27    71   531   575   524   583 0.88 GENE.GDRS01003267.1~~GDRS01003267.1.p1  ORF type:complete (-),score=105.60 len:667 GDRS01003267.1:1305-3308(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GDRS01.1/GDRS01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GDRS01.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GDRS01.1/GDRS01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:08 2025
+# [ok]

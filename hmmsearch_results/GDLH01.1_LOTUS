@@ -1,0 +1,15 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GDLH01.1;GDLH01026511.1.p1 -            855 oskar_filtered.aligned.LOTUS_domain -            101   3.4e-21   74.4   0.0   1   2   3.2e-22   2.8e-18   65.1   0.0    13   100     3    90     1    91 0.94 GENE.GDLH01026511.1~~GDLH01026511.1.p1  ORF type:complete (-),score=129.44 len:854 GDLH01026511.1:620-3184(-)
+GDLH01.1;GDLH01026511.1.p1 -            855 oskar_filtered.aligned.LOTUS_domain -            101   3.4e-21   74.4   0.0   2   2    0.0011       9.5    5.6   0.0    17    70   365   417   354   444 0.89 GENE.GDLH01026511.1~~GDLH01026511.1.p1  ORF type:complete (-),score=129.44 len:854 GDLH01026511.1:620-3184(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GDLH01.1/GDLH01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GDLH01.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GDLH01.1/GDLH01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

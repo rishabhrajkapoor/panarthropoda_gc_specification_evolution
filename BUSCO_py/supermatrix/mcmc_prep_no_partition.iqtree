@@ -1,0 +1,351 @@
+IQ-TREE 3.0.1 built May  5 2025
+
+Input file name: SUPERMATRIX.phylip
+User tree file name: fossil_rooted_constrained_optimized.treefile
+Type of analysis: tree reconstruction
+Random seed number: 46920
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Please also cite the following paper(s) for the feature(s) that you used:
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 124 sequences with 280959 amino-acid sites
+Number of constant sites: 39040 (= 13.8953% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 39040 (= 13.8953% of all sites)
+Number of parsimony informative sites: 215037
+Number of distinct site patterns: 259055
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.6648
+
+ Category  Relative_rate  Proportion
+  1         0.0667         0.2500
+  2         0.3465         0.2500
+  3         0.9111         0.2500
+  4         2.6758         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+USER TREE
+---------
+
+Log-likelihood of the tree: -21658041.4238 (s.e. 34106.9864)
+Unconstrained log-likelihood (without tree): -3479349.2094
+Number of free parameters (#branches + #model parameters): 246
+Akaike information criterion (AIC) score: 43316574.8476
+Corrected Akaike information criterion (AICc) score: 43316575.2805
+Bayesian information criterion (BIC) score: 43319169.1548
+
+Total tree length (sum of branch lengths): 33.1871
+Sum of internal branch lengths: 8.9014 (26.8218% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Musca_domestica' is drawn at root
+
++--Musca_domestica
+|
+|                                            +-----Thermobia_domestica
+|                                         +--| ('>4.115<4.5')
+|                                         |  |                +-----Tomoceridae
+|                                         |  |     +----------| ('>4.05<5.21')
+|                                         |  |     |          |     +-------Anurida_maritima
+|                                         |  |     |          |  +--|
+|                                         |  |     |          |  |  +------Tetrodontophora_bielanensis
+|                                         |  |     |          +--|
+|                                         |  |     |             +-------Allacma_fusca
+|                                         |  |  +--|
+|                                         |  |  |  |                 +-----Scolopendra_cingulata
+|                                         |  |  |  |              +--|
+|                                         |  |  |  |              |  +------Strigamia_maritima
+|                                         |  |  |  |           +--|
+|                                         |  |  |  |           |  |  +---------Scutigerellidae
+|                                         |  |  |  |           |  +--|
+|                                         |  |  |  |           |     +--------Glomeridae
+|                                         |  |  |  |        +--|
+|                                         |  |  |  |        |  |     +-------------Nymphonidae
+|                                         |  |  |  |        |  |  +--| ('>5.09<6.361000000000001')
+|                                         |  |  |  |        |  |  |  |     +--------Phalangium_opilio
+|                                         |  |  |  |        |  |  |  |  +--|
+|                                         |  |  |  |        |  |  |  |  |  |             +---Parasteatoda_tepidariorum
+|                                         |  |  |  |        |  |  |  |  |  |        +----|
+|                                         |  |  |  |        |  |  |  |  |  |        |    +---Agelenidae
+|                                         |  |  |  |        |  |  |  |  |  |     +--|
+|                                         |  |  |  |        |  |  |  |  |  |     |  +----Amblypygi
+|                                         |  |  |  |        |  |  |  |  |  |  +--| ('>4.3515<5.14')
+|                                         |  |  |  |        |  |  |  |  |  |  |  +------Euscorpiidae
+|                                         |  |  |  |        |  |  |  |  |  +--|
+|                                         |  |  |  |        |  |  |  |  |     +------Limulus_polyphemus
+|                                         |  |  |  |        |  |  |  +--| ('>5.005<6.361000000000001')
+|                                         |  |  |  |        |  |  |     |        +------------------Acaridae
+|                                         |  |  |  |        |  |  |     |  +-----|
+|                                         |  |  |  |        |  |  |     |  |     +--------------Tetranychus_urticae
+|                                         |  |  |  |        |  |  |     +--|
+|                                         |  |  |  |        |  |  |        +--------------Pseudoscorpiones
+|                                         |  |  |  |        |  +--| ('>5.14<6.361000000000001')
+|                                         |  |  |  |        |     |  +----------------------------Parachela
+|                                         |  |  |  |        |     +--|
+|                                         |  |  |  |        |        |    +--Peripatopsidae
+|                                         |  |  |  |        |        +----|
+|                                         |  |  |  |        |             +--Peripatidae
+|                                         |  |  |  |     +--|
+|                                         |  |  |  |     |  +-----------------------Cytherideidae
+|                                         |  |  |  |  +--|
+|                                         |  |  |  |  |  |                        +--Armadillidium_vulgare
+|                                         |  |  |  |  |  |                   +----|
+|                                         |  |  |  |  |  |                   |    +--Armadillidium_nasatum
+|                                         |  |  |  |  |  |                +--|
+|                                         |  |  |  |  |  |                |  +----Asellus_aquaticus
+|                                         |  |  |  |  |  |             +--|
+|                                         |  |  |  |  |  |             |  +-------------Leptocheliidae
+|                                         |  |  |  |  |  |          +--|
+|                                         |  |  |  |  |  |          |  +-------Mysidae
+|                                         |  |  |  |  |  |       +--| ('>3.582<5.21')
+|                                         |  |  |  |  |  |       |  |          +--Talitridae
+|                                         |  |  |  |  |  |       |  |       +--|
+|                                         |  |  |  |  |  |       |  |       |  +--Parhyale_hawaiensis
+|                                         |  |  |  |  |  |       |  +-------|
+|                                         |  |  |  |  |  |       |          +-----Gammaridae
+|                                         |  |  |  |  |  +-------|
+|                                         |  |  |  |  |          |  +-------Meganyctiphanes_norvegica
+|                                         |  |  |  |  |          +--|
+|                                         |  |  |  |  |             |     +--Macrobrachium_nipponense
+|                                         |  |  |  |  |             |  +--|
+|                                         |  |  |  |  |             |  |  +--Palinuridae
+|                                         |  |  |  |  |             +--|
+|                                         |  |  |  |  |                |     +--Penaeus_monodon
+|                                         |  |  |  |  |                |  +--|
+|                                         |  |  |  |  |                |  |  +--Penaeus_vannamei
+|                                         |  |  |  |  |                +--|
+|                                         |  |  |  |  |                   +--Penaeus_japonicus
+|                                         |  |  |  +--|
+|                                         |  |  |     |        +-------Triopsidae
+|                                         |  |  |     |     +--| ('>4.05<5.21')
+|                                         |  |  |     |     |  |      +--Simocephalus_vetulus
+|                                         |  |  |     |     |  |   +--|
+|                                         |  |  |     |     |  |   |  +--Daphnia_magna
+|                                         |  |  |     |     |  +---|
+|                                         |  |  |     |     |      +---Sididae
+|                                         |  |  |     |  +--|
+|                                         |  |  |     |  |  +---------------Artemiidae
+|                                         |  |  |     +--|
+|                                         |  |  |        |          +-----Diaptomidae
+|                                         |  |  |        +----------|
+|                                         |  |  |                   +-----Calanidae
+|                                         |  +--|
+|                                         |     +-------Machilidae
+|                                      +--| ('>3.24<4.5')
+|                                      |  +------Epiophlebia_superstes
+|                                   +--|
+|                                   |  |        +---Mantidae
+|                                   |  |     +--|
+|                                   |  |     |  |  +--Blattella_germanica
+|                                   |  |     |  +--|
+|                                   |  |     |     +--Blattidae
+|                                   |  |  +--|
+|                                   |  |  |  |      +--Locusta_migratoria
+|                                   |  |  |  |  +---|
+|                                   |  |  |  |  |   +--Schistocerca_gregaria
+|                                   |  |  |  +--|
+|                                   |  |  |     |      +--Gryllus_bimaculatus
+|                                   |  |  |     |  +---|
+|                                   |  |  |     |  |   +--Acheta_domesticus
+|                                   |  |  |     +--|
+|                                   |  |  |        +--Tettigoniidae
+|                                   |  +--|
+|                                   |     +---------Forficula_auricularia
+|                                +--|
+|                                |  |            +--Pyrrhocoris_apterus
+|                                |  |         +--|
+|                                |  |         |  |  +--Blissidae
+|                                |  |         |  +--|
+|                                |  |         |     +--Oncopeltus_fasciatus
+|                                |  |     +---|
+|                                |  |     |   +-----Rhodnius_prolixus
+|                                |  |  +--|
+|                                |  |  |  |  +------------Acyrthosiphon_pisum
+|                                |  |  |  +--|
+|                                |  |  |     |  +-------Planococcus_citri
+|                                |  |  |     +--|
+|                                |  |  |        +---------Icerya_purchasi
+|                                |  +--| ('>2.07<4.5')
+|                                |     +-------Phlaeothripidae
+|                             +--| ('>3.069<4.5')
+|                             |  +---------Liposcelididae
+|                          +--|
+|                          |  |      +--Tenthredinidae
+|                          |  |   +--|
+|                          |  |   |  +--Athalia_rosae
+|                          |  +---| ('>2.21<4.5')
+|                          |      |        +-----Trichogramma_evanescens
+|                          |      |     +--|
+|                          |      |     |  |  +---Copidosoma_floridanum
+|                          |      |     |  +--|
+|                          |      |     |     +--Nasonia_vitripennis
+|                          |      |  +--|
+|                          |      |  |  |     +--Lasius_niger
+|                          |      |  |  |  +--|
+|                          |      |  |  |  |  +--Camponotus_floridanus
+|                          |      |  |  +--| ('>0.898<2.21')
+|                          |      |  |     +--Apis_mellifera
+|                          |      +--|
+|                          |         |  +----Macrocentrus_cingulum
+|                          |         +--|
+|                          |            +--Ichneumonidae
+|                       +--|
+|                       |  |                 +---Meloidae
+|                       |  |              +--|
+|                       |  |              |  |     +--Tribolium_confusum
+|                       |  |              |  |  +--|
+|                       |  |              |  |  |  +--Tribolium_castaneum
+|                       |  |              |  +--|
+|                       |  |              |     +--Tenebrio_molitor
+|                       |  |           +--| ('>2.07<3.06')
+|                       |  |           |  |        +--Acanthoscelides_obtectus
+|                       |  |           |  |     +--|
+|                       |  |           |  |     |  +--Callosobruchus_maculatus
+|                       |  |           |  |  +--|
+|                       |  |           |  |  |  +---Leptinotarsa_decemlineata
+|                       |  |           |  +--|
+|                       |  |           |     +----Sitophilus_oryzae
+|                       |  |        +--|
+|                       |  |        |  |     +---Scarabaeidae
+|                       |  |        |  |  +--|
+|                       |  |        |  |  |  +------Odontotaenius_disjunctus
+|                       |  |        |  +--|
+|                       |  |        |     +-----Hydrophilidae
+|                       |  |     +--|
+|                       |  |     |  +-----Lampyridae
+|                       |  |  +--|
+|                       |  |  |  |  +---Gyrinidae
+|                       |  |  |  +--| ('>2.056<3.06')
+|                       |  |  |     |  +---Dytiscidae
+|                       |  |  |     +--|
+|                       |  |  |        +--Carabidae
+|                       |  +--|
+|                       |     |  +-----Inocellia_japonica
+|                       |     +--|
+|                       |        +----Sialidae
+|                    +--|
+|                    |  |                    +--Erebidae
+|                    |  |                 +--|
+|                    |  |                 |  +--Helicoverpa_zea
+|                    |  |              +--|
+|                    |  |              |  |  +--Bombyx_mori
+|                    |  |              |  +--|
+|                    |  |              |     +--Antheraea_pernyi
+|                    |  |           +--|
+|                    |  |           |  +--Pectinophora_gossypiella
+|                    |  |        +--|
+|                    |  |        |  |        +--Nymphalis_antiopa
+|                    |  |        |  |     +--|
+|                    |  |        |  |     |  +--Pararge_aegeria
+|                    |  |        |  |  +--|
+|                    |  |        |  |  |  +--Pieris_rapae
+|                    |  |        |  +--| ('>0.3407<1.12')
+|                    |  |        |     +--Papilionidae
+|                    |  |     +--|
+|                    |  |     |  +--Epiphyas_postvittana
+|                    |  |  +--| ('>1.12<3.069')
+|                    |  |  |  +---Hepialidae
+|                    |  +--|
+|                    |     +-------Stenopsychidae
+|                +---|
+|                |   |     +---Panorpidae
+|                |   |  +--|
+|                |   |  |  +-----Ctenocephalides_felis
+|                |   +--| ('>1.605<3.069')
+|                |      +---Boreidae
+|             +--| ('>2.3<3.069')
+|             |  |     +---------Chironomidae
+|             |  |  +--|
+|             |  |  |  |     +--Aedes_aegypti
+|             |  |  |  |  +--|
+|             |  |  |  |  |  +--Culex_quinquefasciatus
+|             |  |  |  +--|
+|             |  |  |     +---Anopheles_gambiae
+|             |  +--|
+|             |     |  +-----Clogmia_albipunctata
+|             |     +--|
+|             |        +----Phlebotomus_papatasi
+|        +----|
+|        |    |  +-------Mayetiola_destructor
+|        |    +--| ('>1.8<2.3')
+|        |       +----Bradysia_coprophila
+|     +--| ('>0.64<2.3')
+|     |  +--Bactrocera_tryoni
+|  +--|
+|  |  |     +--Drosophila_melanogaster
+|  |  |  +--|
+|  |  |  |  +--Drosophila_willistoni
+|  |  +--|
+|  |     |     +--Drosophila_hydei
+|  |     |  +--|
+|  |     |  |  +--Drosophila_virilis
+|  |     +--|
+|  |        +--Drosophila_busckii
++--|
+|  |  +--Lucilia_sericata
+|  +--|
+|     +--Calliphora_vicina
+|
++--Stomoxys_calcitrans
+
+Tree in newick format:
+
+(Musca_domestica:0.0573832383,((((((((((((((Thermobia_domestica:0.2216868821,(((Tomoceridae:0.2339585663,((Anurida_maritima:0.3189099663,Tetrodontophora_bielanensis:0.2647316691):0.0633653995,Allacma_fusca:0.2928613850):0.0214043316)'>4.05<5.21':0.4329028890,((((((Scolopendra_cingulata:0.2262773909,Strigamia_maritima:0.2824357570):0.0950800746,(Scutigerellidae:0.3834126611,Glomeridae:0.3352772756):0.0312652104):0.0412666761,((Nymphonidae:0.5279705641,((Phalangium_opilio:0.3372812700,((((Parasteatoda_tepidariorum:0.1734254258,Agelenidae:0.1662257450):0.2072331585,Amblypygi:0.1967942297):0.0279234770,Euscorpiidae:0.2581903721)'>4.3515<5.14':0.0247419934,Limulus_polyphemus:0.2634838776):0.0191402694):0.0320270274,((Acaridae:0.7222455791,Tetranychus_urticae:0.5528996702):0.2234550557,Pseudoscorpiones:0.5621490637):0.0473422238)'>5.005<6.361000000000001':0.0572600499)'>5.09<6.361000000000001':0.0256517760,(Parachela:1.0554792679,(Peripatopsidae:0.1292936118,Peripatidae:0.1386078538):0.2125109623):0.0765581009)'>5.14<6.361000000000001':0.0232487675):0.0758590020,Cytherideidae:0.8962346411):0.0235225078,((((((Armadillidium_vulgare:0.0494526876,Armadillidium_nasatum:0.0254187365):0.2087194152,Asellus_aquaticus:0.1986336385):0.0574391994,Leptocheliidae:0.5316437403):0.0650362127,Mysidae:0.3195084140):0.0218622645,((Talitridae:0.1423613879,Parhyale_hawaiensis:0.0999359210):0.1154126262,Gammaridae:0.2400333668):0.3252322347)'>3.582<5.21':0.0255267091,(Meganyctiphanes_norvegica:0.3020627408,((Macrobrachium_nipponense:0.1429929505,Palinuridae:0.1092602760):0.0181753252,((Penaeus_monodon:0.0203147703,Penaeus_vannamei:0.0178491757):0.0150678096,Penaeus_japonicus:0.0221296795):0.0978734438):0.0512949554):0.0553760097):0.3121219410):0.0281418524,(((Triopsidae:0.3111754838,((Simocephalus_vetulus:0.0648875236,Daphnia_magna:0.0739880395):0.1172945732,Sididae:0.1548937600):0.1792321694)'>4.05<5.21':0.0662448086,Artemiidae:0.5920771693):0.0827837273,(Diaptomidae:0.2374339073,Calanidae:0.2377920270):0.4302741898):0.0317809927):0.0282875758):0.0545789105,Machilidae:0.3235663447):0.0404976818)'>4.115<4.5':0.0181485447,Epiophlebia_superstes:0.2898070152)'>3.24<4.5':0.0304251377,(((Mantidae:0.1570832663,(Blattella_germanica:0.1230391904,Blattidae:0.0668055411):0.0344769551):0.0463386401,((Locusta_migratoria:0.0219024329,Schistocerca_gregaria:0.0229984554):0.1798781662,((Gryllus_bimaculatus:0.0213873049,Acheta_domesticus:0.0246173675):0.1597732418,Tettigoniidae:0.1260682932):0.0356431848):0.0221984118):0.0267565662,Forficula_auricularia:0.3816200049):0.0278015883):0.0206019159,((((Pyrrhocoris_apterus:0.1431839995,(Blissidae:0.1126690245,Oncopeltus_fasciatus:0.1024785425):0.0451498652):0.1328799479,Rhodnius_prolixus:0.2185980257):0.1745677027,(Acyrthosiphon_pisum:0.4996404183,(Planococcus_citri:0.2902726125,Icerya_purchasi:0.3887691205):0.1295567450):0.0936419286):0.0582336500,Phlaeothripidae:0.3209944669)'>2.07<4.5':0.0235604634):0.0113769970,Liposcelididae:0.3649641898)'>3.069<4.5':0.0346132744,((Tenthredinidae:0.0609678074,Athalia_rosae:0.0645597487):0.0856024374,(((Trichogramma_evanescens:0.2213652091,(Copidosoma_floridanum:0.1636747487,Nasonia_vitripennis:0.0835557595):0.0221308011):0.1126908867,((Lasius_niger:0.0499045963,Camponotus_floridanus:0.0328598932):0.0981916612,Apis_mellifera:0.1263490795)'>0.898<2.21':0.0531443054):0.0120768689,(Macrocentrus_cingulum:0.2092121870,Ichneumonidae:0.1399486194):0.0420535705):0.0361818428)'>2.21<4.5':0.1707433935):0.0473819040,((((((Meloidae:0.1747385063,((Tribolium_confusum:0.0522258871,Tribolium_castaneum:0.0430844177):0.0300945516,Tenebrio_molitor:0.0649356177):0.0515518295):0.0489875948,(((Acanthoscelides_obtectus:0.0573470745,Callosobruchus_maculatus:0.0400188134):0.1133556798,Leptinotarsa_decemlineata:0.1509570634):0.0387500543,Sitophilus_oryzae:0.2111543345):0.0427174442)'>2.07<3.06':0.0574664703,((Scarabaeidae:0.1802875196,Odontotaenius_disjunctus:0.2777531259):0.0465861451,Hydrophilidae:0.2337304154):0.0262306739):0.0209637642,Lampyridae:0.2218688946):0.0815870638,(Gyrinidae:0.1767406727,(Dytiscidae:0.1644358488,Carabidae:0.1172205552):0.0184115673)'>2.056<3.06':0.0745924899):0.0511127540,(Inocellia_japonica:0.2191400419,Sialidae:0.2072481286):0.0800555880):0.0466620885):0.0418786874,(((((((Erebidae:0.0735664605,Helicoverpa_zea:0.0551617219):0.0289030247,(Bombyx_mori:0.1043104758,Antheraea_pernyi:0.0967771106):0.0225809926):0.0143002846,Pectinophora_gossypiella:0.0899250017):0.0074352029,(((Nymphalis_antiopa:0.0701297635,Pararge_aegeria:0.0810025649):0.0242588008,Pieris_rapae:0.1199002061):0.0199971322,Papilionidae:0.0954438729)'>0.3407<1.12':0.0168237483):0.0189115380,Epiphyas_postvittana:0.1070379954):0.1438382262,Hepialidae:0.1697215544)'>1.12<3.069':0.1045725685,Stenopsychidae:0.3130326308):0.1298019756):0.0422961465,((Panorpidae:0.1688449171,Ctenocephalides_felis:0.2243712338):0.0270914718,Boreidae:0.1741272184)'>1.605<3.069':0.1010264176):0.1581155648,((Chironomidae:0.3859698221,((Aedes_aegypti:0.0599611105,Culex_quinquefasciatus:0.0802341369):0.0516373726,Anopheles_gambiae:0.1503710869):0.1244639097):0.0555636873,(Clogmia_albipunctata:0.2425815260,Phlebotomus_papatasi:0.1970562772):0.0767998148):0.0132125858)'>2.3<3.069':0.0287809028,(Mayetiola_destructor:0.2945340549,Bradysia_coprophila:0.1933680006)'>1.8<2.3':0.0605343688):0.2100544668,Bactrocera_tryoni:0.1279281583)'>0.64<2.3':0.0188803535,((Drosophila_melanogaster:0.0758605493,Drosophila_willistoni:0.0702587709):0.0172955408,((Drosophila_hydei:0.0351556086,Drosophila_virilis:0.0259630387):0.0256104392,Drosophila_busckii:0.0671233706):0.0244005555):0.1360796208):0.0687503317,(Lucilia_sericata:0.0217501692,Calliphora_vicina:0.0279937140):0.0430803117):0.0394626675,Stomoxys_calcitrans:0.0494588132);
+
+MCMCTREE COMMAND
+--------------
+Currently, IQ-TREE supports gradients and Hessian calculation of branch lengths for divergence times estimation in MCMCTree with approximate likelihood method.
+The following files are generated to run MCMCTree with approximate likelihood method.
+
+Gradients and Hessians: mcmc_prep_no_partition.in.BV
+Ctl file for MCMCTree: mcmc_prep_no_partition.mcmctree.ctl
+
+For Divergence time estimation with approximate likelihood method a substitution or an alignment is not needed after the gradients and Hessian file is generated.
+Note: The tree file should be calibrate with time records (eg: fossil dates). You can find the tree file at: fossil_rooted_constrained_optimized.treefile
+Note: Please make sure the gradients and Hessian file: mcmc_prep_no_partition.in.BV is named as in.BV
+Note: The parameters for MCMC runs could be change via ctl file at: mcmc_prep_no_partition.mcmctree.ctl
+
+Command for MCMCTree: mcmctree mcmc_prep_no_partition.mcmctree.ctl
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t mcmc_prep_no_partition.treefile -m "LG+G4{0.664826}" --length 280959
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s SUPERMATRIX.phylip --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s SUPERMATRIX.phylip --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Jul 08 14:39:45 2025
+Total CPU time used: 3103.9844 seconds (0h:51m:43s)
+Total wall-clock time used: 859.21459 seconds (0h:14m:19s)
+

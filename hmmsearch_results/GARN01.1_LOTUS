@@ -1,0 +1,16 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GARN01.1;GARN01025337.1.p1 -           1254 oskar_filtered.aligned.LOTUS_domain -            101   1.3e-12   47.8   0.0   1   3   7.4e-17   1.3e-12   47.8   0.0     3   100     8   106     6   107 0.95 GENE.GARN01025337.1~~GARN01025337.1.p1  ORF type:complete (+),score=264.17 len:1253 GARN01025337.1:215-3976(+)
+GARN01.1;GARN01025337.1.p1 -           1254 oskar_filtered.aligned.LOTUS_domain -            101   1.3e-12   47.8   0.0   2   3         1   1.7e+04   -8.5   5.3    88    99   342   353   329   355 0.58 GENE.GARN01025337.1~~GARN01025337.1.p1  ORF type:complete (+),score=264.17 len:1253 GARN01025337.1:215-3976(+)
+GARN01.1;GARN01025337.1.p1 -           1254 oskar_filtered.aligned.LOTUS_domain -            101   1.3e-12   47.8   0.0   3   3      0.78   1.3e+04   -3.6   0.0    75    98   795   818   788   818 0.81 GENE.GARN01025337.1~~GARN01025337.1.p1  ORF type:complete (+),score=264.17 len:1253 GARN01025337.1:215-3976(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GARN01.1/GARN01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GARN01.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GARN01.1/GARN01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

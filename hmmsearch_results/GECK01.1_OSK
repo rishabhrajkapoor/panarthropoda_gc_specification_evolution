@@ -1,0 +1,15 @@
+#                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GECK01.1;GECK01128063.1.p1 -            226 oskar_filtered.aligned.OSK_domain -            187     0.006   15.6   0.0   1   1   1.3e-06    0.0071   15.3   0.0    36   151    64   184    35   221 0.74 GENE.GECK01128063.1~~GECK01128063.1.p1  ORF type:complete (+),score=38.01 len:225 GECK01128063.1:218-895(+)
+GECK01.1;GECK01121991.1.p2 -            344 oskar_filtered.aligned.OSK_domain -            187     0.026   13.5   1.4   1   1   4.6e-06     0.026   13.5   1.4    93   172    11    98     1   319 0.79 GENE.GECK01121991.1~~GECK01121991.1.p2  ORF type:complete (+),score=58.56 len:343 GECK01121991.1:815-1846(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GECK01.1/GECK01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GECK01.1_OSK -E .05 OSK_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GECK01.1/GECK01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

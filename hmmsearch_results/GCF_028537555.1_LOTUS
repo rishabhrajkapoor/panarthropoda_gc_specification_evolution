@@ -1,0 +1,18 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+XP_068626612.1       -           1082 oskar_filtered.aligned.LOTUS_domain -            101   4.5e-16   58.4   1.5   1   3   1.4e-17   8.3e-14   51.2   0.0    13   100     3    89     1    90 0.90 -
+XP_068626612.1       -           1082 oskar_filtered.aligned.LOTUS_domain -            101   4.5e-16   58.4   1.5   2   3      0.54   3.3e+03   -2.1   1.1    72    95   141   164   116   186 0.60 -
+XP_068626612.1       -           1082 oskar_filtered.aligned.LOTUS_domain -            101   4.5e-16   58.4   1.5   3   3    0.0035        22    4.9   0.0    25    85   363   416   343   430 0.83 -
+XP_068620199.1       -            873 oskar_filtered.aligned.LOTUS_domain -            101   1.1e-14   54.0   0.0   1   2   2.4e-13   1.5e-09   37.5   0.0    11   100     2    92     1    93 0.88 -
+XP_068620199.1       -            873 oskar_filtered.aligned.LOTUS_domain -            101   1.1e-14   54.0   0.0   2   2   6.5e-06      0.04   13.7   0.0    13    70   293   349   284   364 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     ../ncbi_dataset/data/GCF_028537555.1/protein_longest.faa
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GCF_028537555.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm ../ncbi_dataset/data/GCF_028537555.1/protein_longest.faa 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]

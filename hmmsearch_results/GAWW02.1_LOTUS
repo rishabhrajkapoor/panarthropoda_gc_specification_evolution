@@ -1,0 +1,25 @@
+#                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                          accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----                -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GAWW02.1;GAWW02024817.1.p1 -            360 oskar_filtered.aligned.LOTUS_domain -            101   2.2e-28   97.6   0.0   1   1   2.2e-31   4.4e-28   96.7   0.0    13   101     2    89     1    89 0.98 GENE.GAWW02024817.1~~GAWW02024817.1.p1  ORF type:complete (+),score=35.21 len:359 GAWW02024817.1:199-1278(+)
+GAWW02.1;GAWW02024808.1.p1 -            454 oskar_filtered.aligned.LOTUS_domain -            101   2.7e-28   97.4   0.0   1   1   3.3e-31   6.6e-28   96.1   0.0    13   101     2    89     1    89 0.98 GENE.GAWW02024808.1~~GAWW02024808.1.p1  ORF type:complete (+),score=45.77 len:453 GAWW02024808.1:199-1560(+)
+GAWW02.1;GAWW02024510.1.p1 -           1144 oskar_filtered.aligned.LOTUS_domain -            101   3.3e-25   87.5   0.7   1   3   2.2e-23   4.3e-20   71.0   0.0    16   101     9    93     4    93 0.91 GENE.GAWW02024510.1~~GAWW02024510.1.p1  ORF type:complete (-),score=208.17 len:1143 GAWW02024510.1:600-4031(-)
+GAWW02.1;GAWW02024510.1.p1 -           1144 oskar_filtered.aligned.LOTUS_domain -            101   3.3e-25   87.5   0.7   2   3   0.00039      0.77    9.2   0.2    14    51   412   448   404   473 0.82 GENE.GAWW02024510.1~~GAWW02024510.1.p1  ORF type:complete (-),score=208.17 len:1143 GAWW02024510.1:600-4031(-)
+GAWW02.1;GAWW02024510.1.p1 -           1144 oskar_filtered.aligned.LOTUS_domain -            101   3.3e-25   87.5   0.7   3   3     0.027        53    3.3   0.0    67    98   715   747   709   749 0.91 GENE.GAWW02024510.1~~GAWW02024510.1.p1  ORF type:complete (-),score=208.17 len:1143 GAWW02024510.1:600-4031(-)
+GAWW02.1;GAWW02022703.1.p1 -           1351 oskar_filtered.aligned.LOTUS_domain -            101   0.00015   21.1   0.0   1   5      0.34   6.7e+02   -0.2   0.0    32    72   619   659   606   677 0.78 GENE.GAWW02022703.1~~GAWW02022703.1.p1  ORF type:complete (-),score=191.65 len:1350 GAWW02022703.1:3600-7652(-)
+GAWW02.1;GAWW02022703.1.p1 -           1351 oskar_filtered.aligned.LOTUS_domain -            101   0.00015   21.1   0.0   2   5      0.12   2.4e+02    1.2   0.0    16    76   679   740   668   764 0.79 GENE.GAWW02022703.1~~GAWW02022703.1.p1  ORF type:complete (-),score=191.65 len:1350 GAWW02022703.1:3600-7652(-)
+GAWW02.1;GAWW02022703.1.p1 -           1351 oskar_filtered.aligned.LOTUS_domain -            101   0.00015   21.1   0.0   3   5      0.11   2.1e+02    1.4   0.0    34    78   755   826   740   837 0.72 GENE.GAWW02022703.1~~GAWW02022703.1.p1  ORF type:complete (-),score=191.65 len:1350 GAWW02022703.1:3600-7652(-)
+GAWW02.1;GAWW02022703.1.p1 -           1351 oskar_filtered.aligned.LOTUS_domain -            101   0.00015   21.1   0.0   4   5     0.072   1.4e+02    2.0   0.0    18    84   843   909   828   918 0.81 GENE.GAWW02022703.1~~GAWW02022703.1.p1  ORF type:complete (-),score=191.65 len:1350 GAWW02022703.1:3600-7652(-)
+GAWW02.1;GAWW02022703.1.p1 -           1351 oskar_filtered.aligned.LOTUS_domain -            101   0.00015   21.1   0.0   5   5   0.00085       1.7    8.2   0.0    24    84   989  1049   965  1055 0.84 GENE.GAWW02022703.1~~GAWW02022703.1.p1  ORF type:complete (-),score=191.65 len:1350 GAWW02022703.1:3600-7652(-)
+GAWW02.1;GAWW02018853.1.p1 -           2367 oskar_filtered.aligned.LOTUS_domain -            101    0.0082   15.6   3.4   1   2   1.6e-05     0.032   13.7   0.3     9    95   947  1036   941  1040 0.84 GENE.GAWW02018853.1~~GAWW02018853.1.p1  ORF type:complete (-),score=637.23 len:2366 GAWW02018853.1:663-7763(-)
+GAWW02.1;GAWW02018853.1.p1 -           2367 oskar_filtered.aligned.LOTUS_domain -            101    0.0082   15.6   3.4   2   2      0.51     1e+03   -0.8   0.2    52   101  1366  1412  1361  1412 0.80 GENE.GAWW02018853.1~~GAWW02018853.1.p1  ORF type:complete (-),score=637.23 len:2366 GAWW02018853.1:663-7763(-)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      LOTUS_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GAWW02.1/GAWW02.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GAWW02.1_LOTUS -E .05 LOTUS_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GAWW02.1/GAWW02.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:08 2025
+# [ok]

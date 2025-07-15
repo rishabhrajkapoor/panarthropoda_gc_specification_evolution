@@ -1,0 +1,15 @@
+#                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+XP_069700099.1       -            480 oskar_filtered.aligned.OSK_domain -            187   2.6e-57  193.4   0.0   1   1   5.7e-61   4.7e-57  192.6   0.0     1   185   292   475   292   477 0.97 -
+XP_069674347.1       -            414 oskar_filtered.aligned.OSK_domain -            187     0.011   15.3   0.0   1   1   1.9e-06     0.016   14.8   0.0    43   143    99   217    77   376 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     ../ncbi_dataset/data/GCF_040183065.1/protein_longest.faa
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GCF_040183065.1_OSK -E .05 OSK_CONSENSUS.hmm ../ncbi_dataset/data/GCF_040183065.1/protein_longest.faa 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:08 2025
+# [ok]

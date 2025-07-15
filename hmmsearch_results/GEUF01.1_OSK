@@ -1,0 +1,16 @@
+#                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name              accession   tlen query name                        accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#      ------------------- ---------- -----              -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GEUF01.1;GEUF01006592.1.p1 -            353 oskar_filtered.aligned.OSK_domain -            187   2.8e-39  134.9   0.7   1   1   7.9e-43   5.1e-39  134.0   0.7     1   185   159   341   159   343 0.92 GENE.GEUF01006592.1~~GEUF01006592.1.p1  ORF type:complete (+),score=33.52 len:352 GEUF01006592.1:470-1528(+)
+GEUF01.1;GEUF01038497.1.p1 -            353 oskar_filtered.aligned.OSK_domain -            187   2.8e-39  134.9   0.7   1   1   7.9e-43   5.1e-39  134.0   0.7     1   185   159   341   159   343 0.92 GENE.GEUF01038497.1~~GEUF01038497.1.p1  ORF type:complete (+),score=33.52 len:352 GEUF01038497.1:388-1446(+)
+GEUF01.1;GEUF01052237.1.p1 -            353 oskar_filtered.aligned.OSK_domain -            187   2.8e-39  134.9   0.7   1   1   7.9e-43   5.1e-39  134.0   0.7     1   185   159   341   159   343 0.92 GENE.GEUF01052237.1~~GEUF01052237.1.p1  ORF type:complete (+),score=33.52 len:352 GEUF01052237.1:637-1695(+)
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      OSK_CONSENSUS.hmm
+# Target file:     /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GEUF01.1/GEUF01.1.fasta.transdecoder.pep
+# Option settings: /usr/local/bin/hmmsearch --domtblout hmmsearch_results/GEUF01.1_OSK -E .05 OSK_CONSENSUS.hmm /net/bos-nfsisilon/ifs/rc_labs/extavour_lab/rkapoor/IF_project_iteration2/TSA_transdec/GEUF01.1/GEUF01.1.fasta.transdecoder.pep 
+# Current dir:     /n/netscratch/extavour_lab/Everyone/Rishabh/panarthropoda_gc_specification_evolution
+# Date:            Mon Jul 14 22:18:07 2025
+# [ok]
