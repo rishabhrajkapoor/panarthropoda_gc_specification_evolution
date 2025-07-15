@@ -1,0 +1,82 @@
+NCBI accession	species	subs	iq_tree_label	data_type	BUSCO_complete_single_copy	family	order	class	phylum	GC_mech	Germ_band	oskar	blondel_oskar_count	oskar_present
+GCA_963669975.1	Acanthoscelides obtectus		Acanthoscelides_obtectus	annotated_genome	81	Chrysomelidae	Coleoptera	Insecta	Arthropoda	GP	long	{'CAK1628125.1'}		1
+GHUU01.1	Acheta domesticus		Acheta_domesticus	TSA	72.9	Gryllidae	Orthoptera	Insecta	Arthropoda	IND	intermediate	{'GHUU01.1;GHUU01020574.1.p1'}	1	1
+GCF_005508785.2	Acyrthosiphon pisum		Acyrthosiphon_pisum	annotated_genome	88.8	Aphididae	Hemiptera	Insecta	Arthropoda	GP	short	set()	0	0
+GCF_002204515.2	Aedes aegypti		Aedes_aegypti	annotated_genome	92.6	Culicidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_001656415.1'}	2	1
+GCF_943734735.2	Anopheles gambiae		Anopheles_gambiae	annotated_genome	97.2	Culicidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_313289.4'}	1	1
+GFCX01.1	Antheraea pernyi		Antheraea_pernyi	TSA	55.8	Saturniidae	Lepidoptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCF_003254395.2	Apis mellifera		Apis_mellifera	annotated_genome	98.3	Apidae	Hymenoptera	Insecta	Arthropoda	IND	long	set()	0	0
+GCF_917208135.1	Athalia rosae		Athalia_rosae	annotated_genome	99	Athaliidae	Hymenoptera	Insecta	Arthropoda	GP	intermediate	{'XP_012267561.2'}	1	1
+GCF_016617805.1	Bactrocera tryoni		Bactrocera_tryoni	annotated_genome	95.3	Tephritidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_039970531.1'}	0	1
+GCA_003018175.1	Blattella germanica		Blattella_germanica	annotated_genome	66.5	Blattellidae	Blattodea	Insecta	Arthropoda	IND	short	set()	0	0
+GCF_030269925.1	Bombyx mori		Bombyx_mori	annotated_genome	98.4	Bombycidae	Lepidoptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCF_014529535.1	Bradysia coprophila		Bradysia_coprophila	annotated_genome	96.4	Sciaridae	Diptera	Insecta	Arthropoda	GP	long	{'XP_037038002.1', 'XP_037045674.1'}		1
+GCF_958450345.1	Calliphora vicina		Calliphora_vicina	annotated_genome	97.5	Calliphoridae	Diptera	Insecta	Arthropoda	GP	long	{'XP_065354390.1'}	0	1
+GEUF01.1	Callosobruchus maculatus		Callosobruchus_maculatus	TSA	75.7	Chrysomelidae	Coleoptera	Insecta	Arthropoda	GP	long	{'GEUF01.1;GEUF01038497.1.p1', 'GEUF01.1;GEUF01006592.1.p1', 'GEUF01.1;GEUF01052237.1.p1'}	1	1
+GCF_003227725.1	Camponotus floridanus		Camponotus_floridanus	annotated_genome	97.3	Formicidae	Hymenoptera	Insecta	Arthropoda	GP	short	{'XP_011252874.1'}	1	1
+GCA_022818195.1	Clogmia albipunctata		Clogmia_albipunctata	unannotated_genome	92.8	Psychodidae	Diptera	Insecta	Arthropoda	IND	long		0	0
+GCF_000648655.2	Copidosoma floridanum		Copidosoma_floridanum	annotated_genome	91.4	Encyrtidae	Hymenoptera	Insecta	Arthropoda	GP	long	{'XP_014212910.1'}	1	1
+GAYP02.1	Ctenocephalides felis		Ctenocephalides_felis	TSA	68.1	Pulicidae	Siphonaptera	Insecta	Arthropoda	GP	long	set()	0	0
+GCF_015732765.1	Culex quinquefasciatus		Culex_quinquefasciatus	annotated_genome	94.2	Culicidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_001848641.1'}	1	1
+GCF_011750605.1	Drosophila busckii		Drosophila_busckii	annotated_genome	94.4	Drosophilidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_017845653.1|LOC108602136'}	1	1
+GCF_003285905.1	Drosophila hydei		Drosophila_hydei	annotated_genome	94.4	Drosophilidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_023173869.2|LOC111601507'}	1	1
+GCF_000001215.4	Drosophila melanogaster		Drosophila_melanogaster	annotated_genome	95.6	Drosophilidae	Diptera	Insecta	Arthropoda	GP	long	{'NP_731295.1'}	1	1
+GCF_030788295.1	Drosophila virilis		Drosophila_virilis	annotated_genome	93.8	Drosophilidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_002053269.1|osk'}	1	1
+GCF_018902025.1	Drosophila willistoni		Drosophila_willistoni	annotated_genome	94.5	Drosophilidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_023034501.2|LOC6647420'}	1	1
+GAVW02.1	Epiophlebia superstes		Epiophlebia_superstes	TSA	64.1	Epiophlebiidae	Odonata	Insecta	Arthropoda	IND	short	set()	0	0
+GCA_964304675.1	Epiphyas postvittana		Epiphyas_postvittana	unannotated_genome	97.7	Tortricidae	Lepidoptera	Insecta	Arthropoda	IND	short		0	0
+GAYQ02.1	Forficula auricularia		Forficula_auricularia	TSA	52.1	Forficulidae	Dermaptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCA_017312745.1	Gryllus bimaculatus		Gryllus_bimaculatus	annotated_genome	86.6	Gryllidae	Orthoptera	Insecta	Arthropoda	IND	intermediate	{'GLG94685.1'}	0	1
+GCF_022581195.2	Helicoverpa zea		Helicoverpa_zea	annotated_genome	98.8	Noctuidae	Lepidoptera	Insecta	Arthropoda	IND	short	set()	0	0
+GEJI01.1	Icerya purchasi		Icerya_purchasi	TSA	67.3	Monophlebidae	Hemiptera	Insecta	Arthropoda	IND	intermediate	set()		0
+GCTF01.1	Inocellia japonica		Inocellia_japonica	TSA	59.9	Inocelliidae	Raphidioptera	Insecta	Arthropoda	GP	long	set()		0
+GCA_001045655.1	Lasius niger		Lasius_niger	annotated_genome	67.7	Formicidae	Hymenoptera	Insecta	Arthropoda	GP	short	set()	0	0
+GCF_000500325.1	Leptinotarsa decemlineata		Leptinotarsa_decemlineata	annotated_genome	88.4	Chrysomelidae	Coleoptera	Insecta	Arthropoda	GP	intermediate	{'XP_023025754.1'}	2	1
+GBDZ01.1	Locusta migratoria		Locusta_migratoria	TSA	87.4	Acrididae	Orthoptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCF_015586225.1	Lucilia sericata		Lucilia_sericata	annotated_genome	88.8	Calliphoridae	Diptera	Insecta	Arthropoda	GP	long	{'XP_037808551.1'}	0	1
+GCA_045786645.1	Macrocentrus cingulum		Macrocentrus_cingulum	unannotated_genome	95	Braconidae	Hymenoptera	Insecta	Arthropoda	GP	short		1	1
+GCA_000149185.1	Mayetiola destructor		Mayetiola_destructor	unannotated_genome	91.7	Cecidomyiidae	Diptera	Insecta	Arthropoda	GP	long		0	0
+GARN01.1	Musca domestica		Musca_domestica	TSA	84.6	Muscidae	Diptera	Insecta	Arthropoda	GP	long	set()	2	1
+GCF_009193385.2	Nasonia vitripennis		Nasonia_vitripennis	annotated_genome	96.3	Pteromalidae	Hymenoptera	Insecta	Arthropoda	GP	long	{'NP_001234884.1'}	2	1
+GCA_964258955.1	Nymphalis antiopa		Nymphalis_antiopa	unannotated_genome	98.1	Nymphalidae	Lepidoptera	Insecta	Arthropoda	IND	long			
+GDMS01.1	Odontotaenius disjunctus		Odontotaenius_disjunctus	TSA	59	Passalidae	Coleoptera	Insecta	Arthropoda	IND	short	set()		0
+GCXY01.1	Oncopeltus fasciatus		Oncopeltus_fasciatus	TSA	70.8	Lygaeidae	Hemiptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCF_905163445.1	Pararge aegeria		Pararge_aegeria	annotated_genome	98.9	Nymphalidae	Lepidoptera	Insecta	Arthropoda	GP	short	set()	0	0
+GCF_024362695.1	Pectinophora gossypiella		Pectinophora_gossypiella	annotated_genome	97.2	Gelechiidae	Lepidoptera	Insecta	Arthropoda	GP		set()	0	0
+GCF_024763615.1	Phlebotomus papatasi		Phlebotomus_papatasi	annotated_genome	95.7	Psychodidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_055701593.1'}	1	1
+GCF_905147795.1	Pieris rapae		Pieris_rapae	annotated_genome	98	Pieridae	Lepidoptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCF_950023065.1	Planococcus citri		Planococcus_citri	annotated_genome	88.2	Pseudococcidae	Hemiptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCA_039877355.1	Pyrrhocoris apterus		Pyrrhocoris_apterus	unannotated_genome	90.3	Pyrrhocoridae	Hemiptera	Insecta	Arthropoda	IND	intermediate		0	0
+GECK01.1	Rhodnius prolixus		Rhodnius_prolixus	TSA	91.4	Reduviidae	Hemiptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCF_023897955.1	Schistocerca gregaria		Schistocerca_gregaria	annotated_genome	95.7	Acrididae	Orthoptera	Insecta	Arthropoda	IND	short	set()		0
+GCF_002938485.1	Sitophilus oryzae		Sitophilus_oryzae	annotated_genome	96.7	Curculionidae	Coleoptera	Insecta	Arthropoda	GP	intermediate	{'XP_030756107.1'}	1	1
+GCF_963082655.1	Stomoxys calcitrans		Stomoxys_calcitrans	annotated_genome	96.5	Muscidae	Diptera	Insecta	Arthropoda	GP	long	{'XP_013106491.2'}	2	1
+GCF_963966145.1	Tenebrio molitor		Tenebrio_molitor	annotated_genome	98.3	Tenebrionidae	Coleoptera	Insecta	Arthropoda	IND	short	set()		0
+GASN02.1	Thermobia domestica		Thermobia_domestica	TSA	62.3	Lepismatidae	Zygentoma	Insecta	Arthropoda	IND	short	set()	0	0
+GCF_031307605.1	Tribolium castaneum		Tribolium_castaneum	annotated_genome	98.7	Tenebrionidae	Coleoptera	Insecta	Arthropoda	IND	short	set()	0	0
+GCA_029207805.1	Tribolium confusum		Tribolium_confusum	unannotated_genome	96.6	Tenebrionidae	Coleoptera	Insecta	Arthropoda	IND	short			
+GBMC01.1	Trichogramma evanescens		Trichogramma_evanescens	TSA	70.4	Trichogrammatidae	Hymenoptera	Insecta	Arthropoda	GP	long	{'GBMC01.1;GBMC01011982.1.p1'}	1	1
+GCF_040183065.1	Periplaneta americana	{'Blatta orientalis'}	Blattidae	annotated_genome	96.8	Blattidae	Blattodea	Insecta	Arthropoda	IND	short	{'XP_069700099.1'}	2	1
+GCXH01.1	Ischnodemus falicus	{'Blissus leucopterus hirtus'}	Blissidae	TSA	72.1	Blissidae	Hemiptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GAYK02.1	Boreus hyemalis	{'Boreus westwoodi'}	Boreidae	TSA	69.3	Boreidae	Mecoptera	Insecta	Arthropoda	IND	short	set()	1	1
+GDPI01.1	Elaphrus aureus	{'Carabus insulicola'}	Carabidae	TSA	73.1	Carabidae	Coleoptera	Insecta	Arthropoda	IND	short	{'GDPI01.1;GDPI01010195.1.p1'}	1	1
+GCA_018290095.1	Polypedilum vanderplanki	{'Smittia sp.', 'Chironomus confinis', 'Chironomus sp.'}	Chironomidae	annotated_genome	95.4	Chironomidae	Diptera	Insecta	Arthropoda	GP	long	set()		0
+GDLH01.1	Cybister lateralimarginalis	{'Hydaticus pacificus'}	Dytiscidae	TSA	66.5	Dytiscidae	Coleoptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GCA_902825455.1	Arctia plantaginis	{'Amata fortunei', 'Spilosoma virginica'}	Erebidae	annotated_genome	92.3	Erebidae	Lepidoptera	Insecta	Arthropoda	IND		set()	0	0
+GAUY02.1	Gyrinus marinus	{'Dineutus mellyi'}	Gyrinidae	TSA	62.6	Gyrinidae	Coleoptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GEOO01.1	Phymatopus californicus	{'Endoclita signifer'}	Hepialidae	TSA	69.8	Hepialidae	Lepidoptera	Insecta	Arthropoda	IND	short	set()	0	0
+GCF_019457755.1	Venturia canescens	{'Pimpla turionellae', 'Cosmoconus meridionator', 'Lissonota catenator'}	Ichneumonidae	annotated_genome	98.8	Ichneumonidae	Hymenoptera	Insecta	Arthropoda	GP	long	{'XP_043269694.1'}		1
+GCA_035610365.1	Aquatica leii	{'Nipponoluciola cruciata', 'Aquatica lateralis', 'Pyrocoelia rufa', 'Hotaria parvula'}	Lampyridae	annotated_genome	93.2	Lampyridae	Coleoptera	Insecta	Arthropoda	IND	short	set()		0
+GFEG01.1	Embidopsocus sp. EmspLi2	{'Liposcelis divergens'}	Liposcelididae	TSA	77.3	Liposcelididae	Psocoptera	Insecta	Arthropoda	IND	short	set()		0
+HBDP01.1	Machilis pallida	{'Petrobius brevistylis'}	Machilidae	TSA	76.4	Machilidae	Archaeognatha	Insecta	Arthropoda	IND	short	set()		0
+GASW02.1	Mantis religiosa	{'Rhombodera crassa'}	Mantidae	TSA	53.9	Mantidae	Mantodea	Insecta	Arthropoda	IND	short	set()	0	0
+GATA02.1	Meloe violaceus	{'Lytta viridana'}	Meloidae	TSA	65.8	Meloidae	Coleoptera	Insecta	Arthropoda	IND	intermediate	set()	0	0
+GAUH02.1	Panorpa vulgaris	{'Panorpa pryeri'}	Panorpidae	TSA	59.9	Panorpidae	Mecoptera	Insecta	Arthropoda	GP	short	set()	1	1
+GCF_028537555.1	Battus philenor	{'Byasa alcinous alcinous', 'Luehdorfia japonica', 'Parnassius glacialis'}	Papilionidae	annotated_genome	99.4	Papilionidae	Lepidoptera	Insecta	Arthropoda	IND	short	set()		0
+GCYQ01.1	Phlaeothripidae sp. AD-2014	{'Haplothrips verbasci', 'Bactrothrips brevitubus'}	Phlaeothripidae	TSA	62.4	Phlaeothripidae	Thysanoptera	Insecta	Arthropoda	GP	intermediate	{'GCYQ01.1;GCYQ01052767.1.p1'}	1	1
+GCTV01.1	Sialis fuliginosa	{'Sialis mitsuhashii okamoto'}	Sialidae	TSA	66.7	Sialidae	Megaloptera	Insecta	Arthropoda	IND	short	set()		0
+GDRS01.1	Stenopsychodes sp. AD-2015	{'Stenopsyche griseipennis'}	Stenopsychidae	TSA	54.2	Stenopsychidae	Trichoptera	Insecta	Arthropoda	IND	short	{'GDRS01.1;GDRS01002278.1.p1'}		1
+GAWW02.1	Tenthredo koehleri	{'Nematus ribesii'}	Tenthredinidae	TSA	79.9	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	IND	intermediate	{'GAWW02.1;GAWW02024808.1.p1'}	1	1
+GCF_040414725.1	Anabrus simplex	{'Conocephalus brevipennis'}	Tettigoniidae	annotated_genome	96.3	Tettigoniidae	Orthoptera	Insecta	Arthropoda	IND	short	{'XP_068087189.1'}		1
+GDPF01.1	Megasternum obscurum	{'Hydrophilus piceus'}	Hydrophilidae	TSA	68.4	Hydrophilidae	Coleoptera	Insecta	Arthropoda	IND	short	set()		0
+GCF_000648695.1	Onthophagus taurus	{'Phyllophaga fervida'}	Scarabaeidae	annotated_genome	96.4	Scarabaeidae	Coleoptera	Insecta	Arthropoda	IND	short	set()	0	0
