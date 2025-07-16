@@ -27,7 +27,7 @@ construct a full species-level phylogram concatenating literature-derived phylog
 Downloads genomic/transcriptomic datasets from phylogenetic_data_with_substitutions.tsv. Passes predicted proteins through the BUSCOphylogenomics pipeline (BUSCO_py/supermatrix/SUPERMATRIX.phylip) , then to IQtree for constrained maximum likelihood topology search using a literature-derived constraint tree from phylogram_constraints.ipynb (outputs in BUSCO_py/supermatrix/ with "constrained_optimized" prefix), then to IQtree for the IQ2MC pipeline for hessian matrix computation (outputs in "BUSCO_py/supermatrix/" with mcmc_prep_no_partition prefix ), and finally PAML for divergence time estimation with MCMCtree (outputs in "BUSCO_py/supermatrix/run1R_mcmc_prep_no_partition.mcmctree.ctl").
 
 ### oskar_search.ipynb
-Search for oskar homologs in genomic/transcriptomic datasets with hmmsearch and outputs oskar_data.tsv and oskar_proteins.fa with oskar outputs.
+Search for oskar homologs in genomic/transcriptomic datasets with hmmsearch and outputs oskar_data.tsv and oskar_proteins.fa with oskar outputs. hmmsearch outputs in hmmsearch_results
 
 ### maximum_likelihood_ancestral_reconstruction.R
 Fits two-state substitution models in phytools and performs maximum likelihood ancestry inference.
