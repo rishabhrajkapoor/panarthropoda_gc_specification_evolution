@@ -1,1 +1,0 @@
-iqtree3 -s SUPERMATRIX.phylip -m LG+G4 -te fossil_rooted_constrained_optimized.treefile -nt 4 -pre mcmc_prep_no_partition --dating mcmctree 
