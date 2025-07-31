@@ -1,0 +1,125 @@
+NCBI accession,species,family,order,class,phylum,sub_species 1,sub_species 2,sub_species 3,sub_species 4,iq_tree_label,data_type,BUSCO,GC_mech,GC_timing,Germ_band
+GCA_963669975.1,Acanthoscelides obtectus,Chrysomelidae,Coleoptera,Insecta,Arthropoda,,,,,Acanthoscelides_obtectus,annotated_genome,81.0,GP,1.0,long
+GHUU01.1,Acheta domesticus,Gryllidae,Orthoptera,Insecta,Arthropoda,,,,,Acheta_domesticus,TSA,72.9,IND,2.0,intermediate
+GCF_005508785.2,Acyrthosiphon pisum,Aphididae,Hemiptera,Insecta,Arthropoda,,,,,Acyrthosiphon_pisum,annotated_genome,88.8,GP,2.0,short
+GCF_002204515.2,Aedes aegypti,Culicidae,Diptera,Insecta,Arthropoda,,,,,Aedes_aegypti,annotated_genome,92.6,GP,1.0,long
+GCA_910591605.1,Allacma fusca,Sminthuridae,Symphypleona,Collembola,Arthropoda,,,,,Allacma_fusca,annotated_genome,87.5,GP,1.0,
+GCF_943734735.2,Anopheles gambiae,Culicidae,Diptera,Insecta,Arthropoda,,,,,Anopheles_gambiae,annotated_genome,97.2,GP,1.0,long
+GFCX01.1,Antheraea pernyi,Saturniidae,Lepidoptera,Insecta,Arthropoda,,,,,Antheraea_pernyi,TSA,55.8,IND,3.0,intermediate
+GCF_003254395.2,Apis mellifera,Apidae,Hymenoptera,Insecta,Arthropoda,,,,,Apis_mellifera,annotated_genome,98.3,IND,3.0,long
+GCA_009176605.1,Armadillidium nasatum,Armadillidiidae,Isopoda,Malacostraca,Arthropoda,,,,,Armadillidium_nasatum,annotated_genome,60.5,IND,2.0,
+GCA_004104545.1,Armadillidium vulgare,Armadillidiidae,Isopoda,Malacostraca,Arthropoda,,,,,Armadillidium_vulgare,annotated_genome,52.4,IND,2.0,
+GCA_964212115.1,Asellus aquaticus,Asellidae,Isopoda,Malacostraca,Arthropoda,,,,,Asellus_aquaticus,unannotated_genome,83.4,IND,2.0,
+GCF_917208135.1,Athalia rosae,Athaliidae,Hymenoptera,Insecta,Arthropoda,,,,,Athalia_rosae,annotated_genome,99.0,GP,1.0,long
+GCF_016617805.1,Bactrocera tryoni,Tephritidae,Diptera,Insecta,Arthropoda,,,,,Bactrocera_tryoni,annotated_genome,95.3,GP,1.0,long
+GCA_003018175.1,Blattella germanica,Blattellidae,Blattodea,Insecta,Arthropoda,,,,,Blattella_germanica,annotated_genome,66.5,IND,2.0,short
+GCF_030269925.1,Bombyx mori,Bombycidae,Lepidoptera,Insecta,Arthropoda,,,,,Bombyx_mori,annotated_genome,98.4,IND,2.0,intermediate
+GCF_014529535.1,Bradysia coprophila,Sciaridae,Diptera,Insecta,Arthropoda,,,,,Bradysia_coprophila,annotated_genome,96.4,GP,1.0,long
+GCF_958450345.1,Calliphora vicina,Calliphoridae,Diptera,Insecta,Arthropoda,,,,,Calliphora_vicina,annotated_genome,97.5,GP,1.0,long
+GEUF01.1,Callosobruchus maculatus,Chrysomelidae,Coleoptera,Insecta,Arthropoda,,,,,Callosobruchus_maculatus,TSA,75.7,GP,1.0,long
+GCF_003227725.1,Camponotus floridanus,Formicidae,Hymenoptera,Insecta,Arthropoda,,,,,Camponotus_floridanus,annotated_genome,97.3,GP,1.0,short
+GCA_022818195.1,Clogmia albipunctata,Psychodidae,Diptera,Insecta,Arthropoda,,,,,Clogmia_albipunctata,unannotated_genome,92.8,IND,2.0,long
+GCF_000648655.2,Copidosoma floridanum,Encyrtidae,Hymenoptera,Insecta,Arthropoda,,,,,Copidosoma_floridanum,annotated_genome,91.4,GP,1.0,long
+GAYP02.1,Ctenocephalides felis,Pulicidae,Siphonaptera,Insecta,Arthropoda,,,,,Ctenocephalides_felis,TSA,68.1,GP,1.0,long
+GCF_015732765.1,Culex quinquefasciatus,Culicidae,Diptera,Insecta,Arthropoda,,,,,Culex_quinquefasciatus,annotated_genome,94.2,GP,1.0,long
+GCF_020631705.1,Daphnia magna,Daphniidae,Diplostraca,Branchiopoda,Arthropoda,,,,,Daphnia_magna,annotated_genome,90.8,GP,1.0,
+GCF_011750605.1,Drosophila busckii,Drosophilidae,Diptera,Insecta,Arthropoda,,,,,Drosophila_busckii,annotated_genome,94.4,GP,1.0,long
+GCF_003285905.1,Drosophila hydei,Drosophilidae,Diptera,Insecta,Arthropoda,,,,,Drosophila_hydei,annotated_genome,94.4,GP,1.0,long
+GCF_000001215.4,Drosophila melanogaster,Drosophilidae,Diptera,Insecta,Arthropoda,,,,,Drosophila_melanogaster,annotated_genome,95.6,GP,1.0,long
+GCF_030788295.1,Drosophila virilis,Drosophilidae,Diptera,Insecta,Arthropoda,,,,,Drosophila_virilis,annotated_genome,93.8,GP,1.0,long
+GCF_018902025.1,Drosophila willistoni,Drosophilidae,Diptera,Insecta,Arthropoda,,,,,Drosophila_willistoni,annotated_genome,94.5,GP,1.0,long
+GAVW02.1,Epiophlebia superstes,Epiophlebiidae,Odonata,Insecta,Arthropoda,,,,,Epiophlebia_superstes,TSA,64.1,IND,2.0,short
+GCA_964304675.1,Epiphyas postvittana,Tortricidae,Lepidoptera,Insecta,Arthropoda,,,,,Epiphyas_postvittana,unannotated_genome,97.7,IND,2.0,short
+GKOI01.1,Euperipatoides rowelli,Peripatopsidae,Euonychophora,Udeonychophora,Onychophora,,,,,Peripatopsidae,TSA,84.7,IND,3.0,
+GKBM01.1,Euscorpius italicus,Euscorpiidae,Scorpiones,Arachnida,Arthropoda,,,,,Euscorpiidae,TSA,63.5,IND,2.0,
+GAYQ02.1,Forficula auricularia,Forficulidae,Dermaptera,Insecta,Arthropoda,,,,,Forficula_auricularia,TSA,52.1,IND,2.0,intermediate
+GCA_017312745.1,Gryllus bimaculatus,Gryllidae,Orthoptera,Insecta,Arthropoda,,,,,Gryllus_bimaculatus,annotated_genome,86.6,IND,3.0,intermediate
+GCF_022581195.2,Helicoverpa zea,Noctuidae,Lepidoptera,Insecta,Arthropoda,,,,,Helicoverpa_zea,annotated_genome,98.8,IND,2.0,short
+GEJI01.1,Icerya purchasi,Monophlebidae,Hemiptera,Insecta,Arthropoda,,,,,Icerya_purchasi,TSA,67.3,IND,2.0,intermediate
+GCTF01.1,Inocellia japonica,Inocelliidae,Raphidioptera,Insecta,Arthropoda,,,,,Inocellia_japonica,TSA,59.9,GP,1.0,long
+GCA_001045655.1,Lasius niger,Formicidae,Hymenoptera,Insecta,Arthropoda,,,,,Lasius_niger,annotated_genome,67.7,GP,1.0,short
+GCF_000500325.1,Leptinotarsa decemlineata,Chrysomelidae,Coleoptera,Insecta,Arthropoda,,,,,Leptinotarsa_decemlineata,annotated_genome,88.4,GP,1.0,short
+GCF_000517525.1,Limulus polyphemus,Limulidae,Xiphosura,Merostomata,Arthropoda,,,,,Limulus_polyphemus,annotated_genome,72.1,IND,3.0,
+GBDZ01.1,Locusta migratoria,Acrididae,Orthoptera,Insecta,Arthropoda,,,,,Locusta_migratoria,TSA,87.4,IND,3.0,short
+GCF_015586225.1,Lucilia sericata,Calliphoridae,Diptera,Insecta,Arthropoda,,,,,Lucilia_sericata,annotated_genome,88.8,GP,1.0,long
+GCF_015104395.2,Macrobrachium nipponense,Palaemonidae,Decapoda,Malacostraca,Arthropoda,,,,,Macrobrachium_nipponense,annotated_genome,86.6,GP,1.0,
+GCA_045786645.1,Macrocentrus cingulum,Braconidae,Hymenoptera,Insecta,Arthropoda,,,,,Macrocentrus_cingulum,unannotated_genome,95.0,GP,2.0,yes
+GCA_000149185.1,Mayetiola destructor,Cecidomyiidae,Diptera,Insecta,Arthropoda,,,,,Mayetiola_destructor,unannotated_genome,91.7,GP,1.0,
+GCA_964058975.1,Meganyctiphanes norvegica,Euphausiidae,Euphausiacea,Malacostraca,Arthropoda,,,,,Meganyctiphanes_norvegica,annotated_genome,70.2,IND,1.0,
+GARN01.1,Musca domestica,Muscidae,Diptera,Insecta,Arthropoda,,,,,Musca_domestica,TSA,84.6,GP,1.0,long
+GCF_009193385.2,Nasonia vitripennis,Pteromalidae,Hymenoptera,Insecta,Arthropoda,,,,,Nasonia_vitripennis,annotated_genome,96.3,GP,1.0,long
+GCA_964258955.1,Nymphalis antiopa,Nymphalidae,Lepidoptera,Insecta,Arthropoda,,,,,Nymphalis_antiopa,unannotated_genome,98.1,IND,2.0,
+GDMS01.1,Odontotaenius disjunctus,Passalidae,Coleoptera,Insecta,Arthropoda,,,,,Odontotaenius_disjunctus,TSA,59.0,IND,3.0,short
+GCXY01.1,Oncopeltus fasciatus,Lygaeidae,Hemiptera,Insecta,Arthropoda,,,,,Oncopeltus_fasciatus,TSA,70.8,IND,2.0,intermediate
+GCF_905163445.1,Pararge aegeria,Nymphalidae,Lepidoptera,Insecta,Arthropoda,,,,,Pararge_aegeria,annotated_genome,98.9,GP,2.0,intermediate
+GCF_000365465.3,Parasteatoda tepidariorum,Theridiidae,Araneae,Arachnida,Arthropoda,,,,,Parasteatoda_tepidariorum,annotated_genome,94.2,IND,3.0,
+GFVL01.1,Parhyale hawaiensis,Hyalidae,Amphipoda,Malacostraca,Arthropoda,,,,,Parhyale_hawaiensis,TSA,76.4,GP,1.0,
+GCF_024362695.1,Pectinophora gossypiella,Gelechiidae,Lepidoptera,Insecta,Arthropoda,,,,,Pectinophora_gossypiella,annotated_genome,97.2,GP,1.0,
+GCF_017312705.1,Penaeus japonicus,Penaeidae,Decapoda,Malacostraca,Arthropoda,,,,,Penaeus_japonicus,annotated_genome,94.3,GP,2.0,
+GCF_015228065.2,Penaeus monodon,Penaeidae,Decapoda,Malacostraca,Arthropoda,,,,,Penaeus_monodon,annotated_genome,84.8,GP,2.0,
+GCF_042767895.1,Penaeus vannamei,Penaeidae,Decapoda,Malacostraca,Arthropoda,,,,,Penaeus_vannamei,annotated_genome,88.0,GP,2.0,
+GCA_019434445.1,Phalangium opilio,Phalangiidae,Opiliones,Arachnida,Arthropoda,,,,,Phalangium_opilio,unannotated_genome,88.9,IND,2.0,
+GCF_024763615.1,Phlebotomus papatasi,Psychodidae,Diptera,Insecta,Arthropoda,,,,,Phlebotomus_papatasi,annotated_genome,95.7,GP,1.0,long
+GCF_905147795.1,Pieris rapae,Pieridae,Lepidoptera,Insecta,Arthropoda,,,,,Pieris_rapae,annotated_genome,98.0,IND,3.0,intermediate
+GCF_950023065.1,Planococcus citri,Pseudococcidae,Hemiptera,Insecta,Arthropoda,,,,,Planococcus_citri,annotated_genome,88.2,IND,2.0,intermediate
+GCA_039877355.1,Pyrrhocoris apterus,Pyrrhocoridae,Hemiptera,Insecta,Arthropoda,,,,,Pyrrhocoris_apterus,unannotated_genome,90.3,IND,3.0,
+GECK01.1,Rhodnius prolixus,Reduviidae,Hemiptera,Insecta,Arthropoda,,,,,Rhodnius_prolixus,TSA,91.4,IND,2.0,intermediate
+GCF_023897955.1,Schistocerca gregaria,Acrididae,Orthoptera,Insecta,Arthropoda,,,,,Schistocerca_gregaria,annotated_genome,95.7,IND,2.0,short
+GCAP01.1,Scolopendra cingulata,Scolopendridae,Scolopendromorpha,Chilopoda,Arthropoda,,,,,Scolopendra_cingulata,TSA,52.3,IND,2.0,
+GCA_041003635.1,Simocephalus vetulus,Daphniidae,Diplostraca,Branchiopoda,Arthropoda,,,,,Simocephalus_vetulus,unannotated_genome,90.9,IND,2.0,
+GCF_002938485.1,Sitophilus oryzae,Curculionidae,Coleoptera,Insecta,Arthropoda,,,,,Sitophilus_oryzae,annotated_genome,96.7,GP,1.0,short
+GCF_963082655.1,Stomoxys calcitrans,Muscidae,Diptera,Insecta,Arthropoda,,,,,Stomoxys_calcitrans,annotated_genome,96.5,GP,1.0,long
+GCA_000239455.1,Strigamia maritima,Linotaeniidae,Geophilomorpha,Chilopoda,Arthropoda,,,,,Strigamia_maritima,unannotated_genome,88.8,IND,2.0,
+GCF_963966145.1,Tenebrio molitor,Tenebrionidae,Coleoptera,Insecta,Arthropoda,,,,,Tenebrio_molitor,annotated_genome,98.3,IND,2.0,short
+GCF_000239435.1,Tetranychus urticae,Tetranychidae,Trombidiformes,Arachnida,Arthropoda,,,,,Tetranychus_urticae,annotated_genome,83.3,GP,1.0,
+GAXI02.1,Tetrodontophora bielanensis,Onychiuridae,Poduromorpha,Collembola,Arthropoda,,,,,Tetrodontophora_bielanensis,TSA,61.5,GP,1.0,
+GASN02.1,Thermobia domestica,Lepismatidae,Zygentoma,Insecta,Arthropoda,,,,,Thermobia_domestica,TSA,62.3,IND,3.0,short
+GCF_031307605.1,Tribolium castaneum,Tenebrionidae,Coleoptera,Insecta,Arthropoda,,,,,Tribolium_castaneum,annotated_genome,98.7,IND,2.0,short
+GCA_029207805.1,Tribolium confusum,Tenebrionidae,Coleoptera,Insecta,Arthropoda,,,,,Tribolium_confusum,unannotated_genome,96.6,IND,2.0,
+GBMC01.1,Trichogramma evanescens,Trichogrammatidae,Hymenoptera,Insecta,Arthropoda,,,,,Trichogramma_evanescens,TSA,70.4,GP,1.0,long
+GCAT01.1,Triops cancriformis,Triopsidae,Notostraca,Branchiopoda,Arthropoda,Triops granarius,Triops longicaudatus,,,Triopsidae,TSA,75.9,IND,3.0,
+GCA_021730765.1,Tyrophagus putrescentiae,Acaridae,Sarcoptiformes,Arachnida,Arthropoda,Acarus siro,,,,Acaridae,annotated_genome,85.5,IND,3.0,
+IBOG01.1,Tegenaria domestica,Agelenidae,Araneae,Arachnida,Arthropoda,Agelena labyrinthica,,,,Agelenidae,TSA,64.2,IND,3.0,
+GCF_032884065.1,Artemia franciscana,Artemiidae,Anostraca,Branchiopoda,Arthropoda,Artemia salina,,,,Artemiidae,annotated_genome,84.5,IND,3.0,
+GCF_040183065.1,Periplaneta americana,Blattidae,Blattodea,Insecta,Arthropoda,Blatta orientalis,,,,Blattidae,annotated_genome,96.8,IND,2.0,
+GCXH01.1,Ischnodemus falicus,Blissidae,Hemiptera,Insecta,Arthropoda,Blissus leucopterus hirtus,,,,Blissidae,TSA,72.1,IND,2.0,
+GAYK02.1,Boreus hyemalis,Boreidae,Mecoptera,Insecta,Arthropoda,Boreus westwoodi,,,,Boreidae,TSA,69.3,IND,,short
+GJFL01.1,Calanus helgolandicus,Calanidae,Calanoida,Hexanauplia,Arthropoda,Calanus finmarchicus,,,,Calanidae,TSA,79.8,IND,3.0,
+GDPI01.1,Elaphrus aureus,Carabidae,Coleoptera,Insecta,Arthropoda,Carabus insulicola,,,,Carabidae,TSA,73.1,IND,,
+GCA_018290095.1,Polypedilum vanderplanki,Chironomidae,Diptera,Insecta,Arthropoda,Chironomus sp.,Chironomus confinis,Smittia sp.,,Chironomidae,annotated_genome,95.4,GP,1.0,
+GCA_905338395.1,Cyprideis torosa,Cytherideidae,Podocopida,Ostracoda,Arthropoda,,,,,Cytherideidae,annotated_genome,61.5,IND,,
+GCIW01.1,Hemidiaptomus amblyodon,Diaptomidae,Calanoida,Hexanauplia,Arthropoda,Diaptomus coeruleus,,,,Diaptomidae,TSA,58.1,IND,2.0,
+GDLH01.1,Cybister lateralimarginalis,Dytiscidae,Coleoptera,Insecta,Arthropoda,Hydaticus pacificus,,,,Dytiscidae,TSA,66.5,IND,,
+GCA_902825455.1,Arctia plantaginis,Erebidae,Lepidoptera,Insecta,Arthropoda,Spilosoma virginica,Amata fortunei,,,Erebidae,annotated_genome,92.3,IND,2.0,
+GHHU01.1,Gammarus lacustris,Gammaridae,Amphipoda,Malacostraca,Arthropoda,Gammarus pulex,,,,Gammaridae,TSA,58.4,IND,3.0,
+GESA01.1,Haploglomeris multistriata,Glomeridae,Glomerida,Diplopoda,Arthropoda,Glomeris marginata,,,,Glomeridae,TSA,72.3,IND,3.0,
+GAUY02.1,Gyrinus marinus,Gyrinidae,Coleoptera,Insecta,Arthropoda,Dineutus mellyi,,,,Gyrinidae,TSA,62.6,IND,,
+GEOO01.1,Phymatopus californicus,Hepialidae,Lepidoptera,Insecta,Arthropoda,Endoclita signifer,,,,Hepialidae,TSA,69.8,IND,2.0,
+GCF_019457755.1,Venturia canescens,Ichneumonidae,Hymenoptera,Insecta,Arthropoda,Lissonota catenator,Pimpla turionellae,Cosmoconus meridionator,,Ichneumonidae,annotated_genome,98.8,GP,1.0,
+GCA_035610365.1,Aquatica leii,Lampyridae,Coleoptera,Insecta,Arthropoda,Nipponoluciola cruciata,Pyrocoelia rufa,Aquatica lateralis,Hotaria parvula,Lampyridae,annotated_genome,93.2,IND,,
+GJCT01.1,Chondrochelia sp. R27,Leptocheliidae,Tanaidacea,Malacostraca,Arthropoda,Heterotanis oerstedi,,,,Leptocheliidae,TSA,51.5,IND,,
+GFEG01.1,Embidopsocus sp. EmspLi2,Liposcelididae,Psocoptera,Insecta,Arthropoda,Liposcelis divergens,,,,Liposcelididae,TSA,77.3,IND,2.0,
+HBDP01.1,Machilis pallida,Machilidae,Archaeognatha,Insecta,Arthropoda,Petrobius brevistylis,,,,Machilidae,TSA,76.4,IND,3.0,short
+GASW02.1,Mantis religiosa,Mantidae,Mantodea,Insecta,Arthropoda,Rhombodera crassa,,,,Mantidae,TSA,53.9,IND,3.0,
+GATA02.1,Meloe violaceus,Meloidae,Coleoptera,Insecta,Arthropoda,Lytta viridana,,,,Meloidae,TSA,65.8,IND,2.0,
+GKMB01.1,Americamysis bahia,Mysidae,Mysida,Malacostraca,Arthropoda,Hemimysis lamornae,Mesopodopsis orientalis,Neomysis integer,,Mysidae,TSA,64.4,IND,2.0,
+GAUE02.1,Anurida maritima,Neanuridae,Poduromorpha,Collembola,Arthropoda,,,,,Anurida_maritima,TSA,71.9,,,
+GCA_016618385.1,Nymphon striatum,Nymphonidae,Pantopoda,Pycnogonida,Arthropoda,Nymphon brevirostre,Nymphon hirtum,,,Nymphonidae,annotated_genome,56.5,IND,3.0,
+GIHN01.1,Panulirus argus,Palinuridae,Decapoda,Malacostraca,Arthropoda,Panulirus japonicus,,,,Palinuridae,TSA,55.1,GP,2.0,
+GAUH02.1,Panorpa vulgaris,Panorpidae,Mecoptera,Insecta,Arthropoda,Panorpa pryeri,,,,Panorpidae,TSA,59.9,GP,2.0,short
+GCF_028537555.1,Battus philenor,Papilionidae,Lepidoptera,Insecta,Arthropoda,Parnassius glacialis,Byasa alcinous alcinous,Luehdorfia japonica,,Papilionidae,annotated_genome,99.4,IND,2.0,
+GKOK01.1,Principapillatus hitoyensis,Peripatidae,Euonychophora,Udeonychophora,Onychophora,Eoperipatus weldoni,Epiperipatus biolleyi,,,Peripatidae,TSA,83.7,IND,3.0,
+GCYQ01.1,Phlaeothripidae sp. AD-2014,Phlaeothripidae,Thysanoptera,Insecta,Arthropoda,Bactrothrips brevitubus,Haplothrips verbasci,,,Phlaeothripidae,TSA,62.4,GP,,
+GERZ01.1,Hanseniella nivea,Scutigerellidae,Symphyla,Symphyla,Arthropoda,Hanseniella agilis,,,,Scutigerellidae,TSA,71.8,IND,3.0,
+GCTV01.1,Sialis fuliginosa,Sialidae,Megaloptera,Insecta,Arthropoda,Sialis mitsuhashii okamoto,,,,Sialidae,TSA,66.7,IND,2.0,
+GGQP01.1,Diaphanosoma celebensis,Sididae,Diplostraca,Branchiopoda,Arthropoda,Penilia avirostris,,,,Sididae,TSA,65.7,IND,3.0,
+GDRS01.1,Stenopsychodes sp. AD-2015,Stenopsychidae,Trichoptera,Insecta,Arthropoda,Stenopsyche griseipennis,,,,Stenopsychidae,TSA,54.2,IND,3.0,
+GCA_006783055.1,Trinorchestia longiramus,Talitridae,Amphipoda,Malacostraca,Arthropoda,Orchestia cavimana,,,,Talitridae,annotated_genome,79.6,GP,1.0,
+GAWW02.1,Tenthredo koehleri,Tenthredinidae,Hymenoptera,Insecta,Arthropoda,Nematus ribesii,,,,Tenthredinidae,TSA,79.9,IND,3.0,
+GCF_040414725.1,Anabrus simplex,Tettigoniidae,Orthoptera,Insecta,Arthropoda,Conocephalus brevipennis,,,,Tettigoniidae,annotated_genome,96.3,IND,3.0,
+GATD02.1,Pogonognathellus sp. AD-2013,Tomoceridae,Entomobryomorpha,Collembola,Arthropoda,Tomocerus cuspidatus,Tomocerus ishibashii yosii,,,Tomoceridae,TSA,67.9,IND,2.0,
+GDPF01.1,Megasternum obscurum,Hydrophilidae,Coleoptera,Insecta,Arthropoda,Hydrophilus piceus,,,,Hydrophilidae,TSA,68.4,IND,3.0,short
+GIHV01.1,Wyochernes asiaticus,Chernetidae,Pseudoscorpiones,Arachnida,Arthropoda,Pselaphochernes scorpioides,,,,Pseudoscorpiones,TSA,61.5,IND,3.0,
+GJIT01.1,Euphrynichus bacillifer,Phrynichidae,Amblypygi,Arachnida,Arthropoda,Heterophrynus pumilio,Phrynus marginemaculatus,,,Amblypygi,TSA,51.5,IND,3.0,
+GCF_000648695.1,Onthophagus taurus,Scarabaeidae,Coleoptera,Insecta,Arthropoda,Phyllophaga fervida,,,,Scarabaeidae,annotated_genome,96.4,IND,2.0,short
+GCF_019649055.1,Paramacrobiotus metropolitanus,Macrobiotidae,Parachela,Eutardigrada,Tardigrada,Hypsibius dujardini,Thulinia stephaniae,,,Parachela,annotated_genome,75.1,IND,2.0,
