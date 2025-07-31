@@ -1,5 +1,17 @@
 # panarthropoda_gc_specification_evolution
 Code and associated data for ancestral state reconstruction of germ plasm specification mode across Panarthropoda
+## supplementary_tables
+Supplementary tables S3, S4 and S9 (remaining tables are are available in the paper supplement).
+
+### Supplementary Table S9. Results of search for oskar orthologs. 
+BUSCO scores may differ from Table S4 for the 7 unannotated genomes (Clogmia albipunctata, Mayetiola destructor, 
+Macrocentus cingulum, Epiphyas postvittana, Nymphalis Antopa, Pyrrhocoris apterus, Tribolium 
+confusum), as the BUSCO scores and oskar presence are determined from AUGUSTUS genome 
+annotations. “Blondel_oskar_count” column indicates the total number of oskar orthologs 
+previously identified across all datasets from this species (Blondel et al., 2021) Empty cells 
+indicate that the species was not analyzed in Blondel et al., 2021 on oskar ortholog evolution. “oskar_present” column indicates that oskar was detected in the current analysis and/or 
+in our previous work (Blondel et al., 2021). "data_type" indicates whether the proteins predictions were obtained directly from protein fastas on NCBI ("NCBI-annotated genome"), from TransDecoder run on transcriptome shotgun assembly nucleotide sequences ("TSA"), or from ab initio annotations generated with AUGUSTUS ("AUGUSTUS-annotated genome"). We were unable to find sequence data for species in the "sub_species" columns, and instead substituted the genomes/transcriptomes for species in the same taxonomic family. "oskar_accession" columns provide either NCBI protein accessions for NCBI-annotated genomes ("https://www.ncbi.nlm.nih.gov/protein/"), TSA nucleotide accessions for TSAs (https://www.ncbi.nlm.nih.gov/genbank/tsa/), or AUGUSTUS-generated accessions for AUGUSTUS-annotated genomes. All oskar protien sequences are availabel on github ("oskar_proteins.fa"). 
+
 
 ## Dependencies 
 R version 4.2.3
