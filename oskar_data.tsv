@@ -1,82 +1,82 @@
-NCBI accession	species	subs	BUSCO_complete_single_copy	family	order	oskar_accessions	blondel_oskar_count	oskar_present	iq_tree_label	GC_mech
-GCA_963669975.1	Acanthoscelides obtectus		81.0	Chrysomelidae	Coleoptera	{'CAK1628125.1'}		True	Acanthoscelides_obtectus	GP
-GHUU01.1	Acheta domesticus		72.9	Gryllidae	Orthoptera	{'GHUU01.1;GHUU01020574.1.p1'}	1.0	True	Acheta_domesticus	IND
-GCF_005508785.2	Acyrthosiphon pisum		88.8	Aphididae	Hemiptera		0.0	False	Acyrthosiphon_pisum	GP
-GCF_002204515.2	Aedes aegypti		92.6	Culicidae	Diptera	{'XP_001656415.1'}	2.0	True	Aedes_aegypti	GP
-GCF_943734735.2	Anopheles gambiae		97.2	Culicidae	Diptera	{'XP_313289.4'}	1.0	True	Anopheles_gambiae	GP
-GFCX01.1	Antheraea pernyi		55.8	Saturniidae	Lepidoptera		0.0	False	Antheraea_pernyi	IND
-GCF_003254395.2	Apis mellifera		98.3	Apidae	Hymenoptera		0.0	False	Apis_mellifera	IND
-GCF_917208135.1	Athalia rosae		99.0	Athaliidae	Hymenoptera	{'XP_012267561.2'}	1.0	True	Athalia_rosae	GP
-GCF_016617805.1	Bactrocera tryoni		95.3	Tephritidae	Diptera	{'XP_039970531.1'}	0.0	True	Bactrocera_tryoni	GP
-GCA_003018175.1	Blattella germanica		66.5	Blattellidae	Blattodea		0.0	False	Blattella_germanica	IND
-GCF_030269925.1	Bombyx mori		98.4	Bombycidae	Lepidoptera		0.0	False	Bombyx_mori	IND
-GCF_014529535.1	Bradysia coprophila		96.4	Sciaridae	Diptera	{'XP_037045674.1', 'XP_037038002.1'}		True	Bradysia_coprophila	GP
-GCF_958450345.1	Calliphora vicina		97.5	Calliphoridae	Diptera	{'XP_065354390.1'}	0.0	True	Calliphora_vicina	GP
-GEUF01.1	Callosobruchus maculatus		75.7	Chrysomelidae	Coleoptera	{'GEUF01.1;GEUF01052237.1.p1', 'GEUF01.1;GEUF01038497.1.p1', 'GEUF01.1;GEUF01006592.1.p1'}	1.0	True	Callosobruchus_maculatus	GP
-GCF_003227725.1	Camponotus floridanus		97.3	Formicidae	Hymenoptera	{'XP_011252874.1'}	1.0	True	Camponotus_floridanus	GP
-GCA_022818195.1	Clogmia albipunctata		79.1	Psychodidae	Diptera		0.0	False	Clogmia_albipunctata	IND
-GCF_000648655.2	Copidosoma floridanum		91.4	Encyrtidae	Hymenoptera	{'XP_014212910.1'}	1.0	True	Copidosoma_floridanum	GP
-GAYP02.1	Ctenocephalides felis		68.1	Pulicidae	Siphonaptera		0.0	False	Ctenocephalides_felis	GP
-GCF_015732765.1	Culex quinquefasciatus		94.2	Culicidae	Diptera	{'XP_001848641.1'}	1.0	True	Culex_quinquefasciatus	GP
-GCF_011750605.1	Drosophila busckii		94.4	Drosophilidae	Diptera	{'XP_017845653.1|LOC108602136'}	1.0	True	Drosophila_busckii	GP
-GCF_003285905.1	Drosophila hydei		94.4	Drosophilidae	Diptera	{'XP_023173869.2|LOC111601507'}	1.0	True	Drosophila_hydei	GP
-GCF_000001215.4	Drosophila melanogaster		95.6	Drosophilidae	Diptera	{'NP_731295.1'}	1.0	True	Drosophila_melanogaster	GP
-GCF_030788295.1	Drosophila virilis		93.8	Drosophilidae	Diptera	{'XP_002053269.1|osk'}	1.0	True	Drosophila_virilis	GP
-GCF_018902025.1	Drosophila willistoni		94.5	Drosophilidae	Diptera	{'XP_023034501.2|LOC6647420'}	1.0	True	Drosophila_willistoni	GP
-GAVW02.1	Epiophlebia superstes		64.1	Epiophlebiidae	Odonata		0.0	False	Epiophlebia_superstes	IND
-GCA_964304675.1	Epiphyas postvittana		72.3	Tortricidae	Lepidoptera		0.0	False	Epiphyas_postvittana	IND
-GAYQ02.1	Forficula auricularia		52.1	Forficulidae	Dermaptera		0.0	False	Forficula_auricularia	IND
-GCA_017312745.1	Gryllus bimaculatus		86.6	Gryllidae	Orthoptera	{'GLG94685.1'}	0.0	True	Gryllus_bimaculatus	IND
-GCF_022581195.2	Helicoverpa zea		98.8	Noctuidae	Lepidoptera		0.0	False	Helicoverpa_zea	IND
-GEJI01.1	Icerya purchasi		67.3	Monophlebidae	Hemiptera			False	Icerya_purchasi	IND
-GCTF01.1	Inocellia japonica		59.9	Inocelliidae	Raphidioptera			False	Inocellia_japonica	GP
-GCA_001045655.1	Lasius niger		67.7	Formicidae	Hymenoptera		0.0	False	Lasius_niger	GP
-GCF_000500325.1	Leptinotarsa decemlineata		88.4	Chrysomelidae	Coleoptera	{'XP_023025754.1'}	2.0	True	Leptinotarsa_decemlineata	GP
-GBDZ01.1	Locusta migratoria		87.4	Acrididae	Orthoptera		0.0	False	Locusta_migratoria	IND
-GCF_015586225.1	Lucilia sericata		88.8	Calliphoridae	Diptera	{'XP_037808551.1'}	0.0	True	Lucilia_sericata	GP
-GCA_045786645.1	Macrocentrus cingulum		0.0	Braconidae	Hymenoptera		1.0	True	Macrocentrus_cingulum	GP
-GCA_000149185.1	Mayetiola destructor		24.0	Cecidomyiidae	Diptera	{'g5637.t1'}	0.0	True	Mayetiola_destructor	GP
-GARN01.1	Musca domestica		84.6	Muscidae	Diptera		2.0	True	Musca_domestica	GP
-GCF_009193385.2	Nasonia vitripennis		96.3	Pteromalidae	Hymenoptera	{'NP_001234884.1'}	2.0	True	Nasonia_vitripennis	GP
-GCA_964258955.1	Nymphalis antiopa		80.1	Nymphalidae	Lepidoptera			False	Nymphalis_antiopa	IND
-GDMS01.1	Odontotaenius disjunctus		59.0	Passalidae	Coleoptera			False	Odontotaenius_disjunctus	IND
-GCXY01.1	Oncopeltus fasciatus		70.8	Lygaeidae	Hemiptera		0.0	False	Oncopeltus_fasciatus	IND
-GCF_905163445.1	Pararge aegeria		98.9	Nymphalidae	Lepidoptera		0.0	False	Pararge_aegeria	GP
-GCF_024362695.1	Pectinophora gossypiella		97.2	Gelechiidae	Lepidoptera		0.0	False	Pectinophora_gossypiella	GP
-GCF_024763615.1	Phlebotomus papatasi		95.7	Psychodidae	Diptera	{'XP_055701593.1'}	1.0	True	Phlebotomus_papatasi	GP
-GCF_905147795.1	Pieris rapae		98.0	Pieridae	Lepidoptera		0.0	False	Pieris_rapae	IND
-GCF_950023065.1	Planococcus citri		88.2	Pseudococcidae	Hemiptera		0.0	False	Planococcus_citri	IND
-GCA_039877355.1	Pyrrhocoris apterus		57.2	Pyrrhocoridae	Hemiptera		0.0	False	Pyrrhocoris_apterus	IND
-GECK01.1	Rhodnius prolixus		91.4	Reduviidae	Hemiptera		0.0	False	Rhodnius_prolixus	IND
-GCF_023897955.1	Schistocerca gregaria		95.7	Acrididae	Orthoptera			False	Schistocerca_gregaria	IND
-GCF_002938485.1	Sitophilus oryzae		96.7	Curculionidae	Coleoptera	{'XP_030756107.1'}	1.0	True	Sitophilus_oryzae	GP
-GCF_963082655.1	Stomoxys calcitrans		96.5	Muscidae	Diptera	{'XP_013106491.2'}	2.0	True	Stomoxys_calcitrans	GP
-GCF_963966145.1	Tenebrio molitor		98.3	Tenebrionidae	Coleoptera			False	Tenebrio_molitor	IND
-GASN02.1	Thermobia domestica		62.3	Lepismatidae	Zygentoma		0.0	False	Thermobia_domestica	IND
-GCF_031307605.1	Tribolium castaneum		98.7	Tenebrionidae	Coleoptera		0.0	False	Tribolium_castaneum	IND
-GCA_029207805.1	Tribolium confusum		59.5	Tenebrionidae	Coleoptera			False	Tribolium_confusum	IND
-GBMC01.1	Trichogramma evanescens		70.4	Trichogrammatidae	Hymenoptera	{'GBMC01.1;GBMC01011982.1.p1'}	1.0	True	Trichogramma_evanescens	GP
-GCF_040183065.1	Periplaneta americana	{'Blatta orientalis'}	96.8	Blattidae	Blattodea	{'XP_069700099.1'}	2.0	True	Blattidae	IND
-GCXH01.1	Ischnodemus falicus	{'Blissus leucopterus hirtus'}	72.1	Blissidae	Hemiptera		0.0	False	Blissidae	IND
-GAYK02.1	Boreus hyemalis	{'Boreus westwoodi'}	69.3	Boreidae	Mecoptera		1.0	True	Boreidae	IND
-GDPI01.1	Elaphrus aureus	{'Carabus insulicola'}	73.1	Carabidae	Coleoptera	{'GDPI01.1;GDPI01010195.1.p1'}	1.0	True	Carabidae	IND
-GCA_018290095.1	Polypedilum vanderplanki	{'Smittia sp.', 'Chironomus confinis', 'Chironomus sp.'}	95.4	Chironomidae	Diptera			False	Chironomidae	GP
-GDLH01.1	Cybister lateralimarginalis	{'Hydaticus pacificus'}	66.5	Dytiscidae	Coleoptera		0.0	False	Dytiscidae	IND
-GCA_902825455.1	Arctia plantaginis	{'Amata fortunei', 'Spilosoma virginica'}	92.3	Erebidae	Lepidoptera		0.0	False	Erebidae	IND
-GAUY02.1	Gyrinus marinus	{'Dineutus mellyi'}	62.6	Gyrinidae	Coleoptera		0.0	False	Gyrinidae	IND
-GEOO01.1	Phymatopus californicus	{'Endoclita signifer'}	69.8	Hepialidae	Lepidoptera		0.0	False	Hepialidae	IND
-GCF_019457755.1	Venturia canescens	{'Pimpla turionellae', 'Cosmoconus meridionator', 'Lissonota catenator'}	98.8	Ichneumonidae	Hymenoptera	{'XP_043269694.1'}		True	Ichneumonidae	GP
-GCA_035610365.1	Aquatica leii	{'Nipponoluciola cruciata', 'Aquatica lateralis', 'Pyrocoelia rufa', 'Hotaria parvula'}	93.2	Lampyridae	Coleoptera			False	Lampyridae	IND
-GFEG01.1	Embidopsocus sp. EmspLi2	{'Liposcelis divergens'}	77.3	Liposcelididae	Psocoptera			False	Liposcelididae	IND
-HBDP01.1	Machilis pallida	{'Petrobius brevistylis'}	76.4	Machilidae	Archaeognatha			False	Machilidae	IND
-GASW02.1	Mantis religiosa	{'Rhombodera crassa'}	53.9	Mantidae	Mantodea		0.0	False	Mantidae	IND
-GATA02.1	Meloe violaceus	{'Lytta viridana'}	65.8	Meloidae	Coleoptera		0.0	False	Meloidae	IND
-GAUH02.1	Panorpa vulgaris	{'Panorpa pryeri'}	59.9	Panorpidae	Mecoptera		1.0	True	Panorpidae	GP
-GCF_028537555.1	Battus philenor	{'Byasa alcinous alcinous', 'Luehdorfia japonica', 'Parnassius glacialis'}	99.4	Papilionidae	Lepidoptera			False	Papilionidae	IND
-GCYQ01.1	Phlaeothripidae sp. AD-2014	{'Haplothrips verbasci', 'Bactrothrips brevitubus'}	62.4	Phlaeothripidae	Thysanoptera	{'GCYQ01.1;GCYQ01052767.1.p1'}	1.0	True	Phlaeothripidae	GP
-GCTV01.1	Sialis fuliginosa	{'Sialis mitsuhashii okamoto'}	66.7	Sialidae	Megaloptera			False	Sialidae	IND
-GDRS01.1	Stenopsychodes sp. AD-2015	{'Stenopsyche griseipennis'}	54.2	Stenopsychidae	Trichoptera	{'GDRS01.1;GDRS01002278.1.p1'}		True	Stenopsychidae	IND
-GAWW02.1	Tenthredo koehleri	{'Nematus ribesii'}	79.9	Tenthredinidae	Hymenoptera	{'GAWW02.1;GAWW02024808.1.p1'}	1.0	True	Tenthredinidae	IND
-GCF_040414725.1	Anabrus simplex	{'Conocephalus brevipennis'}	96.3	Tettigoniidae	Orthoptera	{'XP_068087189.1'}		True	Tettigoniidae	IND
-GDPF01.1	Megasternum obscurum 	{'Hydrophilus piceus'}	68.4	Hydrophilidae	Coleoptera			False	Hydrophilidae	IND
-GCF_000648695.1	Onthophagus taurus	{'Phyllophaga fervida'}	96.4	Scarabaeidae	Coleoptera		0.0	False	Scarabaeidae	IND
+	NCBI accession	species	subs	BUSCO_complete_single_copy	family	order	oskar_accessions	blondel_oskar_count	oskar_present	iq_tree_label	GC_mech
+0	GCA_963669975.1	Acanthoscelides obtectus		81.0	Chrysomelidae	Coleoptera	{'CAK1628125.1'}		True	Acanthoscelides_obtectus	GP
+1	GHUU01.1	Acheta domesticus		72.9	Gryllidae	Orthoptera	{'GHUU01.1;GHUU01020574.1.p1'}	1.0	True	Acheta_domesticus	IND
+2	GCF_005508785.2	Acyrthosiphon pisum		88.8	Aphididae	Hemiptera		0.0	False	Acyrthosiphon_pisum	GP
+3	GCF_002204515.2	Aedes aegypti		92.6	Culicidae	Diptera	{'XP_001656415.1'}	2.0	True	Aedes_aegypti	GP
+4	GCF_943734735.2	Anopheles gambiae		97.2	Culicidae	Diptera	{'XP_313289.4'}	1.0	True	Anopheles_gambiae	GP
+5	GFCX01.1	Antheraea pernyi		55.8	Saturniidae	Lepidoptera		0.0	False	Antheraea_pernyi	IND
+6	GCF_003254395.2	Apis mellifera		98.3	Apidae	Hymenoptera		0.0	False	Apis_mellifera	IND
+7	GCF_917208135.1	Athalia rosae		99.0	Athaliidae	Hymenoptera	{'XP_012267561.2'}	1.0	True	Athalia_rosae	GP
+8	GCF_016617805.1	Bactrocera tryoni		95.3	Tephritidae	Diptera	{'XP_039970531.1'}	0.0	True	Bactrocera_tryoni	GP
+9	GCA_003018175.1	Blattella germanica		66.5	Blattellidae	Blattodea		0.0	False	Blattella_germanica	IND
+10	GCF_030269925.1	Bombyx mori		98.4	Bombycidae	Lepidoptera		0.0	False	Bombyx_mori	IND
+11	GCF_014529535.1	Bradysia coprophila		96.4	Sciaridae	Diptera	{'XP_037045674.1', 'XP_037038002.1'}		True	Bradysia_coprophila	GP
+12	GCF_958450345.1	Calliphora vicina		97.5	Calliphoridae	Diptera	{'XP_065354390.1'}	0.0	True	Calliphora_vicina	GP
+13	GEUF01.1	Callosobruchus maculatus		75.7	Chrysomelidae	Coleoptera	{'GEUF01.1;GEUF01052237.1.p1', 'GEUF01.1;GEUF01038497.1.p1', 'GEUF01.1;GEUF01006592.1.p1'}	1.0	True	Callosobruchus_maculatus	GP
+14	GCF_003227725.1	Camponotus floridanus		97.3	Formicidae	Hymenoptera	{'XP_011252874.1'}	1.0	True	Camponotus_floridanus	GP
+15	GCA_965637365.1	Clogmia albipunctata		79.1	Psychodidae	Diptera		0.0	False	Clogmia_albipunctata	IND
+16	GCF_000648655.2	Copidosoma floridanum		91.4	Encyrtidae	Hymenoptera	{'XP_014212910.1'}	1.0	True	Copidosoma_floridanum	GP
+17	GAYP02.1	Ctenocephalides felis		68.1	Pulicidae	Siphonaptera		0.0	False	Ctenocephalides_felis	GP
+18	GCF_015732765.1	Culex quinquefasciatus		94.2	Culicidae	Diptera	{'XP_001848641.1'}	1.0	True	Culex_quinquefasciatus	GP
+19	GCF_011750605.1	Drosophila busckii		94.4	Drosophilidae	Diptera	{'XP_017845653.1|LOC108602136'}	1.0	True	Drosophila_busckii	GP
+20	GCF_003285905.1	Drosophila hydei		94.4	Drosophilidae	Diptera	{'XP_023173869.2|LOC111601507'}	1.0	True	Drosophila_hydei	GP
+21	GCF_000001215.4	Drosophila melanogaster		95.6	Drosophilidae	Diptera	{'NP_731295.1'}	1.0	True	Drosophila_melanogaster	GP
+22	GCF_030788295.1	Drosophila virilis		93.8	Drosophilidae	Diptera	{'XP_002053269.1|osk'}	1.0	True	Drosophila_virilis	GP
+23	GCF_018902025.1	Drosophila willistoni		94.5	Drosophilidae	Diptera	{'XP_023034501.2|LOC6647420'}	1.0	True	Drosophila_willistoni	GP
+24	GAVW02.1	Epiophlebia superstes		64.1	Epiophlebiidae	Odonata		0.0	False	Epiophlebia_superstes	IND
+25	GCA_964304675.1	Epiphyas postvittana		72.3	Tortricidae	Lepidoptera		0.0	False	Epiphyas_postvittana	IND
+26	GAYQ02.1	Forficula auricularia		52.1	Forficulidae	Dermaptera		0.0	False	Forficula_auricularia	IND
+27	GCA_017312745.1	Gryllus bimaculatus		86.6	Gryllidae	Orthoptera	{'GLG94685.1'}	0.0	True	Gryllus_bimaculatus	IND
+28	GCF_022581195.2	Helicoverpa zea		98.8	Noctuidae	Lepidoptera		0.0	False	Helicoverpa_zea	IND
+29	GEJI01.1	Icerya purchasi		67.3	Monophlebidae	Hemiptera			False	Icerya_purchasi	IND
+30	GCTF01.1	Inocellia japonica		59.9	Inocelliidae	Raphidioptera			False	Inocellia_japonica	GP
+31	GCA_001045655.1	Lasius niger		67.7	Formicidae	Hymenoptera		0.0	False	Lasius_niger	GP
+32	GCF_000500325.1	Leptinotarsa decemlineata		88.4	Chrysomelidae	Coleoptera	{'XP_023025754.1'}	2.0	True	Leptinotarsa_decemlineata	GP
+33	GBDZ01.1	Locusta migratoria		87.4	Acrididae	Orthoptera		0.0	False	Locusta_migratoria	IND
+34	GCF_015586225.1	Lucilia sericata		88.8	Calliphoridae	Diptera	{'XP_037808551.1'}	0.0	True	Lucilia_sericata	GP
+35	GCA_045786645.1	Macrocentrus cingulum		0.0	Braconidae	Hymenoptera		1.0	True	Macrocentrus_cingulum	GP
+36	GCA_000149185.1	Mayetiola destructor		24.0	Cecidomyiidae	Diptera	{'g5637.t1'}	0.0	True	Mayetiola_destructor	GP
+37	GARN01.1	Musca domestica		84.6	Muscidae	Diptera		2.0	True	Musca_domestica	GP
+38	GCF_009193385.2	Nasonia vitripennis		96.3	Pteromalidae	Hymenoptera	{'NP_001234884.1'}	2.0	True	Nasonia_vitripennis	GP
+39	GCA_964258955.1	Nymphalis antiopa		80.1	Nymphalidae	Lepidoptera			False	Nymphalis_antiopa	IND
+40	GDMS01.1	Odontotaenius disjunctus		59.0	Passalidae	Coleoptera			False	Odontotaenius_disjunctus	IND
+41	GCXY01.1	Oncopeltus fasciatus		70.8	Lygaeidae	Hemiptera		0.0	False	Oncopeltus_fasciatus	IND
+42	GCF_905163445.1	Pararge aegeria		98.9	Nymphalidae	Lepidoptera		0.0	False	Pararge_aegeria	GP
+43	GCF_024362695.1	Pectinophora gossypiella		97.2	Gelechiidae	Lepidoptera		0.0	False	Pectinophora_gossypiella	GP
+44	GCF_024763615.1	Phlebotomus papatasi		95.7	Psychodidae	Diptera	{'XP_055701593.1'}	1.0	True	Phlebotomus_papatasi	GP
+45	GCF_905147795.1	Pieris rapae		98.0	Pieridae	Lepidoptera		0.0	False	Pieris_rapae	IND
+46	GCF_950023065.1	Planococcus citri		88.2	Pseudococcidae	Hemiptera		0.0	False	Planococcus_citri	IND
+47	GCA_039877355.1	Pyrrhocoris apterus		57.2	Pyrrhocoridae	Hemiptera		0.0	False	Pyrrhocoris_apterus	IND
+48	GECK01.1	Rhodnius prolixus		91.4	Reduviidae	Hemiptera		0.0	False	Rhodnius_prolixus	IND
+49	GCF_023897955.1	Schistocerca gregaria		95.7	Acrididae	Orthoptera			False	Schistocerca_gregaria	IND
+50	GCF_002938485.1	Sitophilus oryzae		96.7	Curculionidae	Coleoptera	{'XP_030756107.1'}	1.0	True	Sitophilus_oryzae	GP
+51	GCF_963082655.1	Stomoxys calcitrans		96.5	Muscidae	Diptera	{'XP_013106491.2'}	2.0	True	Stomoxys_calcitrans	GP
+52	GCF_963966145.1	Tenebrio molitor		98.3	Tenebrionidae	Coleoptera			False	Tenebrio_molitor	IND
+53	GASN02.1	Thermobia domestica		62.3	Lepismatidae	Zygentoma		0.0	False	Thermobia_domestica	IND
+54	GCF_031307605.1	Tribolium castaneum		98.7	Tenebrionidae	Coleoptera		0.0	False	Tribolium_castaneum	IND
+55	GCA_029207805.1	Tribolium confusum		59.5	Tenebrionidae	Coleoptera			False	Tribolium_confusum	IND
+56	GBMC01.1	Trichogramma evanescens		70.4	Trichogrammatidae	Hymenoptera	{'GBMC01.1;GBMC01011982.1.p1'}	1.0	True	Trichogramma_evanescens	GP
+57	GCF_040183065.1	Periplaneta americana	{'Blatta orientalis'}	96.8	Blattidae	Blattodea	{'XP_069700099.1'}	2.0	True	Blattidae	IND
+58	GCXH01.1	Ischnodemus falicus	{'Blissus leucopterus hirtus'}	72.1	Blissidae	Hemiptera		0.0	False	Blissidae	IND
+59	GAYK02.1	Boreus hyemalis	{'Boreus westwoodi'}	69.3	Boreidae	Mecoptera		1.0	True	Boreidae	IND
+60	GDPI01.1	Elaphrus aureus	{'Carabus insulicola'}	73.1	Carabidae	Coleoptera	{'GDPI01.1;GDPI01010195.1.p1'}	1.0	True	Carabidae	IND
+61	GCA_018290095.1	Polypedilum vanderplanki	{'Smittia sp.', 'Chironomus confinis', 'Chironomus sp.'}	95.4	Chironomidae	Diptera			False	Chironomidae	GP
+62	GDLH01.1	Cybister lateralimarginalis	{'Hydaticus pacificus'}	66.5	Dytiscidae	Coleoptera		0.0	False	Dytiscidae	IND
+63	GCA_902825455.1	Arctia plantaginis	{'Amata fortunei', 'Spilosoma virginica'}	92.3	Erebidae	Lepidoptera		0.0	False	Erebidae	IND
+64	GAUY02.1	Gyrinus marinus	{'Dineutus mellyi'}	62.6	Gyrinidae	Coleoptera		0.0	False	Gyrinidae	IND
+65	GEOO01.1	Phymatopus californicus	{'Endoclita signifer'}	69.8	Hepialidae	Lepidoptera		0.0	False	Hepialidae	IND
+66	GCF_019457755.1	Venturia canescens	{'Pimpla turionellae', 'Cosmoconus meridionator', 'Lissonota catenator'}	98.8	Ichneumonidae	Hymenoptera	{'XP_043269694.1'}		True	Ichneumonidae	GP
+67	GCA_035610365.1	Aquatica leii	{'Nipponoluciola cruciata', 'Aquatica lateralis', 'Pyrocoelia rufa', 'Hotaria parvula'}	93.2	Lampyridae	Coleoptera			False	Lampyridae	IND
+68	GFEG01.1	Embidopsocus sp. EmspLi2	{'Liposcelis divergens'}	77.3	Liposcelididae	Psocoptera			False	Liposcelididae	IND
+69	HBDP01.1	Machilis pallida	{'Petrobius brevistylis'}	76.4	Machilidae	Archaeognatha			False	Machilidae	IND
+70	GASW02.1	Mantis religiosa	{'Rhombodera crassa'}	53.9	Mantidae	Mantodea		0.0	False	Mantidae	IND
+71	GATA02.1	Meloe violaceus	{'Lytta viridana'}	65.8	Meloidae	Coleoptera		0.0	False	Meloidae	IND
+72	GAUH02.1	Panorpa vulgaris	{'Panorpa pryeri'}	59.9	Panorpidae	Mecoptera		1.0	True	Panorpidae	GP
+73	GCF_028537555.1	Battus philenor	{'Byasa alcinous alcinous', 'Luehdorfia japonica', 'Parnassius glacialis'}	99.4	Papilionidae	Lepidoptera			False	Papilionidae	IND
+74	GCYQ01.1	Phlaeothripidae sp. AD-2014	{'Haplothrips verbasci', 'Bactrothrips brevitubus'}	62.4	Phlaeothripidae	Thysanoptera	{'GCYQ01.1;GCYQ01052767.1.p1'}	1.0	True	Phlaeothripidae	GP
+75	GCTV01.1	Sialis fuliginosa	{'Sialis mitsuhashii okamoto'}	66.7	Sialidae	Megaloptera			False	Sialidae	IND
+76	GDRS01.1	Stenopsychodes sp. AD-2015	{'Stenopsyche griseipennis'}	54.2	Stenopsychidae	Trichoptera	{'GDRS01.1;GDRS01002278.1.p1'}		True	Stenopsychidae	IND
+77	GAWW02.1	Tenthredo koehleri	{'Nematus ribesii'}	79.9	Tenthredinidae	Hymenoptera	{'GAWW02.1;GAWW02024808.1.p1'}	1.0	True	Tenthredinidae	IND
+78	GCF_040414725.1	Anabrus simplex	{'Conocephalus brevipennis'}	96.3	Tettigoniidae	Orthoptera	{'XP_068087189.1'}		True	Tettigoniidae	IND
+79	GDPF01.1	Megasternum obscurum 	{'Hydrophilus piceus'}	68.4	Hydrophilidae	Coleoptera			False	Hydrophilidae	IND
+80	GCF_000648695.1	Onthophagus taurus	{'Phyllophaga fervida'}	96.4	Scarabaeidae	Coleoptera		0.0	False	Scarabaeidae	IND
