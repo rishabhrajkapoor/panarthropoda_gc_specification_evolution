@@ -4,9 +4,9 @@ Code and associated data for ancestral state reconstruction of germ plasm specif
 Supplementary tables S3, S4 and S9 (remaining tables are are available in the paper supplement).
 
 ### Supplementary Table S9. Results of search for oskar orthologs. 
-BUSCO scores may differ from Table S4 for the 7 unannotated genomes (Clogmia albipunctata, Mayetiola destructor, 
-Macrocentus cingulum, Epiphyas postvittana, Nymphalis Antopa, Pyrrhocoris apterus, Tribolium 
-confusum), as the BUSCO scores and oskar presence are determined from AUGUSTUS genome 
+BUSCO scores may differ from Table S4 for the 7 unannotated genomes (_Clogmia albipunctata_, _Mayetiola destructor_, 
+_Macrocentus cingulum_, _Epiphyas postvittana_, _Nymphalis antopa_ , _Pyrrhocoris apterus_, _Tribolium 
+confusum_), as the BUSCO scores and oskar presence are determined from AUGUSTUS genome 
 annotations. “Blondel_oskar_count” column indicates the total number of oskar orthologs 
 previously identified across all datasets from this species (Blondel et al., 2021) Empty cells 
 indicate that the species was not analyzed in Blondel et al., 2021 on oskar ortholog evolution. “oskar_present” column indicates that oskar was detected in the current analysis and/or 
