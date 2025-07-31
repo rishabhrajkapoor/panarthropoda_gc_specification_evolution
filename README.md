@@ -3,7 +3,17 @@ Code and associated data for ancestral state reconstruction of germ plasm specif
 ## supplementary_tables
 Supplementary tables S3, S4 and S9 (remaining tables are are available in the paper supplement).
 
-### Supplementary Table S9. Results of search for oskar orthologs. 
+### Supplementary Table S3. Hypothesized transitions in germ plasm specification in Panarthropoda 
+"Clade name": monophyletic group in whose ancestral lineage the transition is 
+specified to have occurred; "Node_number": node labels in supplemental figure 1 and 2; "Transition": 
+gain of germ plasm (GP) or reversion to induction (IND); "Parsimony": support from maximum 
+parsimony (Figure S2); "Likelihood": support from maximum likelihood (Figure S3). 
+
+### Supplementary Table S4. Genomic and transcriptomic datasets used for phylogenetic inference. 
+We were unable to find sequence data for species in the "sub_species" columns, and instead substituted the genomes/transcriptomes for species in the same taxonomic family. Species in the "sub_species" columns are replaced by "iq_tree_label" in trees. 
+
+
+### Supplementary Table S9. Results of search for oskar orthologs 
 BUSCO scores may differ from Table S4 for the 7 unannotated genomes (_Clogmia albipunctata_, _Mayetiola destructor_, 
 _Macrocentus cingulum_, _Epiphyas postvittana_, _Nymphalis antopa_ , _Pyrrhocoris apterus_, _Tribolium 
 confusum_), as the BUSCO scores and oskar presence are determined from AUGUSTUS genome 
