@@ -1,0 +1,82 @@
+NCBI accession,data_type,species,family,order,sub_species 1,sub_species 2,sub_species 3,sub_species 4,BUSCO_complete_single_copy,oskar_accession 1,oskar_accession 2,oskar_accession 3,blondel_oskar_count,oskar_present
+GCA_963669975.1,NCBI-annotated genome,Acanthoscelides obtectus,Chrysomelidae,Coleoptera,,,,,81.0,CAK1628125.1,,,,True
+GHUU01.1,TSA,Acheta domesticus,Gryllidae,Orthoptera,,,,,72.9,GHUU01020574.1,,,1.0,True
+GCF_005508785.2,NCBI-annotated genome,Acyrthosiphon pisum,Aphididae,Hemiptera,,,,,88.8,,,,0.0,False
+GCF_002204515.2,NCBI-annotated genome,Aedes aegypti,Culicidae,Diptera,,,,,92.6,XP_001656415.1,,,2.0,True
+GCF_943734735.2,NCBI-annotated genome,Anopheles gambiae,Culicidae,Diptera,,,,,97.2,XP_313289.4,,,1.0,True
+GFCX01.1,TSA,Antheraea pernyi,Saturniidae,Lepidoptera,,,,,55.8,,,,0.0,False
+GCF_003254395.2,NCBI-annotated genome,Apis mellifera,Apidae,Hymenoptera,,,,,98.3,,,,0.0,False
+GCF_917208135.1,NCBI-annotated genome,Athalia rosae,Athaliidae,Hymenoptera,,,,,99.0,XP_012267561.2,,,1.0,True
+GCF_016617805.1,NCBI-annotated genome,Bactrocera tryoni,Tephritidae,Diptera,,,,,95.3,XP_039970531.1,,,0.0,True
+GCA_003018175.1,NCBI-annotated genome,Blattella germanica,Blattellidae,Blattodea,,,,,66.5,,,,0.0,False
+GCF_030269925.1,NCBI-annotated genome,Bombyx mori,Bombycidae,Lepidoptera,,,,,98.4,,,,0.0,False
+GCF_014529535.1,NCBI-annotated genome,Bradysia coprophila,Sciaridae,Diptera,,,,,96.4,XP_037038002.1,XP_037045674.1,,,True
+GCF_958450345.1,NCBI-annotated genome,Calliphora vicina,Calliphoridae,Diptera,,,,,97.5,XP_065354390.1,,,0.0,True
+GEUF01.1,TSA,Callosobruchus maculatus,Chrysomelidae,Coleoptera,,,,,75.7,GEUF01038497.1,GEUF01052237.1,GEUF01006592.1,1.0,True
+GCF_003227725.1,NCBI-annotated genome,Camponotus floridanus,Formicidae,Hymenoptera,,,,,97.3,XP_011252874.1,,,1.0,True
+GCA_965637365.1,AUGUSTUS-annotated genome,Clogmia albipunctata,Psychodidae,Diptera,,,,,79.1,,,,0.0,False
+GCF_000648655.2,NCBI-annotated genome,Copidosoma floridanum,Encyrtidae,Hymenoptera,,,,,91.4,XP_014212910.1,,,1.0,True
+GAYP02.1,TSA,Ctenocephalides felis,Pulicidae,Siphonaptera,,,,,68.1,,,,0.0,False
+GCF_015732765.1,NCBI-annotated genome,Culex quinquefasciatus,Culicidae,Diptera,,,,,94.2,XP_001848641.1,,,1.0,True
+GCF_011750605.1,NCBI-annotated genome,Drosophila busckii,Drosophilidae,Diptera,,,,,94.4,XP_017845653.1,,,1.0,True
+GCF_003285905.1,NCBI-annotated genome,Drosophila hydei,Drosophilidae,Diptera,,,,,94.4,XP_023173869.2,,,1.0,True
+GCF_000001215.4,NCBI-annotated genome,Drosophila melanogaster,Drosophilidae,Diptera,,,,,95.6,NP_731295.1,,,1.0,True
+GCF_030788295.1,NCBI-annotated genome,Drosophila virilis,Drosophilidae,Diptera,,,,,93.8,XP_002053269.1,,,1.0,True
+GCF_018902025.1,NCBI-annotated genome,Drosophila willistoni,Drosophilidae,Diptera,,,,,94.5,XP_023034501.2,,,1.0,True
+GAVW02.1,TSA,Epiophlebia superstes,Epiophlebiidae,Odonata,,,,,64.1,,,,0.0,False
+GCA_964304675.1,AUGUSTUS-annotated genome,Epiphyas postvittana,Tortricidae,Lepidoptera,,,,,72.3,,,,0.0,False
+GAYQ02.1,TSA,Forficula auricularia,Forficulidae,Dermaptera,,,,,52.1,,,,0.0,False
+GCA_017312745.1,NCBI-annotated genome,Gryllus bimaculatus,Gryllidae,Orthoptera,,,,,86.6,GLG94685.1,,,0.0,True
+GCF_022581195.2,NCBI-annotated genome,Helicoverpa zea,Noctuidae,Lepidoptera,,,,,98.8,,,,0.0,False
+GEJI01.1,TSA,Icerya purchasi,Monophlebidae,Hemiptera,,,,,67.3,,,,,False
+GCTF01.1,TSA,Inocellia japonica,Inocelliidae,Raphidioptera,,,,,59.9,,,,,False
+GCA_001045655.1,NCBI-annotated genome,Lasius niger,Formicidae,Hymenoptera,,,,,67.7,,,,0.0,False
+GCF_000500325.1,NCBI-annotated genome,Leptinotarsa decemlineata,Chrysomelidae,Coleoptera,,,,,88.4,XP_023025754.1,,,2.0,True
+GBDZ01.1,TSA,Locusta migratoria,Acrididae,Orthoptera,,,,,87.4,,,,0.0,False
+GCF_015586225.1,NCBI-annotated genome,Lucilia sericata,Calliphoridae,Diptera,,,,,88.8,XP_037808551.1,,,0.0,True
+GCA_045786645.1,AUGUSTUS-annotated genome,Macrocentrus cingulum,Braconidae,Hymenoptera,,,,,0.0,,,,1.0,True
+GCA_000149185.1,AUGUSTUS-annotated genome,Mayetiola destructor,Cecidomyiidae,Diptera,,,,,24.0,g5637.t1,,,0.0,True
+GARN01.1,TSA,Musca domestica,Muscidae,Diptera,,,,,84.6,,,,2.0,True
+GCF_009193385.2,NCBI-annotated genome,Nasonia vitripennis,Pteromalidae,Hymenoptera,,,,,96.3,NP_001234884.1,,,2.0,True
+GCA_964258955.1,AUGUSTUS-annotated genome,Nymphalis antiopa,Nymphalidae,Lepidoptera,,,,,80.1,,,,,False
+GDMS01.1,TSA,Odontotaenius disjunctus,Passalidae,Coleoptera,,,,,59.0,,,,,False
+GCXY01.1,TSA,Oncopeltus fasciatus,Lygaeidae,Hemiptera,,,,,70.8,,,,0.0,False
+GCF_905163445.1,NCBI-annotated genome,Pararge aegeria,Nymphalidae,Lepidoptera,,,,,98.9,,,,0.0,False
+GCF_024362695.1,NCBI-annotated genome,Pectinophora gossypiella,Gelechiidae,Lepidoptera,,,,,97.2,,,,0.0,False
+GCF_024763615.1,NCBI-annotated genome,Phlebotomus papatasi,Psychodidae,Diptera,,,,,95.7,XP_055701593.1,,,1.0,True
+GCF_905147795.1,NCBI-annotated genome,Pieris rapae,Pieridae,Lepidoptera,,,,,98.0,,,,0.0,False
+GCF_950023065.1,NCBI-annotated genome,Planococcus citri,Pseudococcidae,Hemiptera,,,,,88.2,,,,0.0,False
+GCA_039877355.1,AUGUSTUS-annotated genome,Pyrrhocoris apterus,Pyrrhocoridae,Hemiptera,,,,,57.2,,,,0.0,False
+GECK01.1,TSA,Rhodnius prolixus,Reduviidae,Hemiptera,,,,,91.4,,,,0.0,False
+GCF_023897955.1,NCBI-annotated genome,Schistocerca gregaria,Acrididae,Orthoptera,,,,,95.7,,,,,False
+GCF_002938485.1,NCBI-annotated genome,Sitophilus oryzae,Curculionidae,Coleoptera,,,,,96.7,XP_030756107.1,,,1.0,True
+GCF_963082655.1,NCBI-annotated genome,Stomoxys calcitrans,Muscidae,Diptera,,,,,96.5,XP_013106491.2,,,2.0,True
+GCF_963966145.1,NCBI-annotated genome,Tenebrio molitor,Tenebrionidae,Coleoptera,,,,,98.3,,,,,False
+GASN02.1,TSA,Thermobia domestica,Lepismatidae,Zygentoma,,,,,62.3,,,,0.0,False
+GCF_031307605.1,NCBI-annotated genome,Tribolium castaneum,Tenebrionidae,Coleoptera,,,,,98.7,,,,0.0,False
+GCA_029207805.1,AUGUSTUS-annotated genome,Tribolium confusum,Tenebrionidae,Coleoptera,,,,,59.5,,,,,False
+GBMC01.1,TSA,Trichogramma evanescens,Trichogrammatidae,Hymenoptera,,,,,70.4,GBMC01011982.1,,,1.0,True
+GCF_040183065.1,NCBI-annotated genome,Periplaneta americana,Blattidae,Blattodea,Blatta orientalis,,,,96.8,XP_069700099.1,,,2.0,True
+GCXH01.1,TSA,Ischnodemus falicus,Blissidae,Hemiptera,Blissus leucopterus hirtus,,,,72.1,,,,0.0,False
+GAYK02.1,TSA,Boreus hyemalis,Boreidae,Mecoptera,Boreus westwoodi,,,,69.3,,,,1.0,True
+GDPI01.1,TSA,Elaphrus aureus,Carabidae,Coleoptera,Carabus insulicola,,,,73.1,GDPI01010195.1,,,1.0,True
+GCA_018290095.1,NCBI-annotated genome,Polypedilum vanderplanki,Chironomidae,Diptera,Chironomus confinis,Smittia sp.,Chironomus sp.,,95.4,,,,,False
+GDLH01.1,TSA,Cybister lateralimarginalis,Dytiscidae,Coleoptera,Hydaticus pacificus,,,,66.5,,,,0.0,False
+GCA_902825455.1,NCBI-annotated genome,Arctia plantaginis,Erebidae,Lepidoptera,Spilosoma virginica,Amata fortunei,,,92.3,,,,0.0,False
+GAUY02.1,TSA,Gyrinus marinus,Gyrinidae,Coleoptera,Dineutus mellyi,,,,62.6,,,,0.0,False
+GEOO01.1,TSA,Phymatopus californicus,Hepialidae,Lepidoptera,Endoclita signifer,,,,69.8,,,,0.0,False
+GCF_019457755.1,NCBI-annotated genome,Venturia canescens,Ichneumonidae,Hymenoptera,Cosmoconus meridionator,Pimpla turionellae,Lissonota catenator,,98.8,XP_043269694.1,,,,True
+GCA_035610365.1,NCBI-annotated genome,Aquatica leii,Lampyridae,Coleoptera,Pyrocoelia rufa,Nipponoluciola cruciata,Hotaria parvula,Aquatica lateralis,93.2,,,,,False
+GFEG01.1,TSA,Embidopsocus sp. EmspLi2,Liposcelididae,Psocoptera,Liposcelis divergens,,,,77.3,,,,,False
+HBDP01.1,TSA,Machilis pallida,Machilidae,Archaeognatha,Petrobius brevistylis,,,,76.4,,,,,False
+GASW02.1,TSA,Mantis religiosa,Mantidae,Mantodea,Rhombodera crassa,,,,53.9,,,,0.0,False
+GATA02.1,TSA,Meloe violaceus,Meloidae,Coleoptera,Lytta viridana,,,,65.8,,,,0.0,False
+GAUH02.1,TSA,Panorpa vulgaris,Panorpidae,Mecoptera,Panorpa pryeri,,,,59.9,,,,1.0,True
+GCF_028537555.1,NCBI-annotated genome,Battus philenor,Papilionidae,Lepidoptera,Byasa alcinous alcinous,Parnassius glacialis,Luehdorfia japonica,,99.4,,,,,False
+GCYQ01.1,TSA,Phlaeothripidae sp. AD-2014,Phlaeothripidae,Thysanoptera,Haplothrips verbasci,Bactrothrips brevitubus,,,62.4,GCYQ01052767.1,,,1.0,True
+GCTV01.1,TSA,Sialis fuliginosa,Sialidae,Megaloptera,Sialis mitsuhashii okamoto,,,,66.7,,,,,False
+GDRS01.1,TSA,Stenopsychodes sp. AD-2015,Stenopsychidae,Trichoptera,Stenopsyche griseipennis,,,,54.2,GDRS01002278.1,,,,True
+GAWW02.1,TSA,Tenthredo koehleri,Tenthredinidae,Hymenoptera,Nematus ribesii,,,,79.9,GAWW02024808.1,,,1.0,True
+GCF_040414725.1,NCBI-annotated genome,Anabrus simplex,Tettigoniidae,Orthoptera,Conocephalus brevipennis,,,,96.3,XP_068087189.1,,,,True
+GDPF01.1,TSA,Megasternum obscurum ,Hydrophilidae,Coleoptera,Hydrophilus piceus,,,,68.4,,,,,False
+GCF_000648695.1,NCBI-annotated genome,Onthophagus taurus,Scarabaeidae,Coleoptera,Phyllophaga fervida,,,,96.4,,,,0.0,False
