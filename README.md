@@ -6,11 +6,16 @@ Supplementary Tables S3, S4 and S9 (remaining tables are available in the Supple
 ### Supplementary Table S4. Genomic and transcriptomic datasets used for phylogenetic inference.
 ### Supplementary Table S9. Results of search for oskar orthologs.
 ## Dependencies
-R version 4.2.3 
+R version 4.2.3
+ 
 R packages: phytools version 2.4.21; ape version 5.7.1; phylolm version 2.6.5
+
 Python 3.9.7 
+
 Python packages: ete3 version 3.1.2; pandas version 2.2.3; numpy version 1.23.5; scipy 1.7.3
+
 Software accessed via BioContainers Singularity containers: Transdecoder version 5.7.1; BLAST version 2.9.0; hmmer version 3.4; BUSCO version 5.8.3; IQ-Tree version 2.4.0. 
+
 Additional software downloads: IQ-Tree version 3.0.1; PAML version 4.10.9
 
 ## Steps
