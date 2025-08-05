@@ -1,0 +1,1154 @@
+#NEXUS
+[written Wed Jul 09 16:55:57 EDT 2025 by Mesquite  version 4.0 (build 1086) at Mannatkabhai/192.168.110.118]
+
+BEGIN TAXA;
+	TITLE GC_mech_taxa;
+	DIMENSIONS NTAX=211;
+	TAXLABELS
+		Thulinia_stephaniae Hypsibius_dujardini Epiperipatus_biolleyi Eoperipatus_weldoni Peripatopsis_capensis Peripatopsis_balfouri Opisthopatus_roseus Peripatopsis_sedgwicki Peripatopsis_moseleyi Pycnogonum_litorale Endeis_spinosa Propallene_longiceps Nymphon_hirtum Nymphon_brevirostre Limulus_polyphemus Pselaphochernes_scorpioides Phalangium_opilio Opilio_parietinus Acarus_siro Tetranychus_urticae Cheyletus_eruditus Euscorpius_carpathicus Agelena_labyrinthica Parasteatoda_tepidariorum Thelyphonus_caudatus Phrynus_marginemaculatus Heterophrynus_pumilio Strigamia_maritima Scolopendra_cingulata Hanseniella_agilis Glomeris_marginata Pauropus_silvaticus Cyprideis_littoralis Nebalia_bipes Anaspides_tasmaniae Meganyctiphanes_norvegica Panulirus_japonicus Macrobrachium_nipponense Caridina_laevis Sicyonia_ingentis Penaeus_vannamei Penaeus_monodon Penaeus_japonicus Gammarus_pulex Orchestia_cavimana Parhyale_hawaiensis Neomysis_integer Mesopodopsis_orientalis Hemimysis_lamornae Heterotanis_oerstedi Asellus_aquaticus Bopyroides_hippolytes Cyathura_polita Limnoria_lignorum Idotea_neglecta Idotea_granulosa Ligia_exotica Armadillidium_vulgare Armadillidium_nasatum Porcellionides_pruinosus Porcellio_scaber Porcellio_laevis Eudiaptomus_vulgaris Calanus_finmarchicus Diaptomus_coeruleus Tisbe_furcata Notopterophorus_papilio Doropygus_gibber Pandarus_sinuatus Orthagoriscicola_muricata Artemia_salina Triops_longicaudatus Triops_granarius Paralimnadia_stanleyana Lathonura_rectirostris Simocephalus_vetulus Daphnia_magna Penilia_avirostris Holopedium_gibberum Polyphemus_pediculus Bythotrephes_longimanus Tomocerus_ishibashii_yosii Tomocerus_cuspidatus Allacma_fusca Anurida_maritima Tetrodontophora_bielanensis Petrobius_brevistylis Thermobia_domestica Lepisma_saccharina Epiophlebia_superstes Labidura_riparia Forficula_auricularia Carausius_morosus Rhombodera_crassa Blatta_orientalis Blattella_germanica Schistocerca_gregaria Melanoplus_differentialis Locusta_migratoria Conocephalus_brevipennis Oecanthus_niveus Gryllus_campestris Gryllus_bimaculatus Acheta_domesticus Haplothrips_verbasci Bactrothrips_brevitubus Acyrthosiphon_pisum Planococcus_citri Icerya_purchasi Rhodnius_prolixus Pyrrhocoris_apterus Oncopeltus_fasciatus Blissus_leucopterus_hirtus Liposcelis_divergens Archipsocopsis_fernandi Nematus_ribesii Athalia_rosae Trichogramma_evanescens Copidosoma_floridanum Nasonia_vitripennis Apis_mellifera Messor_pergandei Lasius_niger Camponotus_floridanus Pimpla_turionellae Lissonota_catenator Cosmoconus_meridionator Habrobracon_juglandis Macrocentrus_cingulum Habrobracon_hebetor Coeloides_vancouverensis Sialis_mitsuhashii_okamoto Inocellia_japonica Stylops_spp Dineutus_mellyi Hydaticus_pacificus Carabus_insulicola Pyrocoelia_rufa Hotaria_parvula Aquatica_lateralis Nipponoluciola_cruciata Hydrophilus_piceus Phyllophaga_fervida Odontotaenius_disjunctus Dermestes_frischii Lytta_viridana Tribolium_confusum Tribolium_castaneum Tenebrio_molitor Sphenophorus_callosus Sitophilus_oryzae Otiorhynchus_ligustici Callosobruchus_maculatus Acanthoscelides_obtectus Euryope_terminalis Corynodes_pusis Leptinotarsa_decemlineata Calligrapha_multipunctata Stenopsyche_griseipennis Neomicropteryx_nipponensis Endoclita_signifer Epiphyas_postvittana Pieris_rapae Pararge_aegeria Nymphalis_antiopa Parnassius_glacialis Luehdorfia_japonica Byasa_alcinous_alcinous Pectinophora_gossypiella Antheraea_pernyi Bombyx_mori Helicoverpa_zea Spilosoma_virginica Amata_fortunei Boreus_westwoodi Ctenocephalides_felis Bittacus_laevipes Panorpodes_paradoxa Panorpa_pryeri Phlebotomus_papatasi Clogmia_albipunctata Anopheles_gambiae Culiseta_inornata Culex_quinquefasciatus Aedes_aegypti Simulium_pictipes Smittia_sp Chironomus_sp Chironomus_confinis Miastor_metraloas Mayetiola_destructor Sciara_sp Bradysia_coprophila Megaselia_abdita Bactrocera_tryoni Melophagus_ovinus Stomoxys_calcitrans Musca_domestica Phormia_regina Lucilia_sericata Calliphora_vicina Drosophila_willistoni Drosophila_melanogaster Drosophila_busckii Drosophila_funebris Drosophila_immigrans Drosophila_americana Drosophila_virilis Drosophila_gibberosa Drosophila_repleta Drosophila_hydei 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  'Matrix in file "GC_mech_parsimony_clean.nex"';
+	DIMENSIONS  NCHAR=1;
+	FORMAT DATATYPE = STANDARD RESPECTCASE GAP = - MISSING = ? SYMBOLS = "  0 1";
+	MATRIX
+	Thulinia_stephaniae          0
+	Hypsibius_dujardini          0
+	Epiperipatus_biolleyi        0
+	Eoperipatus_weldoni          0
+	Peripatopsis_capensis        0
+	Peripatopsis_balfouri        0
+	Opisthopatus_roseus          0
+	Peripatopsis_sedgwicki       0
+	Peripatopsis_moseleyi        0
+	Pycnogonum_litorale          0
+	Endeis_spinosa               0
+	Propallene_longiceps         0
+	Nymphon_hirtum               0
+	Nymphon_brevirostre          0
+	Limulus_polyphemus           0
+	Pselaphochernes_scorpioides  0
+	Phalangium_opilio            0
+	Opilio_parietinus            0
+	Acarus_siro                  0
+	Tetranychus_urticae          1
+	Cheyletus_eruditus           0
+	Euscorpius_carpathicus       0
+	Agelena_labyrinthica         0
+	Parasteatoda_tepidariorum    0
+	Thelyphonus_caudatus         0
+	Phrynus_marginemaculatus     0
+	Heterophrynus_pumilio        0
+	Strigamia_maritima           0
+	Scolopendra_cingulata        0
+	Hanseniella_agilis           0
+	Glomeris_marginata           0
+	Pauropus_silvaticus          0
+	Cyprideis_littoralis         0
+	Nebalia_bipes                0
+	Anaspides_tasmaniae          0
+	Meganyctiphanes_norvegica    0
+	Panulirus_japonicus          1
+	Macrobrachium_nipponense     1
+	Caridina_laevis              0
+	Sicyonia_ingentis            0
+	Penaeus_vannamei             1
+	Penaeus_monodon              1
+	Penaeus_japonicus            1
+	Gammarus_pulex               0
+	Orchestia_cavimana           1
+	Parhyale_hawaiensis          1
+	Neomysis_integer             0
+	Mesopodopsis_orientalis      0
+	Hemimysis_lamornae           0
+	Heterotanis_oerstedi         0
+	Asellus_aquaticus            0
+	Bopyroides_hippolytes        0
+	Cyathura_polita              0
+	Limnoria_lignorum            0
+	Idotea_neglecta              0
+	Idotea_granulosa             0
+	Ligia_exotica                0
+	Armadillidium_vulgare        0
+	Armadillidium_nasatum        0
+	Porcellionides_pruinosus     0
+	Porcellio_scaber             0
+	Porcellio_laevis             0
+	Eudiaptomus_vulgaris         0
+	Calanus_finmarchicus         0
+	Diaptomus_coeruleus          0
+	Tisbe_furcata                0
+	Notopterophorus_papilio      0
+	Doropygus_gibber             0
+	Pandarus_sinuatus            1
+	Orthagoriscicola_muricata    0
+	Artemia_salina               0
+	Triops_longicaudatus         0
+	Triops_granarius             0
+	Paralimnadia_stanleyana      0
+	Lathonura_rectirostris       0
+	Simocephalus_vetulus         0
+	Daphnia_magna                1
+	Penilia_avirostris           0
+	Holopedium_gibberum          0
+	Polyphemus_pediculus         1
+	Bythotrephes_longimanus      1
+	Tomocerus_ishibashii_yosii   0
+	Tomocerus_cuspidatus         0
+	Allacma_fusca                1
+	Anurida_maritima             0
+	Tetrodontophora_bielanensis  1
+	Petrobius_brevistylis        0
+	Thermobia_domestica          0
+	Lepisma_saccharina           0
+	Epiophlebia_superstes        0
+	Labidura_riparia             1
+	Forficula_auricularia        0
+	Carausius_morosus            0
+	Rhombodera_crassa            0
+	Blatta_orientalis            0
+	Blattella_germanica          0
+	Schistocerca_gregaria        0
+	Melanoplus_differentialis    0
+	Locusta_migratoria           0
+	Conocephalus_brevipennis     0
+	Oecanthus_niveus             0
+	Gryllus_campestris           0
+	Gryllus_bimaculatus          0
+	Acheta_domesticus            0
+	Haplothrips_verbasci         1
+	Bactrothrips_brevitubus      1
+	Acyrthosiphon_pisum          1
+	Planococcus_citri            0
+	Icerya_purchasi              0
+	Rhodnius_prolixus            0
+	Pyrrhocoris_apterus          0
+	Oncopeltus_fasciatus         0
+	Blissus_leucopterus_hirtus   0
+	Liposcelis_divergens         0
+	Archipsocopsis_fernandi      0
+	Nematus_ribesii              0
+	Athalia_rosae                1
+	Trichogramma_evanescens      1
+	Copidosoma_floridanum        1
+	Nasonia_vitripennis          1
+	Apis_mellifera               0
+	Messor_pergandei             1
+	Lasius_niger                 1
+	Camponotus_floridanus        1
+	Pimpla_turionellae           1
+	Lissonota_catenator          1
+	Cosmoconus_meridionator      1
+	Habrobracon_juglandis        1
+	Macrocentrus_cingulum        1
+	Habrobracon_hebetor          1
+	Coeloides_vancouverensis     1
+	Sialis_mitsuhashii_okamoto   0
+	Inocellia_japonica           1
+	Stylops_spp                  0
+	Dineutus_mellyi              0
+	Hydaticus_pacificus          0
+	Carabus_insulicola           0
+	Pyrocoelia_rufa              0
+	Hotaria_parvula              0
+	Aquatica_lateralis           0
+	Nipponoluciola_cruciata      0
+	Hydrophilus_piceus           0
+	Phyllophaga_fervida          0
+	Odontotaenius_disjunctus     0
+	Dermestes_frischii           1
+	Lytta_viridana               0
+	Tribolium_confusum           0
+	Tribolium_castaneum          0
+	Tenebrio_molitor             0
+	Sphenophorus_callosus        1
+	Sitophilus_oryzae            1
+	Otiorhynchus_ligustici       1
+	Callosobruchus_maculatus     1
+	Acanthoscelides_obtectus     1
+	Euryope_terminalis           1
+	Corynodes_pusis              1
+	Leptinotarsa_decemlineata    1
+	Calligrapha_multipunctata    1
+	Stenopsyche_griseipennis     0
+	Neomicropteryx_nipponensis   0
+	Endoclita_signifer           0
+	Epiphyas_postvittana         0
+	Pieris_rapae                 0
+	Pararge_aegeria              1
+	Nymphalis_antiopa            0
+	Parnassius_glacialis         0
+	Luehdorfia_japonica          0
+	Byasa_alcinous_alcinous      0
+	Pectinophora_gossypiella     1
+	Antheraea_pernyi             0
+	Bombyx_mori                  0
+	Helicoverpa_zea              0
+	Spilosoma_virginica          0
+	Amata_fortunei               0
+	Boreus_westwoodi             0
+	Ctenocephalides_felis        1
+	Bittacus_laevipes            0
+	Panorpodes_paradoxa          0
+	Panorpa_pryeri               1
+	Phlebotomus_papatasi         1
+	Clogmia_albipunctata         0
+	Anopheles_gambiae            1
+	Culiseta_inornata            1
+	Culex_quinquefasciatus       1
+	Aedes_aegypti                1
+	Simulium_pictipes            1
+	Smittia_sp                   1
+	Chironomus_sp                1
+	Chironomus_confinis          1
+	Miastor_metraloas            1
+	Mayetiola_destructor         1
+	Sciara_sp                    1
+	Bradysia_coprophila          1
+	Megaselia_abdita             1
+	Bactrocera_tryoni            1
+	Melophagus_ovinus            1
+	Stomoxys_calcitrans          1
+	Musca_domestica              1
+	Phormia_regina               1
+	Lucilia_sericata             1
+	Calliphora_vicina            1
+	Drosophila_willistoni        1
+	Drosophila_melanogaster      1
+	Drosophila_busckii           1
+	Drosophila_funebris          1
+	Drosophila_immigrans         1
+	Drosophila_americana         1
+	Drosophila_virilis           1
+	Drosophila_gibberosa         1
+	Drosophila_repleta           1
+	Drosophila_hydei             1
+
+;
+
+END;
+BEGIN TREES;
+	Title GC_mech_tree;
+	ID 0197f0e228bb3;
+	LINK Taxa = GC_mech_taxa;
+	TRANSLATE
+[0] 		n0 Thulinia_stephaniae,
+[1] 		n1 Hypsibius_dujardini,
+[2] 		n2 Epiperipatus_biolleyi,
+[3] 		n3 Eoperipatus_weldoni,
+[4] 		n4 Peripatopsis_capensis,
+[5] 		n5 Peripatopsis_balfouri,
+[6] 		n6 Opisthopatus_roseus,
+[7] 		n7 Peripatopsis_sedgwicki,
+[8] 		n8 Peripatopsis_moseleyi,
+[9] 		n9 Pycnogonum_litorale,
+[10] 		n10 Endeis_spinosa,
+[11] 		n11 Propallene_longiceps,
+[12] 		n12 Nymphon_hirtum,
+[13] 		n13 Nymphon_brevirostre,
+[14] 		n14 Limulus_polyphemus,
+[15] 		n15 Pselaphochernes_scorpioides,
+[16] 		n16 Phalangium_opilio,
+[17] 		n17 Opilio_parietinus,
+[18] 		n18 Acarus_siro,
+[19] 		n19 Tetranychus_urticae,
+[20] 		n20 Cheyletus_eruditus,
+[21] 		n21 Euscorpius_carpathicus,
+[22] 		n22 Agelena_labyrinthica,
+[23] 		n23 Parasteatoda_tepidariorum,
+[24] 		n24 Thelyphonus_caudatus,
+[25] 		n25 Phrynus_marginemaculatus,
+[26] 		n26 Heterophrynus_pumilio,
+[27] 		n27 Strigamia_maritima,
+[28] 		n28 Scolopendra_cingulata,
+[29] 		n29 Hanseniella_agilis,
+[30] 		n30 Glomeris_marginata,
+[31] 		n31 Pauropus_silvaticus,
+[32] 		n32 Cyprideis_littoralis,
+[33] 		n33 Nebalia_bipes,
+[34] 		n34 Anaspides_tasmaniae,
+[35] 		n35 Meganyctiphanes_norvegica,
+[36] 		n36 Panulirus_japonicus,
+[37] 		n37 Macrobrachium_nipponense,
+[38] 		n38 Caridina_laevis,
+[39] 		n39 Sicyonia_ingentis,
+[40] 		n40 Penaeus_vannamei,
+[41] 		n41 Penaeus_monodon,
+[42] 		n42 Penaeus_japonicus,
+[43] 		n43 Gammarus_pulex,
+[44] 		n44 Orchestia_cavimana,
+[45] 		n45 Parhyale_hawaiensis,
+[46] 		n46 Neomysis_integer,
+[47] 		n47 Mesopodopsis_orientalis,
+[48] 		n48 Hemimysis_lamornae,
+[49] 		n49 Heterotanis_oerstedi,
+[50] 		n50 Asellus_aquaticus,
+[51] 		n51 Bopyroides_hippolytes,
+[52] 		n52 Cyathura_polita,
+[53] 		n53 Limnoria_lignorum,
+[54] 		n54 Idotea_neglecta,
+[55] 		n55 Idotea_granulosa,
+[56] 		n56 Ligia_exotica,
+[57] 		n57 Armadillidium_vulgare,
+[58] 		n58 Armadillidium_nasatum,
+[59] 		n59 Porcellionides_pruinosus,
+[60] 		n60 Porcellio_scaber,
+[61] 		n61 Porcellio_laevis,
+[62] 		n62 Eudiaptomus_vulgaris,
+[63] 		n63 Calanus_finmarchicus,
+[64] 		n64 Diaptomus_coeruleus,
+[65] 		n65 Tisbe_furcata,
+[66] 		n66 Notopterophorus_papilio,
+[67] 		n67 Doropygus_gibber,
+[68] 		n68 Pandarus_sinuatus,
+[69] 		n69 Orthagoriscicola_muricata,
+[70] 		n70 Artemia_salina,
+[71] 		n71 Triops_longicaudatus,
+[72] 		n72 Triops_granarius,
+[73] 		n73 Paralimnadia_stanleyana,
+[74] 		n74 Lathonura_rectirostris,
+[75] 		n75 Simocephalus_vetulus,
+[76] 		n76 Daphnia_magna,
+[77] 		n77 Penilia_avirostris,
+[78] 		n78 Holopedium_gibberum,
+[79] 		n79 Polyphemus_pediculus,
+[80] 		n80 Bythotrephes_longimanus,
+[81] 		n81 Tomocerus_ishibashii_yosii,
+[82] 		n82 Tomocerus_cuspidatus,
+[83] 		n83 Allacma_fusca,
+[84] 		n84 Anurida_maritima,
+[85] 		n85 Tetrodontophora_bielanensis,
+[86] 		n86 Petrobius_brevistylis,
+[87] 		n87 Thermobia_domestica,
+[88] 		n88 Lepisma_saccharina,
+[89] 		n89 Epiophlebia_superstes,
+[90] 		n90 Labidura_riparia,
+[91] 		n91 Forficula_auricularia,
+[92] 		n92 Carausius_morosus,
+[93] 		n93 Rhombodera_crassa,
+[94] 		n94 Blatta_orientalis,
+[95] 		n95 Blattella_germanica,
+[96] 		n96 Schistocerca_gregaria,
+[97] 		n97 Melanoplus_differentialis,
+[98] 		n98 Locusta_migratoria,
+[99] 		n99 Conocephalus_brevipennis,
+[100] 		n100 Oecanthus_niveus,
+[101] 		n101 Gryllus_campestris,
+[102] 		n102 Gryllus_bimaculatus,
+[103] 		n103 Acheta_domesticus,
+[104] 		n104 Haplothrips_verbasci,
+[105] 		n105 Bactrothrips_brevitubus,
+[106] 		n106 Acyrthosiphon_pisum,
+[107] 		n107 Planococcus_citri,
+[108] 		n108 Icerya_purchasi,
+[109] 		n109 Rhodnius_prolixus,
+[110] 		n110 Pyrrhocoris_apterus,
+[111] 		n111 Oncopeltus_fasciatus,
+[112] 		n112 Blissus_leucopterus_hirtus,
+[113] 		n113 Liposcelis_divergens,
+[114] 		n114 Archipsocopsis_fernandi,
+[115] 		n115 Nematus_ribesii,
+[116] 		n116 Athalia_rosae,
+[117] 		n117 Trichogramma_evanescens,
+[118] 		n118 Copidosoma_floridanum,
+[119] 		n119 Nasonia_vitripennis,
+[120] 		n120 Apis_mellifera,
+[121] 		n121 Messor_pergandei,
+[122] 		n122 Lasius_niger,
+[123] 		n123 Camponotus_floridanus,
+[124] 		n124 Pimpla_turionellae,
+[125] 		n125 Lissonota_catenator,
+[126] 		n126 Cosmoconus_meridionator,
+[127] 		n127 Habrobracon_juglandis,
+[128] 		n128 Macrocentrus_cingulum,
+[129] 		n129 Habrobracon_hebetor,
+[130] 		n130 Coeloides_vancouverensis,
+[131] 		n131 Sialis_mitsuhashii_okamoto,
+[132] 		n132 Inocellia_japonica,
+[133] 		n133 Stylops_spp,
+[134] 		n134 Dineutus_mellyi,
+[135] 		n135 Hydaticus_pacificus,
+[136] 		n136 Carabus_insulicola,
+[137] 		n137 Pyrocoelia_rufa,
+[138] 		n138 Hotaria_parvula,
+[139] 		n139 Aquatica_lateralis,
+[140] 		n140 Nipponoluciola_cruciata,
+[141] 		n141 Hydrophilus_piceus,
+[142] 		n142 Phyllophaga_fervida,
+[143] 		n143 Odontotaenius_disjunctus,
+[144] 		n144 Dermestes_frischii,
+[145] 		n145 Lytta_viridana,
+[146] 		n146 Tribolium_confusum,
+[147] 		n147 Tribolium_castaneum,
+[148] 		n148 Tenebrio_molitor,
+[149] 		n149 Sphenophorus_callosus,
+[150] 		n150 Sitophilus_oryzae,
+[151] 		n151 Otiorhynchus_ligustici,
+[152] 		n152 Callosobruchus_maculatus,
+[153] 		n153 Acanthoscelides_obtectus,
+[154] 		n154 Euryope_terminalis,
+[155] 		n155 Corynodes_pusis,
+[156] 		n156 Leptinotarsa_decemlineata,
+[157] 		n157 Calligrapha_multipunctata,
+[158] 		n158 Stenopsyche_griseipennis,
+[159] 		n159 Neomicropteryx_nipponensis,
+[160] 		n160 Endoclita_signifer,
+[161] 		n161 Epiphyas_postvittana,
+[162] 		n162 Pieris_rapae,
+[163] 		n163 Pararge_aegeria,
+[164] 		n164 Nymphalis_antiopa,
+[165] 		n165 Parnassius_glacialis,
+[166] 		n166 Luehdorfia_japonica,
+[167] 		n167 Byasa_alcinous_alcinous,
+[168] 		n168 Pectinophora_gossypiella,
+[169] 		n169 Antheraea_pernyi,
+[170] 		n170 Bombyx_mori,
+[171] 		n171 Helicoverpa_zea,
+[172] 		n172 Spilosoma_virginica,
+[173] 		n173 Amata_fortunei,
+[174] 		n174 Boreus_westwoodi,
+[175] 		n175 Ctenocephalides_felis,
+[176] 		n176 Bittacus_laevipes,
+[177] 		n177 Panorpodes_paradoxa,
+[178] 		n178 Panorpa_pryeri,
+[179] 		n179 Phlebotomus_papatasi,
+[180] 		n180 Clogmia_albipunctata,
+[181] 		n181 Anopheles_gambiae,
+[182] 		n182 Culiseta_inornata,
+[183] 		n183 Culex_quinquefasciatus,
+[184] 		n184 Aedes_aegypti,
+[185] 		n185 Simulium_pictipes,
+[186] 		n186 Smittia_sp,
+[187] 		n187 Chironomus_sp,
+[188] 		n188 Chironomus_confinis,
+[189] 		n189 Miastor_metraloas,
+[190] 		n190 Mayetiola_destructor,
+[191] 		n191 Sciara_sp,
+[192] 		n192 Bradysia_coprophila,
+[193] 		n193 Megaselia_abdita,
+[194] 		n194 Bactrocera_tryoni,
+[195] 		n195 Melophagus_ovinus,
+[196] 		n196 Stomoxys_calcitrans,
+[197] 		n197 Musca_domestica,
+[198] 		n198 Phormia_regina,
+[199] 		n199 Lucilia_sericata,
+[200] 		n200 Calliphora_vicina,
+[201] 		n201 Drosophila_willistoni,
+[202] 		n202 Drosophila_melanogaster,
+[203] 		n203 Drosophila_busckii,
+[204] 		n204 Drosophila_funebris,
+[205] 		n205 Drosophila_immigrans,
+[206] 		n206 Drosophila_americana,
+[207] 		n207 Drosophila_virilis,
+[208] 		n208 Drosophila_gibberosa,
+[209] 		n209 Drosophila_repleta,
+[210] 		n210 Drosophila_hydei;
+	TREE GC_mech = (((n0,n1),(((n2,n3),(n4,n5,n6,n7,n8)),(((n9,(n10,(n11,(n12,n13)))),(n14,n15,(n16,n17),(n18,(n19,n20)),((n21,((n22,n23),(n24,(n25,n26))))))),(((n27,n28),(n29,(n30,n31))),(n32,((n33,(((n34,n35),(((n36),(n37,n38)),(n39,(n40,n41,n42)))),((n43,(n44,n45)),((n46,n47,n48),(n49,(n50,(n51,(n52,((n53,(n54,n55)),(n56,((n57,n58),(n59,n60,n61)))))))))))),((((n62,n63,n64),(n65,((n66,n67),(n68,n69)))),(n70,((n71,n72),(n73,((n74,(n75,n76)),((n77,n78),(n79,n80))))))),(((n81,n82),(n83,(n84,n85))),(n86,((n87,n88),(n89,(((n90,n91),((n92,(n93,(n94,n95))),((n96,n97,n98),(n99,(n100,n101,n102,n103))))),(((n104,n105),((n106,(n107,n108)),(n109,(n110,(n111,n112))))),((n113,n114),((((n115,n116)),((((n117,n118,n119)),(n120,(n121,n122,n123))),((n124,n125,n126),(n127,n128,n129,n130)))),(((n131,n132),(n133,((n134,(n135,n136)),((n137,n138,n139,n140),((n141,(n142,n143)),(n144,((n145,(n146,n147,n148)),((n149,n150,n151),((n152,n153),((n154,n155),(n156,n157))))))))))),((n158,(n159,(n160,(n161,(((n162,(n163,n164)),(n165,n166,n167)),(n168,((n169,n170),(n171,(n172,n173))))))))),((n174,(((n175),n176),(n177,n178))),(((n179,n180),((n181,(n182,n183,n184)),(n185,(n186,n187,n188)))),(((n189,n190),(n191,n192)),(n193,(n194,((n195,((n196,n197),(n198,n199,n200))),((n201,n202),(n203,((n204,n205),((n206,n207),(n208,(n209,n210))))))))))))))))))))))))))))));
+
+END;
+
+
+BEGIN TREES[!'This  "temporary" tree block was written by Mesquite to hold the modified tree being edited in a tree window.'];
+	Title Temp1529.1752093061468.541609082793313854;
+	ID 0197f0f942dd5;
+	LINK Taxa = GC_mech_taxa;
+	TRANSLATE
+[0] 		1 Thulinia_stephaniae,
+[1] 		2 Hypsibius_dujardini,
+[2] 		3 Epiperipatus_biolleyi,
+[3] 		4 Eoperipatus_weldoni,
+[4] 		5 Peripatopsis_capensis,
+[5] 		6 Peripatopsis_balfouri,
+[6] 		7 Opisthopatus_roseus,
+[7] 		8 Peripatopsis_sedgwicki,
+[8] 		9 Peripatopsis_moseleyi,
+[9] 		10 Pycnogonum_litorale,
+[10] 		11 Endeis_spinosa,
+[11] 		12 Propallene_longiceps,
+[12] 		13 Nymphon_hirtum,
+[13] 		14 Nymphon_brevirostre,
+[14] 		15 Limulus_polyphemus,
+[15] 		16 Pselaphochernes_scorpioides,
+[16] 		17 Phalangium_opilio,
+[17] 		18 Opilio_parietinus,
+[18] 		19 Acarus_siro,
+[19] 		20 Tetranychus_urticae,
+[20] 		21 Cheyletus_eruditus,
+[21] 		22 Euscorpius_carpathicus,
+[22] 		23 Agelena_labyrinthica,
+[23] 		24 Parasteatoda_tepidariorum,
+[24] 		25 Thelyphonus_caudatus,
+[25] 		26 Phrynus_marginemaculatus,
+[26] 		27 Heterophrynus_pumilio,
+[27] 		28 Strigamia_maritima,
+[28] 		29 Scolopendra_cingulata,
+[29] 		30 Hanseniella_agilis,
+[30] 		31 Glomeris_marginata,
+[31] 		32 Pauropus_silvaticus,
+[32] 		33 Cyprideis_littoralis,
+[33] 		34 Nebalia_bipes,
+[34] 		35 Anaspides_tasmaniae,
+[35] 		36 Meganyctiphanes_norvegica,
+[36] 		37 Panulirus_japonicus,
+[37] 		38 Macrobrachium_nipponense,
+[38] 		39 Caridina_laevis,
+[39] 		40 Sicyonia_ingentis,
+[40] 		41 Penaeus_vannamei,
+[41] 		42 Penaeus_monodon,
+[42] 		43 Penaeus_japonicus,
+[43] 		44 Gammarus_pulex,
+[44] 		45 Orchestia_cavimana,
+[45] 		46 Parhyale_hawaiensis,
+[46] 		47 Neomysis_integer,
+[47] 		48 Mesopodopsis_orientalis,
+[48] 		49 Hemimysis_lamornae,
+[49] 		50 Heterotanis_oerstedi,
+[50] 		51 Asellus_aquaticus,
+[51] 		52 Bopyroides_hippolytes,
+[52] 		53 Cyathura_polita,
+[53] 		54 Limnoria_lignorum,
+[54] 		55 Idotea_neglecta,
+[55] 		56 Idotea_granulosa,
+[56] 		57 Ligia_exotica,
+[57] 		58 Armadillidium_vulgare,
+[58] 		59 Armadillidium_nasatum,
+[59] 		60 Porcellionides_pruinosus,
+[60] 		61 Porcellio_scaber,
+[61] 		62 Porcellio_laevis,
+[62] 		63 Eudiaptomus_vulgaris,
+[63] 		64 Calanus_finmarchicus,
+[64] 		65 Diaptomus_coeruleus,
+[65] 		66 Tisbe_furcata,
+[66] 		67 Notopterophorus_papilio,
+[67] 		68 Doropygus_gibber,
+[68] 		69 Pandarus_sinuatus,
+[69] 		70 Orthagoriscicola_muricata,
+[70] 		71 Artemia_salina,
+[71] 		72 Triops_longicaudatus,
+[72] 		73 Triops_granarius,
+[73] 		74 Paralimnadia_stanleyana,
+[74] 		75 Lathonura_rectirostris,
+[75] 		76 Simocephalus_vetulus,
+[76] 		77 Daphnia_magna,
+[77] 		78 Penilia_avirostris,
+[78] 		79 Holopedium_gibberum,
+[79] 		80 Polyphemus_pediculus,
+[80] 		81 Bythotrephes_longimanus,
+[81] 		82 Tomocerus_ishibashii_yosii,
+[82] 		83 Tomocerus_cuspidatus,
+[83] 		84 Allacma_fusca,
+[84] 		85 Anurida_maritima,
+[85] 		86 Tetrodontophora_bielanensis,
+[86] 		87 Petrobius_brevistylis,
+[87] 		88 Thermobia_domestica,
+[88] 		89 Lepisma_saccharina,
+[89] 		90 Epiophlebia_superstes,
+[90] 		91 Labidura_riparia,
+[91] 		92 Forficula_auricularia,
+[92] 		93 Carausius_morosus,
+[93] 		94 Rhombodera_crassa,
+[94] 		95 Blatta_orientalis,
+[95] 		96 Blattella_germanica,
+[96] 		97 Schistocerca_gregaria,
+[97] 		98 Melanoplus_differentialis,
+[98] 		99 Locusta_migratoria,
+[99] 		100 Conocephalus_brevipennis,
+[100] 		101 Oecanthus_niveus,
+[101] 		102 Gryllus_campestris,
+[102] 		103 Gryllus_bimaculatus,
+[103] 		104 Acheta_domesticus,
+[104] 		105 Haplothrips_verbasci,
+[105] 		106 Bactrothrips_brevitubus,
+[106] 		107 Acyrthosiphon_pisum,
+[107] 		108 Planococcus_citri,
+[108] 		109 Icerya_purchasi,
+[109] 		110 Rhodnius_prolixus,
+[110] 		111 Pyrrhocoris_apterus,
+[111] 		112 Oncopeltus_fasciatus,
+[112] 		113 Blissus_leucopterus_hirtus,
+[113] 		114 Liposcelis_divergens,
+[114] 		115 Archipsocopsis_fernandi,
+[115] 		116 Nematus_ribesii,
+[116] 		117 Athalia_rosae,
+[117] 		118 Trichogramma_evanescens,
+[118] 		119 Copidosoma_floridanum,
+[119] 		120 Nasonia_vitripennis,
+[120] 		121 Apis_mellifera,
+[121] 		122 Messor_pergandei,
+[122] 		123 Lasius_niger,
+[123] 		124 Camponotus_floridanus,
+[124] 		125 Pimpla_turionellae,
+[125] 		126 Lissonota_catenator,
+[126] 		127 Cosmoconus_meridionator,
+[127] 		128 Habrobracon_juglandis,
+[128] 		129 Macrocentrus_cingulum,
+[129] 		130 Habrobracon_hebetor,
+[130] 		131 Coeloides_vancouverensis,
+[131] 		132 Sialis_mitsuhashii_okamoto,
+[132] 		133 Inocellia_japonica,
+[133] 		134 Stylops_spp,
+[134] 		135 Dineutus_mellyi,
+[135] 		136 Hydaticus_pacificus,
+[136] 		137 Carabus_insulicola,
+[137] 		138 Pyrocoelia_rufa,
+[138] 		139 Hotaria_parvula,
+[139] 		140 Aquatica_lateralis,
+[140] 		141 Nipponoluciola_cruciata,
+[141] 		142 Hydrophilus_piceus,
+[142] 		143 Phyllophaga_fervida,
+[143] 		144 Odontotaenius_disjunctus,
+[144] 		145 Dermestes_frischii,
+[145] 		146 Lytta_viridana,
+[146] 		147 Tribolium_confusum,
+[147] 		148 Tribolium_castaneum,
+[148] 		149 Tenebrio_molitor,
+[149] 		150 Sphenophorus_callosus,
+[150] 		151 Sitophilus_oryzae,
+[151] 		152 Otiorhynchus_ligustici,
+[152] 		153 Callosobruchus_maculatus,
+[153] 		154 Acanthoscelides_obtectus,
+[154] 		155 Euryope_terminalis,
+[155] 		156 Corynodes_pusis,
+[156] 		157 Leptinotarsa_decemlineata,
+[157] 		158 Calligrapha_multipunctata,
+[158] 		159 Stenopsyche_griseipennis,
+[159] 		160 Neomicropteryx_nipponensis,
+[160] 		161 Endoclita_signifer,
+[161] 		162 Epiphyas_postvittana,
+[162] 		163 Pieris_rapae,
+[163] 		164 Pararge_aegeria,
+[164] 		165 Nymphalis_antiopa,
+[165] 		166 Parnassius_glacialis,
+[166] 		167 Luehdorfia_japonica,
+[167] 		168 Byasa_alcinous_alcinous,
+[168] 		169 Pectinophora_gossypiella,
+[169] 		170 Antheraea_pernyi,
+[170] 		171 Bombyx_mori,
+[171] 		172 Helicoverpa_zea,
+[172] 		173 Spilosoma_virginica,
+[173] 		174 Amata_fortunei,
+[174] 		175 Boreus_westwoodi,
+[175] 		176 Ctenocephalides_felis,
+[176] 		177 Bittacus_laevipes,
+[177] 		178 Panorpodes_paradoxa,
+[178] 		179 Panorpa_pryeri,
+[179] 		180 Phlebotomus_papatasi,
+[180] 		181 Clogmia_albipunctata,
+[181] 		182 Anopheles_gambiae,
+[182] 		183 Culiseta_inornata,
+[183] 		184 Culex_quinquefasciatus,
+[184] 		185 Aedes_aegypti,
+[185] 		186 Simulium_pictipes,
+[186] 		187 Smittia_sp,
+[187] 		188 Chironomus_sp,
+[188] 		189 Chironomus_confinis,
+[189] 		190 Miastor_metraloas,
+[190] 		191 Mayetiola_destructor,
+[191] 		192 Sciara_sp,
+[192] 		193 Bradysia_coprophila,
+[193] 		194 Megaselia_abdita,
+[194] 		195 Bactrocera_tryoni,
+[195] 		196 Melophagus_ovinus,
+[196] 		197 Stomoxys_calcitrans,
+[197] 		198 Musca_domestica,
+[198] 		199 Phormia_regina,
+[199] 		200 Lucilia_sericata,
+[200] 		201 Calliphora_vicina,
+[201] 		202 Drosophila_willistoni,
+[202] 		203 Drosophila_melanogaster,
+[203] 		204 Drosophila_busckii,
+[204] 		205 Drosophila_funebris,
+[205] 		206 Drosophila_immigrans,
+[206] 		207 Drosophila_americana,
+[207] 		208 Drosophila_virilis,
+[208] 		209 Drosophila_gibberosa,
+[209] 		210 Drosophila_repleta,
+[210] 		211 Drosophila_hydei;
+	TREE 'Majority-Rule Consensus of 1 trees from Trees stored in block "GC mech tree"+' = ((1,2)[&consensusFrequency = 1.0 ],(((3,4)[&consensusFrequency = 1.0 ],(5,6,7,8,9)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(((10,(11,(12,(13,14)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(15,16,(17,18)[&consensusFrequency = 1.0 ],(19,(20,21)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(22,((23,24)[&consensusFrequency = 1.0 ],(25,(26,27)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 2.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(((28,29)[&consensusFrequency = 1.0 ],(30,(31,32)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(33,((34,(((35,36)[&consensusFrequency = 1.0 ],((37,(38,39)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(40,(41,42,43)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((44,(45,46)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((47,48,49)[&consensusFrequency = 1.0 ],(50,(51,(52,(53,((54,(55,56)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(57,((58,59)[&consensusFrequency = 1.0 ],(60,61,62)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((((63,64,65)[&consensusFrequency = 1.0 ],(66,((67,68)[&consensusFrequency = 1.0 ],(69,70)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(71,((72,73)[&consensusFrequency = 1.0 ],(74,((75,(76,77)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((78,79)[&consensusFrequency = 1.0 ],(80,81)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(((82,83)[&consensusFrequency = 1.0 ],(84,(85,86)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(87,((88,89)[&consensusFrequency = 1.0 ],(90,(((91,92)[&consensusFrequency = 1.0 ],((93,(94,(95,96)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((97,98,99)[&consensusFrequency = 1.0 ],(100,(101,102,103,104)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(((105,106)[&consensusFrequency = 1.0 ],((107,(108,109)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(110,(111,(112,113)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((114,115)[&consensusFrequency = 1.0 ],(((116,117)[&consensusFrequency = 2.0 ],(((118,119,120)[&consensusFrequency = 2.0 ],(121,(122,123,124)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((125,126,127)[&consensusFrequency = 1.0 ],(128,129,130,131)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(((132,133)[&consensusFrequency = 1.0 ],(134,((135,(136,137)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((138,139,140,141)[&consensusFrequency = 1.0 ],((142,(143,144)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(145,((146,(147,148,149)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((150,151,152)[&consensusFrequency = 1.0 ],((153,154)[&consensusFrequency = 1.0 ],((155,156)[&consensusFrequency = 1.0 ],(157,158)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((159,(160,(161,(162,(((163,(164,165)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(166,167,168)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(169,((170,171)[&consensusFrequency = 1.0 ],(172,(173,174)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((175,((176,177)[&consensusFrequency = 1.0 ],(178,179)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(((180,181)[&consensusFrequency = 1.0 ],((182,(183,184,185)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(186,(187,188,189)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(((190,191)[&consensusFrequency = 1.0 ],(192,193)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],(194,(195,((196,((197,198)[&consensusFrequency = 1.0 ],(199,200,201)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ],((202,203)[&consensusFrequency = 1.0 ],(204,((205,206)[&consensusFrequency = 1.0 ],((207,208)[&consensusFrequency = 1.0 ],(209,(210,211)[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 1.0 ])[&consensusFrequency = 2.0 ];
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1752094557241;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 6072353903498256318;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 2788252411995078157;
+			mqVersion 400;
+			checksumv 0 3 3483209184 null  getNumChars 1 numChars 1 getNumTaxa 211 numTaxa 211   short true   bits 3   states 3   sumSquaresStatesOnly 445.0 sumSquares 445.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setUniqueID 0197f0e2276013;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1281 699;
+			setLocation -6 -6;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.io.InterpretFastaDNA.InterpretFastaDNA;
+		tell It;
+			includeGaps false;
+			simplifyTaxonName false;
+			convertMultStateToMissing true;
+			writeExcludedCharacters true;
+			uniqueSuffix '';
+		endTell;
+		getEmployee  #mesquite.io.InterpretFastaDNAByOTUID.InterpretFastaDNAByOTUID;
+		tell It;
+			includeGaps false;
+			simplifyTaxonName false;
+			convertMultStateToMissing true;
+			writeExcludedCharacters true;
+			uniqueSuffix '';
+		endTell;
+		getEmployee  #mesquite.io.InterpretFastaProtein.InterpretFastaProtein;
+		tell It;
+			includeGaps false;
+			simplifyTaxonName false;
+			convertMultStateToMissing true;
+			writeExcludedCharacters true;
+			uniqueSuffix '';
+		endTell;
+		getEmployee  #mesquite.chromaseq.ExportFastaDNAForGenBankTbl2Asn.ExportFastaDNAForGenBankTbl2Asn;
+		tell It;
+			includeGaps false;
+			simplifyTaxonName false;
+			convertMultStateToMissing true;
+			writeExcludedCharacters true;
+			uniqueSuffix '';
+		endTell;
+		getEmployee  #mesquite.chromaseq.ExportFastaDNAForSequin.ExportFastaDNAForSequin;
+		tell It;
+			includeGaps false;
+			simplifyTaxonName false;
+			convertMultStateToMissing true;
+			writeExcludedCharacters true;
+			uniqueSuffix '';
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #6072353903498256318 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #6072353903498256318;
+				getWindow;
+				tell It;
+					setTargetValue '';
+					setWandColumn -1;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setUniqueID 0197f0e2297014;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1181 627;
+					setLocation -6 -6;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					reviewColumnWidths;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #6072353903498256318  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.consensus.ConsensusTree.ConsensusTree;
+				tell It;
+					setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+					tell It;
+						setTreeBlock 1;
+						setTreeBlockID 0197f0e228bb3;
+						toggleUseWeights off;
+					endTell;
+					setConsenser  #mesquite.consensus.MajRuleTree.MajRuleTree;
+					tell It;
+						rooting 0;
+						useWeights on;
+						dumpTable off;
+						frequencyLimit 0.5;
+					endTell;
+				endTell;
+				setAssignedID 1529.1752093061468.541609082793313854;
+				getTreeWindow;
+				tell It;
+					readUnsavedTreeBlock Temp1529.1752093061468.541609082793313854;
+					setUniqueID 0197f0e2715e16;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1181 627;
+					setLocation -6 -6;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							orientRight;
+							branchLengthsDisplay 1;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+							setTaxonSqueeze 1.0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels off;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+					getEmployee #mesquite.trees.CollapseCladeNameHighlight.CollapseCladeNameHighlight;
+					tell It;
+						setMode 5;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					pinToLastTree off;
+					setDrawingSizeMode 0;
+					toggleLegendFloat off;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName off;
+					showWindow;
+					newAssistant  #mesquite.ancstates.TraceCharacterHistory.TraceCharacterHistory;
+				tell It;
+					suspend ;
+					setDisplayMode  #mesquite.ancstates.ShadeStatesOnTree.ShadeStatesOnTree;
+					tell It;
+						toggleLabels off;
+						togglePredictions off;
+						toggleGray off;
+					endTell;
+					setHistorySource  #mesquite.ancstates.RecAncestralStates.RecAncestralStates;
+					tell It;
+						getCharacterSource  #mesquite.charMatrices.CharSrcCoordObed.CharSrcCoordObed;
+						tell It;
+							setCharacterSource #mesquite.charMatrices.StoredCharacters.StoredCharacters;
+							tell It;
+								setDataSet #2788252411995078157;
+							endTell;
+						endTell;
+						setMethod  #mesquite.parsimony.ParsAncestralStates.ParsAncestralStates;
+						tell It;
+							setModelSource  #mesquite.parsimony.CurrentParsModels.CurrentParsModels;
+							toggleMPRsMode off;
+						endTell;
+						toggleShowSelectedOnly off;
+					endTell;
+					setCharacter 1;
+					setMapping 1;
+					toggleShowLegend on;
+					setColorMode 0;
+					toggleWeights on;
+					setInitialOffsetX 20;
+					setInitialOffsetY 4;
+					setLegendWidth 142;
+					setLegendHeight 161;
+					resume ;
+				endTell;
+					newAssistant  #mesquite.ancstates.TraceAllChanges.TraceAllChanges;
+				tell It;
+					toggleByCharacters on;
+					ambiguousChangesAlso on;
+					traceSingleCharacter off;
+					tickOnly off;
+					constantDistance off;
+					setSingleCharacter -1;
+					setBarLength 16;
+					toggleSelectedOnly on;
+					toggleSelectedCharsOnly off;
+					toggleShowTerminals off;
+					toggleShowTable off;
+					toggleShowCharNames on;
+					toggleShowStateNames on;
+					getCharSource #mesquite.charMatrices.CharMatrixCoordIndep.CharMatrixCoordIndep;
+					tell It;
+						setCharacterSource #mesquite.charMatrices.StoredMatrices.StoredMatrices;
+						tell It;
+							setDataSet #2788252411995078157;
+						endTell;
+					endTell;
+					getReconstructor #mesquite.ancstates.AncestralStatesAll.AncestralStatesAll;
+					tell It;
+						setMethod  #mesquite.parsimony.ParsAncestralStates.ParsAncestralStates;
+						tell It;
+							setModelSource  #mesquite.parsimony.CurrentParsModels.CurrentParsModels;
+							toggleMPRsMode on;
+						endTell;
+					endTell;
+					desuppress;
+					getEmployee #mesquite.ancstates.ShadeStatesOnTree.ShadeStatesOnTree;
+					tell It;
+						toggleLabels off;
+						togglePredictions off;
+						toggleGray off;
+					endTell;
+				endTell;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+				getEmployee #mesquite.genomic.ShowMatrixInTreeWindow.ShowMatrixInTreeWindow;
+				tell It;
+					chooseOrLink 0;
+					fieldWidth 0;
+					selectedOnly false;
+					showControlIcon true;
+					useTraceColors true;
+					showMatrix false;
+				endTell;
+				getEmployee #mesquite.trees.BranchPropertyDisplayControl.BranchPropertyDisplayControl;
+				tell It;
+					showAssociate Node_label 0 false;
+					setBooleans Node_label 0  false false false false true false false false;
+					setNumbers Node_label 0  12 0 0 4 0 ?;
+					showAssociate Branch_length 0 false;
+					setBooleans Branch_length 0  true false false true true false false false;
+					setNumbers Branch_length 0  12 0 0 4 0 ?;
+					showAssociate consensusFrequency 2 false;
+					setBooleans consensusFrequency 2  false false false false false true false false;
+					setNumbers consensusFrequency 2  12 0 0 0 0 ?;
+				endTell;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColorRGB #ff0000;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #2788252411995078157 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setUniqueID 0197f0e22ca315;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1181 627;
+					setLocation -6 -6;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					colorCells  #mesquite.charMatrices.NoColor.NoColor;
+					colorRowNames  #mesquite.charMatrices.NoColor.NoColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges on;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleReduceCellBorders off;
+					toggleAutoWCharNames on;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleColorOnlyTaxonNames off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					togglePaleMissing off;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize on;
+					toggleColorsPanel off;
+					toggleDiagonal on;
+					setDiagonalHeight 80;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.DefaultCellColor.DefaultCellColor;
+				tell It;
+					getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+					tell It;
+						setStateLimit 9;
+						toggleUniformMaximum on;
+					endTell;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor;
+				tell It;
+					panelOpen true;
+				endTell;
+			endTell;
+		endTell;
+		newAssistant  #mesquite.ancstates.SummarizeChgOverTrees.SummarizeChgOverTrees;
+		tell It;
+			getSummarizer  #mesquite.ancstates.SummarizeChanges.SummarizeChanges;
+			tell It;
+				suppress ;
+				setBranchMode false;
+				setHistorySource  #mesquite.ancstates.RecAncestralStates.RecAncestralStates;
+				tell It;
+					getCharacterSource  #mesquite.charMatrices.CharSrcCoordObed.CharSrcCoordObed;
+					tell It;
+						setCharacterSource #mesquite.charMatrices.StoredCharacters.StoredCharacters;
+						tell It;
+							setDataSet #2788252411995078157;
+						endTell;
+					endTell;
+					setMethod  #mesquite.parsimony.ParsAncestralStates.ParsAncestralStates;
+					tell It;
+						setModelSource  #mesquite.parsimony.CurrentParsModels.CurrentParsModels;
+						toggleMPRsMode on;
+					endTell;
+					toggleShowSelectedOnly off;
+				endTell;
+				setCharacter 1;
+				setMaxNumMappings 50;
+				setMaxChangesRecorded 10;
+				setTreeSource  #mesquite.treefarm.CurrentTree.CurrentTree;
+				tell It;
+					setTreeSource  #mesquite.trees.TreeOfContext.TreeOfContext;
+					tell It;
+						setContextID 1529.1752093061468.541609082793313854;
+					endTell;
+				endTell;
+				setNumTrees 1;
+				makeWindow;
+				tell It;
+					setUniqueID 0197f0e2e51a17;
+					setExplanationSize 0;
+					setAnnotationSize 0;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1181 677;
+					setLocation -6 -6;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+				endTell;
+				desuppress ;
+			endTell;
+		endTell;
+		getWindow;
+		tell It;
+			setResourcesState false false 100;
+			findWindow 0197f0e2715e16;
+			tell It;
+				setAsFront;
+			endTell;
+			desuppress;
+		endTell;
+		endTell;
+end;
+
+
